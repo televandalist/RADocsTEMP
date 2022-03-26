@@ -1,0 +1,45 @@
+site_name: RADocs
+site_url: 'https://docs.retroachievements.org/'
+site_description: >-
+  RetroAchievements' documentation page.
+repo_name: 'televandalist/RADocsTEMP'
+repo_url: 'https://github.com/televandalist/RADocsTEMP'
+nav:
+  - 'About': 'index.md'
+  - 'Start':
+      - 'Getting Started': 'start/gettingstarted.md'
+  - 'For Players':
+    - 'Users Code of Conduct': 'players/codeofconduct.md'
+    - 'Global Leaderboard and Achievement Hunting Rules': 'players/glahhr.md'
+    - 'Emulators':
+      - 'RetroArch': 'players/emulators/retroarch.md'
+      - 'RALibretro': 'players/emulators/ralibretro.md'
+  - 'For Contributors':
+    - 'Developers Code of Conduct': 'contributors/devcoc.md'
+    - 'Achievement Development':
+      - 'Glossary': 'contributors/cheevodev/glossary.md'
+      - 'Junior Developers': 'contributors/juniordevelopers.md'
+    - 'Artists':
+      - 'Badge Guildelines': 'contributors/artists/badges.md'
+  - 'Contribute to the Docs':
+    - 'Editing the Docs': 'help/editingdocs.md'
+  - 'Support':
+    - 'FAQ': 'support/faq.md'
+    - 'Privacy Policy': 'support/privacy-policy.md'
+extra:
+  version: '0.0.1'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/libretro
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/libretro
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/libretro
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/libretro
