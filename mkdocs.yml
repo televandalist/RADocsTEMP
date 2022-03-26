@@ -5,27 +5,48 @@ site_description: >-
 repo_name: 'televandalist/RADocsTEMP'
 repo_url: 'https://github.com/televandalist/RADocsTEMP'
 nav:
-  - 'About': 'index.md'
-  - 'Start':
-      - 'Getting Started': 'start/gettingstarted.md'
-  - 'For Players':
-    - 'Users Code of Conduct': 'players/codeofconduct.md'
-    - 'Global Leaderboard and Achievement Hunting Rules': 'players/glahhr.md'
-    - 'Emulators':
-      - 'RetroArch': 'players/emulators/retroarch.md'
-      - 'RALibretro': 'players/emulators/ralibretro.md'
-  - 'For Contributors':
-    - 'Developers Code of Conduct': 'contributors/devcoc.md'
-    - 'Achievement Development':
-      - 'Glossary': 'contributors/cheevodev/glossary.md'
-      - 'Junior Developers': 'contributors/juniordevelopers.md'
-    - 'Artists':
-      - 'Badge Guildelines': 'contributors/artists/badges.md'
-  - 'Contribute to the Docs':
-    - 'Editing the Docs': 'help/editingdocs.md'
+  - 'Home': 'index.md'
+
+  - 'General':
+      - 'General Home': 'general/generalhome.md'
+      - 'RetroAchievements Manifesto': 'general/manifesto.md'
+      - 'Users Code of Conduct': 'general/usercoc.md'
+      - 'Global Leaderboard and Achievement Hunting Rules': 'general/leaderboard-and-achievement-hunting-rules.md'
+      - 'FAQ': 'general/userfaq.md'
+      - 'Emulators':
+        - 'RetroArch': 'general/retroarch.md'
+        - 'RALibretro': 'general/ralibretro.md'
+
+  - 'Developers':
+      - 'Developers Home': 'developers/devhome.md'
+      - 'Developers Code of Conduct': 'developers/devcoc.md'
+      - 'Content Guidelines': 'developers/contentguidelines.md'
+      - 'Junior Developers': 'developers/juniordevs.md'
+      - 'Emulator Support and Issues': 'developers/supported-and-unsupported.md'
+
+  - 'Artists':
+      - 'Artists Home': 'artists/arthome.md'
+      - 'Badge Guildelines': 'artists/badges.md'
+
+  - 'Tutorials':
+      - 'Achievement Development Home': 'create/createhome.md'
+      - 'New Achievement Set Checklist': 'create/checklist.md'
+      - 'Achievement Creation Tutorials': 'create/achievement-creation-tutorials.md'
+      - 'Condition Syntax': 'create/condition-syntax.md'
+      - 'Minimum Required Versions for Logic Features': 'create/minimum-required-versions-for-logic-features.md'
+      - 'Glossary': 'create/glossary.md'
+
+  - 'Community':
+      - 'Discord Server': 'discord.md'
+
+  - 'Events':
+      - 'DevQuest': 'events/devquest.md'
+
   - 'Support':
-    - 'FAQ': 'support/faq.md'
-    - 'Privacy Policy': 'support/privacy-policy.md'
+      - 'Privacy Policy': 'support/privacy-policy.md'
+
+  - 'About Us': 'about.md'
+
 extra:
   version: '0.0.1'
   font:
@@ -34,12 +55,69 @@ extra:
   i18n:
     prev: 'Previous'
     next: 'Next'
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/libretro
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/libretro
-    - icon: fontawesome/brands/facebook
-      link: https://facebook.com/libretro
-    - icon: fontawesome/brands/youtube
-      link: https://youtube.com/libretro
+
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - markdown.extensions.admonition
+  - markdown.extensions.codehilite:
+      linenums: true
+      guess_lang: false
+  - markdown.extensions.nl2br
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic:
+      mode: accept
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  #     linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: libretro
+      repo: docs
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - tables
+
+theme:
+  name: material
+  custom_dir: 'docs/theme'
+  features:
+    - navigation.tabs
+  palette:
+    primary: 'blue grey'
+    accent: 'light blue'
+
+extra_css:
+  - stylesheets/dark_theme.css
+  - stylesheets/codehilite.css
+  - stylesheets/tablesort.css
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tablesort.js
