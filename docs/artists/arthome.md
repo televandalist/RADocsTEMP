@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
+# How to Art
 
-# Howdy
-
-Hey there!
+96x95!
