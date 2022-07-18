@@ -29,4 +29,6 @@ These are the biggest objectives in this overhaul:
 6. Clarify and simplify as much as we can. Is there are page somewhere with five paragraphs that just never seem to get to the point? Can it be rewritten to be a single paragraph? By all means, do it. 
 
 
+-------------------------
 
+The contents of this repo as of July 2022 are a bit of a mess. Most of the existing RADocs pages have been transferred here, but nothing has been organized or optimized yet. There are lots of broken links, stuff that doesn't make sense, placeholders, etc. The time I've spent working on the overhaul so far has been spent getting familiar with mkdocs + material themes, etc. Things are going to start moving quickly here. :) - tele
