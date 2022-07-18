@@ -3,10 +3,7 @@
 Welcome to the NEW [RetroAchievements](https://www.retroachievements.org) documentation!
 
 !!! attention "Under Construction!"
-    The docs are undergoing a much needed overhaul, but they are going to be better than ever very soon!
-
-Here is a breakdown of the categories:
-
+    The docs are undergoing a much needed overhaul and I only put this here to test this thing out!
 
 For community guidelines, you must know the [RetroAchievements Manifesto](/ramanifesto/) and adhere the [User's Code of Conduct](user-coc).
 
