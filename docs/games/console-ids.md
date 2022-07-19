@@ -70,5 +70,7 @@
 |068|Sega Pico|
 |069|Mega Duck|
 |070|Zeebo|
+|071|Arduboy|
+|072|WASM-4|
 |100|Hubs|N/A|
 |101|Events|N/A|
