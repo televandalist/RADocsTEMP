@@ -156,6 +156,19 @@ extra:
   i18n:
     prev: 'Previous'
     next: 'Next'
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://retroachievements.org
+      name: RetroAchievements Website
+    - icon: fontawesome/brands/github
+      link: https://github.com/RetroAchievements/
+      name: RetroAchievements GitHub Repository
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/dq2E4hE
+      name: RetroAchievements Discord Server
+    - icon: fontawesome/brands/twitter
+      link: https:twitter.com/RetroCheevos
+      name: RetroAchievements on Twitter
 
 markdown_extensions:
   - admonition
