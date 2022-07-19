@@ -6,7 +6,7 @@ Let's start jumping directly to the conclusion:
 
 ---
 
-Now let's elaborate why we are saying that.
+Now let's elaborate why we are saying that!
 
 RetroAchievements is a "young" project and is constantly evolving. It was launched in the late 2012, and in the early days the emulators and the site (database stuff, PHP, HTML, CSS, JavaScript, etc.) were developed by a single person: [Scott](https://retroachievements.org/User/Scott). Therefore the evolution occurred slowly.
 

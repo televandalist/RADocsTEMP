@@ -7,7 +7,7 @@ This document describes all the steps that any aspiring achievement developer mu
 
 Follow the [guidelines on the Developer's Code of Conduct](Developers-Code-of-Conduct#working-on-empty-sets) to find a game to work on achievements for it. The basics are that you must declare you plans to work on the game on in the forum, and then as you work on the game, add your plans for the game in the forum.
 
-**Tip**: for your first achievement set it's recommended to choose a game that doesn't yet have achievements **and** is not very popular.
+**Tip**: for your first achievement set, it's recommended to choose a game that doesn't yet have achievements **and** is not very popular.
 
 
 ## Planning your Achievement Set

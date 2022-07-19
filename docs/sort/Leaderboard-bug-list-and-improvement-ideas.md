@@ -9,7 +9,7 @@
 
 ### General
 
-- Make all leaderboard submits hardcore only.
+- Make all leaderboard submits hardcore only!
 - Always cancel on reset.
 - Add clone leaderboard button.
 - Usurp leaderboard: Change it so when a player matches a score the most recent entry goes on top.

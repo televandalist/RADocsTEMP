@@ -7,7 +7,7 @@ The "multi-emulation" feature is only possible because it uses [libretro](https:
 
 **RALibretro is a Work-in-Progress!!!**
 
-Currently the development is going on this repo: [https://github.com/RetroAchievements/RALibretro](https://github.com/RetroAchievements/RALibretro)
+Currently, the development is going on this repo: [https://github.com/RetroAchievements/RALibretro](https://github.com/RetroAchievements/RALibretro)
 
 Here's a list of known issues (feel free to report new issues if you find one): [https://github.com/RetroAchievements/RALibretro/issues](https://github.com/RetroAchievements/RALibretro/issues)
 

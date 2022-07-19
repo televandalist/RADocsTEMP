@@ -1,7 +1,7 @@
 ## 22-December-2017
 
 ### Site update
-1. Untracked status has been added as a possible user status. Untracked players do not show up in the global ranking. Instead of banning players who are found to be cheating they can be given the status of untracked. Also players who don't want to show up in the global rankings can also request this status, given by admin.
+1. Untracked status has been added as a possible user status. Untracked players do not show up in the global ranking. Instead of banning players who are found to be cheating they can be given the status of untracked. Also players who don't want to show up in the global rankings can also request this status, given by admin!
 
 ## 16-December-2017
 

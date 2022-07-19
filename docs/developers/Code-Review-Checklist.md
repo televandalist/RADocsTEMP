@@ -2,7 +2,7 @@ This is a list of things that code reviewers usually check when someone submits 
 
 ## Code Notes
 
-- [ ] Clearly written. [Example](https://i.imgur.com/y6VAiK1.png)
+- [ ] Clearly written! [Example](https://i.imgur.com/y6VAiK1.png)
 
 - [ ] For all addresses used in logic
 
@@ -21,7 +21,7 @@ This is a list of things that code reviewers usually check when someone submits 
 
 - [ ] Understanding the difference and the right use of PauseIf and ResetIf.
 
-- [ ] On a "get 100 coins" like achievement, use `> 100` rather than `= 100`.
+- [ ] On a "get 100 coins" like achievement, use `>= 100` rather than `= 100`.
 
 
 ## Achievement Design

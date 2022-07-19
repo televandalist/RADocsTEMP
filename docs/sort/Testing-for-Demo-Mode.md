@@ -1,6 +1,6 @@
 __Link to original post__ [on RetroAchievements](http://retroachievements.org/viewtopic.php?t=81)
 
-One of the more annoying things that can happen is if you leave your game running, and the game awards you achievements for reaching levels you haven't reached yet. This is fairly common, as many games of the 16-bit era still had 'attract modes', and is usually a pretty easy thing to fix with the achievements. 
+One of the more annoying things that can happen is if you leave your game running, and the game awards you achievements for reaching levels you haven't reached yet. This is fairly common, as many games of the 16-bit era still had 'attract modes', and is usually a pretty easy thing to fix with the achievements!
 
 We are looking in the game to find something that is set when the game is in a demo mode. Either a small piece of memory set to `0`, or `1`, or `0xff`. It could be anything really.
 

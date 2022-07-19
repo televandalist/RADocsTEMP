@@ -37,7 +37,7 @@ The style you choose for your designs is still up to you. You can break these ru
 
 #### Icon File and Size - Best Practices
 
-- Uploaded Icons should be square (have the same X and Y dimensions), otherwise the resulting image will be distorted and ugly.
+- Uploaded Icons should always be square (have the same X and Y dimensions), otherwise the resulting image will be distorted and ugly.
 - Upload using non-interlaced PNG format; avoid using a transparency layer as it will come out in the end with a flat white box.
 - Design images at 96x96 (preferred), 64x64, 48x48 or 32x32 for sharpest clarity. Icons and badges should be made in a way that the subject is clear even when sized at 32x32 as they are often reduced to this size, like on the global feed.
 

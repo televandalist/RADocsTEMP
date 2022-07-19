@@ -1,6 +1,6 @@
 # Work in Progress
 
-This page details how the memory of each supported system is mapped.
+This page details how the memory of each supported system is mapped!
 
 Memory banks as registered in the RA emulators are defined [here](https://github.com/RetroAchievements/RAIntegration/blob/master/src/data/ConsoleContext.cpp).
 

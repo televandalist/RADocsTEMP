@@ -9,7 +9,7 @@ Here is an overview of the **Memory Inspector** and its features. This tool can 
 
 ### 1. New Search
 
-This is the first thing you must do when you're looking for something in memory. 
+This is the first thing you must do when you're looking for something in the memory. 
 
 The first drop down allows you to quick select All memory, System RAM, or Cartridge RAM. The field below the first drop down lets you type in a custom range (i.e. 0x10000-0x100FF).
 

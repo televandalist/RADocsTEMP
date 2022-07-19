@@ -5,7 +5,7 @@ Great place to find game guides, finding almost all you could want to know about
 
 ## https://www.vgmaps.com/
 
-Thousands of maps/screenshots of your favourite video games.
+Thousands of maps/screenshots of your favourite video games!
 
 
 ## https://tcrf.net/

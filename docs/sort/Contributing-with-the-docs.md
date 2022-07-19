@@ -1,6 +1,6 @@
 ## Summing up
 
-1. Log into your github account (or [create an account](https://github.com/join) if you don't have one).
+1. Log into your github account (or [create an account](https://github.com/join) if you don't have one)!
 2. Edit a page (or create a new one) on the [RAwiki](https://github.com/RetroAchievements/docs/wiki/). You must use the Markdown markup language. Just check the [Markdown caveats below](#markdown-caveats).
 3. Sooner or later a maintainer will generate the pages for [RAdocs](https://docs.retroachievements.org).
 

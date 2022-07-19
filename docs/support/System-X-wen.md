@@ -2,7 +2,7 @@
 
 ## Intro
 
-There seems to be a lot of speculation on what the next available systems to support achievements will be. With the [recent announcement of a PS2 core](https://twitter.com/libretro/status/1322711254826471424), there have been a lot of questions regarding if/when it will be supported. If you're only interested in the answer to that question, skip to the [end of this article](#when-will-ra-support-playstation-2). But if you want to understand what exactly is needed to add support for a new system, keep reading.
+There seems to be a lot of speculation on what the next available systems to support achievements will be. With the [recent announcement of a PS2 core](https://twitter.com/libretro/status/1322711254826471424), there have been a lot of questions regarding if/when it will be supported. If you're only interested in the answer to that question, skip to the [end of this article](#when-will-ra-support-playstation-2). But if you want to understand what exactly is needed to add support for a new system, keep reading!
 
 
 ## Requirements

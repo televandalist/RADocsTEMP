@@ -3,7 +3,7 @@
 
 ## Basic Concepts
 
-Technically **an achievement is a group of conditions that must be met in a particular frame of the video game**.
+Technically, **an achievement is a group of conditions that must be met in a particular frame of the video game**.
 
 When you launch a game on an emulator with the RetroAchievements feature, the emulator is always checking if those conditions are met in the current frame. When all conditions for a particular achievement are met, it is awarded and the emulator stops checking the conditions for that achievement.
 

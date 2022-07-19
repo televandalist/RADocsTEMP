@@ -1,6 +1,6 @@
 ## m3u files
 
-Changing discs on Playstation requires creating a playlist file (.m3u) for your discs. This may sound intimidating but it's actually very simple.
+Changing discs on Playstation requires creating a playlist file (.m3u) for your discs. This may sound intimidating but it's actually very simple!
 
 **Step 1:** Place your .bin and .cue files in the desired location.
 

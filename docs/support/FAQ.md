@@ -124,7 +124,7 @@ White points, known as Retro Ratio points, are secondary points based on how har
 
 ## My welcome email has gone missing!
 
-Unfortunately sometimes the welcome email has been known to go missing. If this happens, please log in with your username/password you registered with, then visit your settings page. At the top you'll find the option to resend your registration email.
+Unfortunately sometimes the welcome email has been known to go missing. If this happens, please log in with your username/password you registered with, then visit your settings page. At the top you'll find the option to resend your registration email!
 
 
 ## Why can't I see my new profile picture?

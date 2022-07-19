@@ -90,7 +90,7 @@ If the ROM starts with `NES\1a`, the first 16 bytes are ignored and the remainin
 
 #### Nintendo DS
 
-An NDS ROM has a 0x160 byte header. In this header are pointers to icon/title information and to the boot code for both processors. The hash method combines the header, the two pieces of boot code, and the icon/title information and hashes the result.
+A NDS ROM has a 0x160 byte header. In this header are pointers to icon/title information and to the boot code for both processors. The hash method combines the header, the two pieces of boot code, and the icon/title information and hashes the result.
 
 * The icon/title information is 0xA00 bytes starting at the address stored in the header at $68
 * The arm9 code address is stored at $20 in the header, and the size is stored at $2C in the header

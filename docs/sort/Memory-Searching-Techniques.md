@@ -1,1 +1,1 @@
-Know good techniques? Add to this page.
+Know good techniques? Add to this page!

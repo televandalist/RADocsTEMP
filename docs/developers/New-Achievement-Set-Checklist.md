@@ -2,7 +2,7 @@
 
 ### 1. Are you free of tickets?
 
-Before working on new games you must resolve all open tickets you have. Once you're free of tickets, then go ahead.
+Before working on a new you must address all open tickets you have. Once you're free of tickets, then go ahead.
 
 ### 2. Is the game present on the database?  
 

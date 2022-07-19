@@ -13,7 +13,7 @@ and
 
 ![nocheevos2](/images/game-is-not-loading-achievements/docsnotloading4.png)
 
-When any of these situations happens, either your game doesn't have achievements yet or more likely you have the incorrect ROM.
+When any of these situations happens, either your game doesn't have achievements yet or more likely you have the incorrect ROM!
 
 Just to be sure, search for the game name and check matching results.  
 ![search](/images/game-is-not-loading-achievements/old-search-bar.png)

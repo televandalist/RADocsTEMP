@@ -1,4 +1,4 @@
-Logging things to be mentioned in the next "year in review" article.
+Logging things to be mentioned in the next "year in review" article!
 
 ## 2021
 

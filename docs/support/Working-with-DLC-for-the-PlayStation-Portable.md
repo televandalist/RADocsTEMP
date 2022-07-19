@@ -1,4 +1,4 @@
-Various games for the PlayStation Portable support DLC content. Depending on the game, this may come in different formats with different processes for installation.
+Various games for the PlayStation Portable support DLC content. Depending on the game, this may come in different formats with different processes for installation!
 
 ## Standard
 Traditional (generally paid) DLC was installed by the Playstation Store into game directories. Most of the time this will consist of one or more edat files and a param.pbp. Sometimes more files or directories are needed as well. If you already have decrypted DLC in this format, place it in saves/PSP/GAME/<game_id\>/ in the exact format it came in. The game ID -must- match the region of the game you're playing. For example, Dissidia 012 will use ULUS10566 for the US version and ULES01505 for the EU version. For users dumping data from real hardware, you'll need to use custom firmware and the npdecrypter plugin to decrypt your DLC to a format usable by PPSSPP. Further information can be found in the plugin's readme.

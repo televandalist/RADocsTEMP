@@ -4,7 +4,7 @@ A "Badge Event" is any public competition or maintenance initiative that offers 
 
 ## Eligibility
 In order for an event to be eligible for a badge, it must have:
-1. Host(s): Either one or two hosts is fine, having a back-up is wise.
+1. Host(s): Either one or two hosts is fine, having a back-up is wise!
 2. A Detailed Event Plan with: 
 - Clear Goals: Month-long events should have either weekly goals or several overall goals.
 - The time required to perform given tasks should be fair and realistic.

@@ -11,3 +11,5 @@ Documentation is available in the release archives, or in the [repository](https
 | COMPATIBILITY.TXT    | Game-specific options required to run or function correctly                      |
 
 The [PC-8000/8800 support](https://retroachievements.org/viewtopic.php?t=8329) forum thread, as well as individual game pages and forum threads, also contain some information.
+
+RIP Euclide

@@ -1,6 +1,6 @@
 In "Window Capture" mode, OBS Studio will not capture the popups. The popups are rendered using a "Layered Window", and OBS Studio removed support for capturing layered windows
 
-If you want to include the popups in your stream, you have two options: change to "Display Capture" mode, or add a second "Window Capture" for the "TransparentOverlayWindow". This page will attempt to walk you through doing the second.
+If you want to include the popups in your stream, you have two options: change to "Display Capture" mode, or add a second "Window Capture" for the "TransparentOverlayWindow". This page will attempt to walk you through doing the second!
 
 Add a second "Window Capture" source to the Scene. In the popup dialog, select the "TransparentOverlayWindow".
 

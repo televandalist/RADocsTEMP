@@ -21,4 +21,4 @@ Maintained: NO<br>
 ![Retreon](https://user-images.githubusercontent.com/45672834/102936351-510e0580-44a8-11eb-93a3-a6fdf9882b99.png)
 
 ## Missing Tracker
-If you have made or use a tracker which is not listed here you can contact the moderation team on the RetroAchievements Discord Server or send a private message to [RAdmin](https://retroachievements.org/user/RAdmin) including the name of the tracker and the creator of it.
+If you have made or use a tracker which is not listed here you can contact the moderation team on the RetroAchievements Discord Server or send a private message to [RAdmin](https://retroachievements.org/user/RAdmin) including the name of the tracker and the creator of it!

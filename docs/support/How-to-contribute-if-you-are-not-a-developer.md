@@ -5,7 +5,7 @@ Even if you don't know how to create achievements there are many ways to contrib
 
 If an achievement triggered at a wrong time or didn't trigger at all, please report it. We know that many users love free points, but please, even if an achievement triggered at a wrong time, report it!
 
-Another important situation that needs to be reported is a cheevo triggering by using some kind of cheat in the game (e.g. stage select code), or by loading a saved game.
+Another important situation that needs to be reported is a cheevo triggering by using some kind of cheat in the game (e.g. stage select code), or by loading a saved game!
 
 There are two ways to report a broken cheevo: directly in the emulator or via website. On both cases, add details of the state of your game, when it triggered/didn't trigger, what game mode, where you were when it happened/didn't happen, if you had reset the game recently, anything else you think may be relevant to the achievement. This is necessary for our system so the devs know where there is a problem.
 

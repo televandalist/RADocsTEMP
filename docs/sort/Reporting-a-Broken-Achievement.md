@@ -1,6 +1,6 @@
 # Reporting Broken Achievements
 
-To report a broken achievement, go to the achievement's page. Directly under the players won statistic, you'll see a link reading  "Report an issue for this achievement." Click that link to take you to the "Report Broken Achievement" form
+To report a broken achievement, go to the achievement's page. Directly under the players won statistic, you'll see a link reading  "Report an issue for this achievement." Click that link to take you to the "Report Broken Achievement" form!
 
 ## Report Broken Achievement Form
 When reporting a broken achievement, please fill out all the fields to the best of your ability. The more information we have on the issue, the better our chances of figuring out what went wrong.
