@@ -5,9 +5,6 @@ Welcome to the NEW [RetroAchievements](https://www.retroachievements.org) docume
 !!! attention "Under Construction!"
     The docs are undergoing a much needed overhaul and I only put this here to test this thing out!
 
-
--------------------------
-
 For community guidelines, you must know the [RetroAchievements Manifesto](/ramanifesto/) and adhere the [User's Code of Conduct](user-coc).
 
 If you're looking for docs about creating achievements, check our [Developer docs](/developers/home/) section.

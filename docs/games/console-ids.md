@@ -56,7 +56,7 @@
 |054|Cassette Vision|
 |055|Super Cassette Vision|
 |056|Neo Geo CD|
-|057|Fairchild Channel F|Yes|
+|057|Fairchild Channel F|
 |058|FM Towns|
 |059|ZX Spectrum|
 |060|Game & Watch|
@@ -68,9 +68,7 @@
 |066|Thomson TO8|
 |067|PC-6000|
 |068|Sega Pico|
-|069|Mega Duck|Yes|
+|069|Mega Duck|
 |070|Zeebo|
-|071|Arduboy|Yes|
-|072|WASM-4|Yes|
 |100|Hubs|N/A|
 |101|Events|N/A|
