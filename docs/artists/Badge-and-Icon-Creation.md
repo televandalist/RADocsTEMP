@@ -4,7 +4,7 @@ Icons are **user uploaded** images that are used throughout the site to represen
 
 * _Sonic the Hedgehog's game Icon_  
 
-  ![Sonic the Hedgehog Icon](/images/badge-creation/016743.png)  
+  ![Sonic the Hedgehog Icon](/artists/images-badgecreation/sonicbadge.png)  
 
 ### Designing New Game Icons - Styling Guide
 
@@ -18,7 +18,7 @@ When designing a new game icon consider the following: Much of the community pre
 
 Using more current designs (or fan art) for classic video game characters might be seem appealing. But many find this is _disrespectful to the source material_.
 
-![mario time](/images/badge-creation/52103977-93bd5080-25a5-11e9-9226-4f1af1bbfa81.png)
+![mario time](/artists/images-badgecreation/marioscale.png)
 
 #### Flexibility for the Styling Guide
 
@@ -47,10 +47,10 @@ The style you choose for your designs is still up to you. You can break these ru
 Achievement Developers are allowed to change game icons freely for entries that do not have achievements. As a Developer if you'd like to post a backup of the previous image there, if there is one, or backup yours in the forum you're free to but not required. As you create a new set of achievements you are free to create or choose the image you'd like to use as the game icon.
 
 To change a game icon first go to the game page and click on the Dev tools:  
-![change game icon 1](/images/badge-creation/68747470733a2f2f692e696d6775722e636f6d2f7371784f6a794c2e706e67)
+![change game icon 1](/artists/images-badgecreation/devoptions.png)
 
 Then click the choose file button highlighted. Find the file on your PC, and then press the submit button highlighted:  
-![change game icon 2](/images/badge-creation/52103542-62438580-25a3-11e9-8ede-ce5857abd7ce.png)
+![change game icon 2](/artists/images-badgecreation/updatebutton.png)
 
 If a game has existing achievements, game icon changes need to go through [revision process](Achievement-Set-Revisions).
 
@@ -73,7 +73,7 @@ Icons are stored on the site in the following manner and place: `i.retroachievem
 
 Badges are the user created images for individual achievements of a game.
 
-* _Sonic the Hedgehog's first Badge - #00199)_ ![Amateur Collector Badge](/images/badge-creation/00199.png)
+* _Sonic the Hedgehog's first Badge - #00199)_ ![Amateur Collector Badge](/artists/images-badgecreation/00199.png)
 
 
 ### Badge creation guidelines and tips
@@ -81,7 +81,7 @@ Badges are the user created images for individual achievements of a game.
 - Badges should refer in some way to what the achievement is about - i.e. a picture of the boss, level or collectible that the achievement requires the player to get to. 
 - Check out the designs of some of your favorite games. Some users go to great effort to make visually appealing badges:
 
-![badge-grid](/images/badge-creation/badgegrid.png)
+![badge-grid](/artists/images-badgecreation/badgegrid.png)
 
 - Here's a [forum topic](http://retroachievements.org/viewtopic.php?t=4282&o=5) full of great tips. 
 - In the cases of low-resolution games' achievements, it can be hard to get a Badge looking good without it looking _blocky_ or _blurry_, in these cases the _blocky_ look is often preferable, so that the images have a _retro_ feel to them.
@@ -100,10 +100,10 @@ Badges are the user created images for individual achievements of a game.
 If you are creating new achievements you are free to upload badges for them. 
 
 Badges are uploaded from within the emulator developer tools while in the achievement editor:  
-![image](/images/badge-creation/52097132-c73cb280-2586-11e9-95ec-ea5e4dc8f9cd.png)
+![image](/artists/images-badgecreation/uploadbadge.png)
 
 Or you can select a prefabricated image or find other images you've uploaded in the drop down box:  
-![image](/images/badge-creation/52097145-d1f74780-2586-11e9-8a22-06ceeeb82fe8.png)
+![image](/artists/images-badgecreation/badgenumber.png)
 
 Upload ``.jpg``, ``.jpg`` or ``.gif`` file types. It's not entirely important how the file is formatted before uploading, but it is strongly recommended that it be square.
 
@@ -133,7 +133,7 @@ When uploaded, your file is converted into the following:
 
 - 64x64 greyscale and blurred PNG. Example:
 
-    ![00136_lock](/images/badge-creation/37221162-b9d7a802-23a7-11e8-9b69-3e91594c1ba4.png)
+    ![00136_lock](/artists/images-badgecreation/lockedcheevo.png)
 
 ### Badge Server Files
 

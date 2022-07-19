@@ -244,6 +244,7 @@ theme:
       bug: fontawesome/solid/robot
       example: fontawesome/solid/flask
       quote: fontawesome/solid/quote-left
+  favicon: 'icons/favicon.ico'
 
 extra_css:
   - stylesheets/codehilite.css

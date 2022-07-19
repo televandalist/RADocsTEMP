@@ -1,22 +1,22 @@
 # My game is not loading achievements
 
 Maybe you loaded up your game but you see a popup:  
-![no achievements 1](/images/game-is-not-loading-achievements/docsnotloading1.jpg)  
+![no achievements 1](/support/images-notloading/docsnotloading1.jpg)  
 Then you check the overlay (typically ESC) and see:  
-![no achievements 2](/images/game-is-not-loading-achievements/docsnotloading2.png)
+![no achievements 2](/support/images-notloading/docsnotloading2.png)
 
 Or maybe you got these messages:
 
-![nocheevos](/images/game-is-not-loading-achievements/docsnotloading3.png)
+![nocheevos](/support/images-notloading/docsnotloading3.png)
 
 and
 
-![nocheevos2](/images/game-is-not-loading-achievements/docsnotloading4.png)
+![nocheevos2](/support/images-notloading/docsnotloading4.png)
 
 When any of these situations happens, either your game doesn't have achievements yet or more likely you have the incorrect ROM!
 
 Just to be sure, search for the game name and check matching results.  
-![search](/images/game-is-not-loading-achievements/old-search-bar.png)
+![search](/support/images-notloading/old-search-bar.png)
 
 If your game has achievements but your ROM isn't in our system either you'll need to find the correct ROM or get support for your ROM.
 
@@ -35,11 +35,11 @@ NOTE: You must be logged in to view linked hashes.
 
 You can access this page by clicking the "Hashes linked to this game" button in the "More Info" section on the game page.
 
-![link to linked hashes page](/images/game-is-not-loading-achievements/old-link-to-hash-page.png)
+![link to linked hashes page](/support/images-notloading/old-link-to-hash-page.png)
 
 It takes you to a page like this:
 
-![list of linked hashes](/images/game-is-not-loading-achievements/old-hash-list.png)
+![list of linked hashes](/support/images-notloading/old-hash-list.png)
 
 
 
@@ -47,9 +47,9 @@ It takes you to a page like this:
 
 The link for it can be found at the bottom of the achievement list on game pages OR in the More Info section. Example for [Super Mario Bros.](https://retroachievements.org/viewtopic.php?t=282&c=2233):
 
-![forum](/images/game-is-not-loading-achievements/view-forum.png)
+![forum](/support/images-notloading/view-forum.png)
 
-![forum 2](/images/game-is-not-loading-achievements/view-forum-2.png)
+![forum 2](/support/images-notloading/view-forum-2.png)
 
 The first post of the official game's forum thread usually has a list of valid ROMs for the respective game and also the checksum of the ROMs. 
 
@@ -61,7 +61,7 @@ Once you make a request, a developer will review it and make sure it works. Then
 
 In the menu bar `RetroAchievements` > `Get ROM Checksum`
 
-![checksum](/images/game-is-not-loading-achievements/get-checksum.png)
+![checksum](/support/images-notloading/get-checksum.png)
 
 For more details about checksum and hashes, read here: https://datacrystal.romhacking.net/wiki/Hashes
 

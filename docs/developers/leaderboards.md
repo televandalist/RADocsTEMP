@@ -4,7 +4,7 @@ Currently Leaderboards can be edited by developers on the website. It's a pretty
 
 This is how a game's Leaderboard List looks like on the website:
 
-![leaderboard_list](https://user-images.githubusercontent.com/8508804/33172797-ad9b2f22-d038-11e7-97fe-09116181ddfa.png)
+![leaderboard_list](/developers/images-leaderboards/leaderboard-list.png)
 
 In the center you can see every already made Leaderboard, and in the right column you can see the **Code Notes** for the game. The Code Notes are here to help with some conditions we'll see below.
 
@@ -60,7 +60,7 @@ Upper4        | `0xU`  | `0xU01234`
 
 The best place to start is to look at one of the existing leaderboards [https://retroachievements.org/leaderboardList.php](https://retroachievements.org/leaderboardList.php) and break it down to see how it works. We're going to use the [Green Hill Act 1 (Sonic the Hedgehog) Leaderboard](https://retroachievements.org/leaderboardinfo.php?i=2) for this purpose. Then let's see how it looks:
 
-![new_leaderboard2](https://user-images.githubusercontent.com/8508804/33169120-90ddd7b2-d02a-11e7-8667-a659c980e7e5.png)
+![new_leaderboard2](/developers/images-leaderboards/new-leaderboard.png)
 
 The **Title/Description** fields are quite obvious.
 

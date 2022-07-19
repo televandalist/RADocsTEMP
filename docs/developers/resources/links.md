@@ -36,10 +36,10 @@ http://www.d.umn.edu/~bold0070/projects/game_genie_codes/javascript_game_genie_e
 - http://jsonviewer.stack.hu/ - Excellent for viewing raw achievements
 
 Turns this:  
-![before](https://i.imgur.com/aetGpCd.png)
+![before](/developers/resources/images-resources/jsonviewer1.png)
 
 Into this:  
-![after](https://i.imgur.com/prwO5C6.png)
+![after](/developers/resources/images-resources/jsonviewer2.png)
 
 Or get a plugin for Notepad++:
 - http://jsminnpp.sourceforge.net/ to do similar
@@ -50,7 +50,7 @@ Speaking of Notepad++
 ## Achievement Syntax
 
 This is a good reference sheet, it's especially useful for Rich Presence and Leaderboards, getting your deltas and bit labels right.
-![achievement syntax](https://i.imgur.com/WKNo3MJ.png)
+![achievement syntax](/developers/resources/images-resources/cheevo-syntax.png)
 For full size, right click an save image.
 
 A 32bit requires the prefix "X" as in 0xX63

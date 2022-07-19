@@ -44,7 +44,7 @@
 
 Here's an example of RAGens, playing Streets of Rage 2. You will see two leaderboard attempt counters (bottom-right), one achievement popping and finally the [Achievement Overlay](#what-is-the-achievement-overlay-and-how-do-i-access-it) (press `ESC`):
 
-![overlay-example-SOR](/images/overlay-example-SOR.gif)
+![overlay-example-SOR](/support/images-faq/overlay-example-SOR.gif)
 
 
 
@@ -150,9 +150,9 @@ A good practice is to check the official game's forum topic. If you still don't 
 
 ## Why do I get a message that some achievements are unsupported?
 
-![RetroArch Unsupported](/images/retroarch-unsupported.png)
+![RetroArch Unsupported](/support/images-faq/retroarch-unsupported.png)
 
-![RALibretro Unsupported](/images/ralib-unsupported.png)
+![RALibretro Unsupported](/support/images-faq/ralib-unsupported.png)
 
 This message informs the user that some achievements cannot be activated either because their version of RetroArch and/or the core being used does not support some newer logic features, or because required areas of the RAM are not exposed for achievement processing.
 
@@ -185,13 +185,13 @@ For more information on specific consoles you can check here:
 
 On each game's page there is a link to "Request Set".  
 
-![Request Set Link](/images/request-link.jpg)
+![Request Set Link](/support/images-faq/request-link.jpg)
 
 Clicking this will add your name to the list of users who have requested a set for the game. Clicking again will withdraw the request. To see other users who have requested the set, click on the "Set Requestors for this game" link in the "More Info" section at bottom of the game page.
 
-![Set Requests for Game](/images/set-requests-for-game.jpg)
+![Set Requests for Game](/support/images-faq/set-requests-for-game.jpg)
 
-![User Set Requests](/images/user-set-requests.jpg)
+![User Set Requests](/support/images-faq/user-set-requests.jpg)
 
 The total number of requests are tallied and displayed on the [Most Requested Sets](https://retroachievements.org/setRequestList.php) page which can also be sorted by console.  If and when a set is created the user request will be automatically returned to use for another game.
 
@@ -219,11 +219,11 @@ There are two ways to report broken achievements. In the emulator title bar go t
 
 1. For [Official RetroAchevement emulators](#official-retroachievementsorg-emulators) only:
 
-![RALib How to Report](/images/ralib-how-to-report.gif).
+![RALib How to Report](/support/images-faq/ralib-how-to-report.gif).
 
 2. For [RetroArch](#retroarch-emulators) users you can submit the report directly via website. On every achievement's page you'll see a link saying `Report an issue for this achievement`, like in the image below:
 
-![RAWeb How to Report](/images/raweb-how-to-report.png)
+![RAWeb How to Report](/support/images-faq/raweb-how-to-report.png)
 
 If you use the [Official RetroAchevement emulators](#official-retroachievementsorg-emulators) you can also report problems from the website achievement page, but it is preferred that you use the method built into the emulators. 
 
@@ -313,20 +313,20 @@ Same with not getting it when you should in most cases you'll want to [create a 
 There are three ways to do this:
 
 * On the achievement page:<br>
-![Reset from Achievement Page](/images/reset-cheevo-ach-page.png)
+![Reset from Achievement Page](/support/images-faq/reset-cheevo-ach-page.png)
 
 * On the game page (when you want or need to reset all earns in a game):<br>
-![Reset from Game Page](/images/reset-cheevo-game-page.png)
+![Reset from Game Page](/support/images-faq/reset-cheevo-game-page.png)
 
 * Near the bottom of your user settings page:<br>
-![Reset from User Settings](/images/reset-cheevo-user-settings.png)
+![Reset from User Settings](/support/images-faq/reset-cheevo-user-settings.png)
 
 
 ### Am I the only one with an issue?
 
 If an achievement doesn't work correctly for you, there is a very good chance it doesn't work for other people. You can check in the achievement's page and look for where it says 'The achievement has 'X' open tickets':
 
-![View Open Tickets](/images/view-open-tickets.png)
+![View Open Tickets](/support/images-faq/view-open-tickets.png)
 
 If the game has tickets, click on the 'open tickets' link. There will be a list to show any reports of broken achievements. You can comment on these to add helpful details or say you have a problem with this achievement too.
 
@@ -364,7 +364,7 @@ Right Here:
 
 On Site, front page, while not logged in:
 
-![reset password](https://i.imgur.com/3AxGYWe.png)
+![reset password](/support/images-faq/reset-password.png)
 
 
 

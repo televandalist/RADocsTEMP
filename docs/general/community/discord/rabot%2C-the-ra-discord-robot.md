@@ -19,23 +19,23 @@ If you need help about a specific command use `!help command_name`.
 
 Provide links to RetroAchievements documentation.
 
-![docs](/images/rabot/rabot-docs.png)
+![docs](/general/community/discord/images-rabot/rabot-docs.png)
 
-![docs1](/images/rabot/rabot-docs1.png)
+![docs1](/general/community/discord/images-rabot/rabot-docs1.png)
 
 
 ### `!rarch`
 
 Provide basic info about RetroArch.
 
-![rarch](/images/rabot/rabot-rarch.png)
+![rarch](/general/community/discord/images-rabot/rabot-rarch.png)
 
 
 ### `!rules`
 
 Show the rules, or a specific one.
 
-![rules](/images/rabot/rabot-rules.png)
+![rules](/general/community/discord/images-rabot/rabot-rules.png)
 
 
 ### `!about`
@@ -43,14 +43,14 @@ Show the rules, or a specific one.
 Show info about the RABot.
 
 
-![about](/images/rabot/rabot-about.png)
+![about](/general/community/discord/images-rabot/rabot-about.png)
 
 
 ### `!panic`
 
 What to do when the site is down.
 
-![panic](/images/rabot/rabot-panic.png)
+![panic](/general/community/discord/images-rabot/rabot-panic.png)
 
 
 ## Creating polls
@@ -59,14 +59,14 @@ What to do when the site is down.
 
 Creates a simple poll. People can vote adding reactions, but they can also vote with unlisted reactions. See [`!tpoll`](#tpoll) if you are interested in a more advanced and serious poll.
 
-![poll](/images/rabot/rabot-poll.png)
+![poll](/general/community/discord/images-rabot/rabot-poll.png)
 
 
 ### `!tpoll`
 
 Creates a timed poll. In this kind of poll only the first reaction is considered a vote, and if people react with an unlisted reaction then the vote is voided.
 
-![tpoll](/images/rabot/rabot-tpoll.png)
+![tpoll](/general/community/discord/images-rabot/rabot-tpoll.png)
 
 
 ## Dealing with numbers
@@ -75,14 +75,14 @@ Creates a timed poll. In this kind of poll only the first reaction is considered
 
 Converts a non-negative integer from decimal (or binary) to hexadecimal (or vice-versa).
 
-![hex](/images/rabot/rabot-hex.png)
+![hex](/general/community/discord/images-rabot/rabot-hex.png)
 
 
 ### `!bin`
 
 Converts a non-negative integer from decimal (or hexadecimal) to binary (or vice-versa).
 
-![bin](/images/rabot/rabot-bin.png)
+![bin](/general/community/discord/images-rabot/rabot-bin.png)
 
 
 ### `!calculator`
@@ -91,7 +91,7 @@ Converts a non-negative integer from decimal (or hexadecimal) to binary (or vice
 
 Evaluates the given math expression and responds with the result.
 
-![calculator](/images/rabot/rabot-calculator.png)
+![calculator](/general/community/discord/images-rabot/rabot-calculator.png)
 
 
 
@@ -103,14 +103,14 @@ Evaluates the given math expression and responds with the result.
 
 Google for a game at RetroAchievements.org and show the link.
 
-![ragame](/images/rabot/rabot-ragame.png)
+![ragame](/general/community/discord/images-rabot/rabot-ragame.png)
 
 
 ### `!tickets`
 
 Return the URL for the open tickets page of the given game name.
 
-![tickets](/images/rabot/rabot-tickets.png)
+![tickets](/general/community/discord/images-rabot/rabot-tickets.png)
 
 
 ### `!whatgame`
@@ -119,9 +119,9 @@ Return the URL for the open tickets page of the given game name.
 
 Responds with a random game that has achievements.
 
-![whatgame](/images/rabot/rabot-whatgame.png)
+![whatgame](/general/community/discord/images-rabot/rabot-whatgame.png)
 
-![whatgame1](/images/rabot/rabot-whatgame1.png)
+![whatgame1](/general/community/discord/images-rabot/rabot-whatgame1.png)
 
 
 ### `!whatcheevo`
@@ -137,7 +137,7 @@ Responds with a retrogaming fun fact.
 
 **Note**: you can suggest more fun fact entries [here](https://github.com/RetroAchievements/RABot/issues/2).
 
-![funfact](/images/rabot/rabot-funfact.png)
+![funfact](/general/community/discord/images-rabot/rabot-funfact.png)
 
 
 ### `!memefact`
@@ -148,7 +148,7 @@ Responds with a RetroAchievements meme fact.
 
 **Note**: you can suggest more meme fact entries [here](https://github.com/RetroAchievements/RABot/issues/6), but keep these 2 simple rules in mind **1)** you can't suggest your own quote; and **2)** when suggesting a quote, be sure to get an approval from the author and/or the person being mentioned.
 
-![memefact](/images/rabot/rabot-memefact.png)
+![memefact](/general/community/discord/images-rabot/rabot-memefact.png)
 
 
 ## Getting gaming related info
@@ -159,7 +159,7 @@ Responds with a RetroAchievements meme fact.
 
 Google for a game at GameFAQs and show the link.
 
-![gamefaqs](/images/rabot/rabot-gamefaqs.png)
+![gamefaqs](/general/community/discord/images-rabot/rabot-gamefaqs.png)
 
 
 ### `!longplay`
@@ -168,7 +168,7 @@ Google for a game at GameFAQs and show the link.
 
 Search for a longplay video on youtube and post the link.
 
-![longplay](/images/rabot/rabot-longplay.png)
+![longplay](/general/community/discord/images-rabot/rabot-longplay.png)
 
 
 ### `!vgmaps`
@@ -177,7 +177,7 @@ Search for a longplay video on youtube and post the link.
 
 Searches vgmaps.com for a video game's map.
 
-![vgmaps](/images/rabot/rabot-vgmaps.png)
+![vgmaps](/general/community/discord/images-rabot/rabot-vgmaps.png)
 
 
 ### `!howlongtobeat`
@@ -186,7 +186,7 @@ Searches vgmaps.com for a video game's map.
 
 Google for a game at howlongtobeat.com and show the link.
 
-![howlongtobeat](/images/rabot/rabot-howlongtobeat.png)
+![howlongtobeat](/general/community/discord/images-rabot/rabot-howlongtobeat.png)
 
 
 ## Miscellaneous
@@ -197,7 +197,7 @@ Google for a game at howlongtobeat.com and show the link.
 
 Defines a word.
 
-![define](/images/rabot/rabot-define.png)
+![define](/general/community/discord/images-rabot/rabot-define.png)
 
 
 ### `!translate`
@@ -206,15 +206,15 @@ Defines a word.
 
 Translates text to a specific language. **Powered by <https://translate.yandex.com/>**
 
-![translate](/images/rabot/rabot-translate.png)
+![translate](/general/community/discord/images-rabot/rabot-translate.png)
 
-![translate1](/images/rabot/rabot-translate1.png)
+![translate1](/general/community/discord/images-rabot/rabot-translate1.png)
 
 ### `!urban`
 
 Defines a word, but with Urban Dictionary.
 
-![urban](/images/rabot/rabot-urban.png)
+![urban](/general/community/discord/images-rabot/rabot-urban.png)
 
 
 ### `!wikipedia`
@@ -223,7 +223,7 @@ Defines a word, but with Urban Dictionary.
 
 Searches Wikipedia for your query.
 
-![wikipedia](/images/rabot/rabot-wiki.png)
+![wikipedia](/general/community/discord/images-rabot/rabot-wiki.png)
 
 
 ### `!youtube`
@@ -232,33 +232,33 @@ Searches Wikipedia for your query.
 
 Search for a video on youtube and post the first one found.
 
-![youtube](/images/rabot/rabot-youtube.png)
+![youtube](/general/community/discord/images-rabot/rabot-youtube.png)
 
 
 ### `!bulbapedia`
 
 Searches Bulbapedia for your query.
 
-![bulbapedia](/images/rabot/rabot-bulbapedia.png)
+![bulbapedia](/general/community/discord/images-rabot/rabot-bulbapedia.png)
 
 
 ### `!movie`
 
 Searches TMDB for your query, getting movie results.
 
-![movie](/images/rabot/rabot-movie.png)
+![movie](/general/community/discord/images-rabot/rabot-movie.png)
 
 
 ### `!manga`
 
 Searches AniList for your query, getting manga results.
 
-![manga](/images/rabot/rabot-manga.png)
+![manga](/general/community/discord/images-rabot/rabot-manga.png)
 
 
 ### `!anime`
 
 Searches AniList for your query, getting anime results.
 
-![anime](/images/rabot/rabot-anime.png)
+![anime](/general/community/discord/images-rabot/rabot-anime.png)
 

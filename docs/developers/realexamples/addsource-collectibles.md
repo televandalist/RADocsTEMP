@@ -8,7 +8,7 @@ First, we'll look at an achievement from [Suikoden (PlayStation)](https://retroa
 - `0x1b8245`: bit0 is a treasure at the Dragon Den, bit1-bit5 are treasures at Seek Valley, and bit6-7 are treasures in Kalekka.
 - `0x1b824b`: bit0-bit1 are treasures at the Village of the Hidden Rune, bit2 is unused, bit3-4 are treasures at the Dragon Knights' Fortress, bit5-6 are treasures in Teien, and bit7 is a treasure at Luiken's House. 
 
-![addsource-example1](https://u.cubeupload.com/televandalist/docssuikotreasure.png)
+![addsource-example](/developers/realexamples/images-realexamples/addsource-example.png)
 
 ??? "View Syntax"
 

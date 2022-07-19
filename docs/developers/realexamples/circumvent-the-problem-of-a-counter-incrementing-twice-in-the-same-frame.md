@@ -26,7 +26,7 @@ Let's take a look at the achievement logic and then we'll see the explanation:
 
 So now the structure of the achievement is going to be like this:
 
-![](https://i.imgur.com/sDtPpX9.png)
+![](/developers/realexamples/images-realexamples/circumvent1.png)
 
 **Conditions**
 
@@ -46,7 +46,7 @@ This means that, if we get two canes in the same frame (which is already rare), 
 
 Despite being a very unlikely possibility, we should treat this case too. So we're gonna add two more requirements to the code, and it will end up looking like this:
 
-![](https://i.imgur.com/6wePK8N.png)
+![](/developers/realexamples/images-realexamples/circumvent2.png)
 
 It is the same as before, with the only changes being lines 3 and 4, which represents an extra `SubSource + Add Hits` to check if `0xCANDIES - Delta 0xCANDIES = -98`, only to take care of this very minor exception just mentioned.
 

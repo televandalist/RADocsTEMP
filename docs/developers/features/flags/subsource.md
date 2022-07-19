@@ -14,7 +14,7 @@ Using that [`AddSource` usecase example](AddSource-Flag), if we replaced it with
 
 `SubSource` can also be used to track specific increases in addresses. The conditions below states that the current value in address `0x0080dc` less the value in the previous frame in the same address must be equal `2`. Effectively, this means that the condition is true whenever the value in address `0x0080dc` increases by exactly two.
 
-![subsource](https://user-images.githubusercontent.com/8508804/52924824-29c6da00-330d-11e9-9bf5-8fdcd71aaf9e.png)
+![subsource](/developers/features/images-features/subsource.png)
 
 
 ## Checking for a negative result

@@ -14,12 +14,12 @@ Players will earn 1 set request for every year their account has existed. Additi
 
 If a game entry does not have an achievement set, it will have an option to request a set, which is located under the screenshots and game info. 
 
-![Request Set](/games/images/requestset1.gif)
+![Request Set](/games/images-requests/requestset1.gif)
 
 ### Viewing Requests
 
 You can click on the number of set requests to view all requests for a game:
 
-![Viewing Requests](/games/images/viewsetrequests.gif)
+![Viewing Requests](/games/images-requests/viewsetrequests.gif)
 
 ***

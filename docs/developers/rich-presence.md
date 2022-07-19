@@ -4,12 +4,12 @@ Rich Presence **(RP)** is brief overview of what active players are currently do
 
 **Example of RP in action:**
 
-![Example of RP in action](https://i.imgur.com/E5097sz.png)  
+![Example of RP in action](/developers/images-rp/rp01.png)  
 
 
 To see the RP live in a game click on the RetroAchievements menu in your emulator and then click on Rich Presence Monitor. A small window will show you your active RP. (Good for debugging)
 
-![Rich Presence Monitor](https://i.imgur.com/XkCZoLG.png)
+![Rich Presence Monitor](/developers/images-rp/rp-monitor.png)
 
 The best way to understand Rich Presence is to look at various examples in game, look at the addresses used and look at how the text is displayed in the Rich Presence Monitor and on site.
 
@@ -19,9 +19,9 @@ Every time a game is launched, it fetches the achievements in a 'patch' file for
 
 The RPS for each game can be found under the development section on each game's page: 
 
-![Dev click](https://i.imgur.com/sqxOjyL.png)
+![Dev click](/developers/images-rp/dev-click.png)
 
-![RP shown](https://i.imgur.com/e7qoaNx.png)
+![RP shown](/developers/images-rp/rp-shown.png)
  
 ## Example (Super Mario Bros.)
 
@@ -280,7 +280,7 @@ While making Rich Presence devs need to be careful that they are communicating c
 For custom unicode/emoji [ShapeCatcher](http://shapecatcher.com/) is an excellent resource, you can draw what you're looking for and an AI will find similar matches. Just be careful to not use unicode that *too obscure*, as they don't all display on all systems.
 
 Take note of community display preference:
-![image](https://user-images.githubusercontent.com/32706333/56547116-a65a7c80-6539-11e9-951c-83b4f9930b3e.png)
+![image](/developers/images-rp/rp-poll.png)
 
 ## Developing Rich Presence
 
