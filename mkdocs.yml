@@ -10,7 +10,6 @@ nav:
     - About Us: 'about-us.md'
     - Downloads: 'downloads.md'
     - Glossary: 'glossary.md'
-    - Free Homebrews: 'homebrews.md'
   - 'Guidelines':
     - Overview: 'guidelines/overview.md'
     - 'General':
@@ -35,7 +34,6 @@ nav:
       - Unsupported Consoles: 'games/unsupported-consoles.md'
       - No Console ID: 'games/no-console-id.md'
     - 'Emulators':
-      - RAGens: 'games/emulators/ragens.md'
       - RALibretro: 'games/emulators/ralibretro.md'
       - RAMeka: 'games/emulators/rameka.md'
       - RANes: 'games/emulators/ranes.md'
@@ -90,7 +88,7 @@ nav:
       - Minimum Required Versions for Logic Features: 'developers/features/minimum-required-versions-for-logic-features.md'
     - Console Specific Tips: 'developers/console-specific-tips.md'
     - 'Achievement Creation Tutorials':
-      - Achievement Creatino Tutorials Home: 'developers/achievement-creation-tutorials.md'
+      - Achievement Creation Tutorials Home: 'developers/achievement-creation-tutorials.md'
     - Logic Examples: 'developers/logic-examples.md'
     - 'Real Examples':
       - Real Examples Home: 'developers/real-examples.md'

@@ -494,11 +494,6 @@ Short for "rich presence script"
 A group of achievements associated with a game
 
 
-## set cap
-
-400 points. It's the limit for how many points are allowed in a set of achievements.
-
-
 ## size (achievement editor)
 
 
