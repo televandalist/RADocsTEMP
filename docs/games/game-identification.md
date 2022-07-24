@@ -142,11 +142,27 @@ The primary executable and its name are hashed as follows:
 * The buffer is hashed.
 
 
+#### PlayStation Portable
+
+The disc metadata and primary executable are hashed as follows:
+* The contents of the PSP_GAME\PARAMS.SFO file are written to a buffer. This contains the game attributes displayed in the menu, including the name and serial.
+* The contents of the primary executable (PSP_GAME\SYSDIR\EBOOT.BIN) are appended to the buffer.
+* The buffer is hashed.
+
+
 #### Sega CD / Sega Saturn
 
 The first 512 bytes of track 0 are hashed. This contains the volume header and ROM header. The first 16 bytes must be "SEGADISCSYSTEM  " for Sega CD or "SEGA SEGASATURN " for Sega Saturn. If not, discard as invalid.
 
 Immediately following those 512 bytes are an arbitrary amount of code that validates the region and loads the primary executable. Without processing the code, we cannot determine what additional file(s) to hash, so this was determined to be sufficient as an alternative to hashing the entire CD.
+
+
+#### Sega Dreamcast
+
+The disc metadata and primary executable are hashed as follows:
+* The first 512 bytes of sector 0 are appended to the buffer. This contains the volume header and ROM header. The first 16 bytes must be "SEGA SEGAKATANA ". If not, discard as invalid.
+* The contents of the primary executable (as identified by the volume header) are appended to the buffer.
+* The buffer is hashed.
 
 
 #### SNES
