@@ -2,7 +2,6 @@
 
 These don't contain Overlay themes, you can download default and custom ones using link's below. These links are kept current.
 
-- [RAGens](https://bit.ly/RAGens__) - Sega Genesis/Mega Drive  
 - [RASnes9x](https://bit.ly/RASnes9x) - Super Nintendo Entertainment System  
 - [RAFCEUx](https://bit.ly/RAFCEUx) - Nintendo Entertainment System  
 - [RAVBA](https://bit.ly/RAVBA_) - Nintendo Gameboy/Gameboy Color/Gameboy Advance  
