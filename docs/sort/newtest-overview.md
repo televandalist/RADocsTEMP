@@ -1,16 +1,3 @@
-[![ra_docs_logo](https://user-images.githubusercontent.com/45054151/152825371-d2de5cef-18aa-49a2-b81e-620aee83eac6.png)](https://retroachievements.org)
-
-Welcome to [RetroAchievements Documentation](https://docs.retroachievements.org/)!
-
-- [RetroAchievements Manifesto](#retroachievements-manifesto)
-- [User Documentation](#user-documentation)
-- [Developer Documentation](#developer-documentation)
-- [Other Contributor Documentation](#other-contributor-documentation)
-- [Events](#events)
-- [RANews](#ranews)
-- [RAGuides](#raguides)
-- [Discord Server](#discord-server)
-
 ### RetroAchievements Manifesto
   - [RetroAchievements Manifesto](RetroAchievements-Manifesto)
 
