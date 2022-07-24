@@ -72,8 +72,8 @@
 |070|Zeebo
 |071|Arduboy
 |072|WASM-4
-|073|
-|074|
-|075|
+|073|Arcadia 2001
+|074|Interton VC 4000
+|075|Elektor TV Games
 |100|Hubs
 |101|Events

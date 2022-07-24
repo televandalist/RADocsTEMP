@@ -10,6 +10,7 @@ nav:
     - About Us: 'about-us.md'
     - Downloads: 'downloads.md'
     - Glossary: 'glossary.md'
+    - Contributing with the Docs: 'contributing-with-the-docs.md'
   - 'Guidelines':
     - Overview: 'guidelines/overview.md'
     - 'General':
@@ -31,17 +32,11 @@ nav:
       - Game Identification: 'games/game-identification.md'
       - Supported Consoles: 'games/supported-consoles.md'
     - 'Emulators':
+      - RetroArch: 'games/emulators/retroarch.md'
       - RALibretro: 'games/emulators/ralibretro.md'
-      - RAMeka: 'games/emulators/rameka.md'
-      - RANes: 'games/emulators/ranes.md'
-      - RAP64: 'games/emulators/rap64.md'
       - RAQUASI88: 'games/emulators/raquasi88.md'
-      - RASnes9x: 'games/emulators/rasnes9x.md'
-      - RAVBA: 'games/emulators/ravba.md'
   - 'General':
     - Players Home: 'general/home.md'
-    - RetroArch: 'general/retroarch.md'
-    - RALibretro: 'general/ralibretro.md'
     - User FAQ: 'general/userfaq.md'
     - 'Community':
       - Community Home: 'general/community/home.md'
@@ -59,7 +54,6 @@ nav:
       - How to Become an Achievement Developer: 'developers/how-to-become-an-achievement-developer.md'
       - Getting Started as an Achievement Developer: 'developers/getting-started-as-an-achievement-developer.md'
       - Junior Developers: 'developers/junior-devs.md'
-      - Code Review Checklist: 'developers/code-review-checklist.md'
       - New Achievement Set Checklist: 'developers/new-achievement-set-checklist.md'
     - Memory Inspector Overview: 'developers/memory-inspector-overview.md'
     - 'Achievement Logic Features':
@@ -120,16 +114,13 @@ nav:
     - How to Contribute if You Are Not a Developer: 'support/how-to-contribute-if-you-are-not-a-developer.md'
     - Why You Should Not Use the Load State Feature: 'support/why-you-should-not-use-the-load-state-feature.md'
     - A Message for Achievement Hunters and Completionists About Revisions: 'support/a-message-for-achievement-hunters-and-completionists-about-revisions.md'
-    - Editing Docs: 'support/editingdocs.md'
   - 'Other':
     - Other Home: 'sort/other-home.md'
     - Badge Event Creation Policy: 'sort/badge-event-creation-policy.md'
     - Combining Flags: 'sort/combining-flags.md'
-    - Contributing with the Docs: 'sort/contributing-with-the-docs.md'
     - Forum Labels: 'sort/forum-labels.md'
-    - RALib on Linux: 'sort/how-to-run-ralibretro-on-linux.md'
     - LB Bug and Improvement: 'sort/leaderboard-bug-list-and-improvement-ideas.md'
-    - New Test Overview: 'sort/newtest-overview.md'
+    - Topics List for Docs: 'sort/topics.md'
     - RA In Review: 'sort/ra-in-review.md'
     - RA-Trackers: 'sort/ra-trackers.md'
     - Regional Compatibility: 'sort/regional-compatibility.md'

@@ -1,7 +1,4 @@
-### RetroAchievements Manifesto
-  - [RetroAchievements Manifesto](RetroAchievements-Manifesto)
-
-### User Documentation
+### Topics Checklist
   - [User's Code of Conduct](Users-Code-of-Conduct)
     - Rules
       - (Merge short version and long version?)

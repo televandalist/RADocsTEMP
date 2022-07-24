@@ -35,61 +35,78 @@ _**Example:**  Diddy Kong Racing (USA) (En,Fr) (Rev 1)_
 
 You can verify that your ROM checksum matches the databases of No-Intro, Redump, or TOSEC either by using a rom manager with a dat provided by the preferred group or by verifying checksum manually and searching the dat for it in a text editor. Bear in mind that unlike a manual check, the rom manager may be able to skip over external headers to accurately verify integrity. Standard choices are [clrmamepro](https://mamedev.emulab.it/clrmamepro/) and [Romulus](https://romulus.cc/).
 
-## Preferred Groups Per Console
+### Consoles Per Group
 
-|Console ID|Console Name|Preferred Group|
-|:-:|---|:-:|
-|01|Genesis<br>Mega Drive|No Intro|
-|02|Nintendo 64|No Intro|
-|03|Super Nintendo<br>Super Famicom|No Intro|
-|03|Sufami Turbo|No Intro|
-|03|Satellaview|No Intro|
-|04|Game Boy|No Intro|
-|05|Game Boy Advance|No Intro|
-|06|Game Boy Color|No Intro|
-|07|NES<br>Famicom|No Intro|
-|07|Famicom Disk System|No Intro|
-|08|TurboGrafx-16<br>PC Engine|No Intro|
-|08|SuperGrafx|No Intro|
-|08|TurboGrafx-CD<br>PC Engine CD|Redump|
-|09|Sega CD<br>Mega CD|Redump|
-|10|Sega 32X|No Intro|
-|11|Master System<br>Mark III|No Intro|
-|12|PlayStation|Redump|
-|13|Atari Lynx|No Intro|
-|14|Neo Geo Pocket|No Intro|
-|14|Neo Geo Pocket Color|No Intro|
-|15|Game Gear|No Intro|
-|17|Atari Jaguar|No Intro|
-|18|Nintendo DS|No Intro|
-|23|Magnavox Odyssey 2|No Intro|
-|24|Pokemon Mini|No Intro|
-|25|Atari 2600|No Intro|
-|27|Arcade|Final Burn Neo|
-|28|Virtual Boy|No Intro|
-|29|MSX (Cartridges)|No Intro|
-|29|MSX (Disks)|TOSEC|
-|29|MSX2 (Cartridges)|No Intro|
-|29|MSX2 (Disks)|TOSEC|
-|33|SG-1000|No Intro|
-|38|Apple II|TOSEC|
-|39|Sega Saturn|Redump|
-|40|Sega Dreamcast|Redump|
-|41|PlayStation Portable|Redump|
-|41|PlayStation Portable|No Intro|
-|43|3DO|Redump|
-|44|ColecoVision|No Intro|
-|45|Intellivision|No Intro|
-|46|Vectrex|No Intro|
-|47|NEC PC-8001|Neo Kobe|
-|47|NEC PC-8001|TOSEC|
-|47|NEC PC-8801|Neo Kobe|
-|47|NEC PC-8801|TOSEC|
-|49|NEC PC-FX|Redump|
-|51|Atari 7800|No Intro|
-|53|WonderSwan|No Intro|
-|53|WonderSwan Color|No Intro|
-|63|Watara Supervision|No Intro|
+The follow are lists of supported consoles per group:
+
+**No Intro**
+  - Atari 2600
+  - Atari 7800
+  - Atari Jaguar
+  - Atari Lynx
+  - Bandai WonderSwan
+  - Bandai WonderSwan Color
+  - ColecoVision
+  - Emerson - Arcadia 2001
+  - Fairchild - Channel F
+  - GCE - Vectrex
+  - Interton - VC 4000
+  - Magnavox Odyssey2
+  - Mattell - Intellivision
+  - Microsoft - MSX (Cartridges)
+  - Microsoft - MSX2 (Cartridges)
+  - NEC PC Engine | TurboGrafx-16
+  - NEC SuperGrafx
+  - Nintendo - Famicom Disk System
+  - Nintendo - Game Boy
+  - Nintendo - Game Boy Advance
+  - Nintendo - Game Boy Color
+  - Nintendo - Nintendo 64
+  - Nintendo - Nintendo DS
+  - Nintendo - Nintendo Entertainment System
+  - Nintendo - Pokemon Mini
+  - Nintendo - Satellaview
+  - Nintendo - Sufami Turbo
+  - Nintendo - Super Nintendo Entertainment System
+  - Nintendo - Virtual Boy
+  - Sega - 32X
+  - Sega - Game Gear
+  - Sega - Master System - Mark III
+  - Sega - Mega Drive - Genesis
+  - Sega - PICO
+  - Sega - SG-1000
+  - Sega - Neo Geo Pocket
+  - Sega - Neo Geo Pocket Color
+  - Sony - PlayStation Portable (Digital Releases)
+  - Watara - Supervision
+  - Wellback - Mega Duck
+  
+**Redump**
+  - 3DO
+  - NEC - PC Engine CD - TurboGrafx-CD
+  - NEC - PC-FX
+  - Sega - Dreamcast
+  - Sega - Sega CD
+  - Sony - PlayStation
+  - Sony - PlayStation 2
+  - Sony - PlayStation Portable
+
+**Neo Kobe**
+  - NEC - PC-8001
+  - NEC - PC-8801
+
+**TOSEC**
+  - Apple - Apple II
+  - Microsoft - MSX (Disks)
+  - Microsoft - MSX2 (Disks)
+
+**Final Burn Neo**
+  - Arcade
+  - Various Home Consoles
+
+**CleanCPC**
+  - Amstrad CPC
+
 
 ## Translation patches
 

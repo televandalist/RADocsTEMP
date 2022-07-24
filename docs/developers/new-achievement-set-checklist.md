@@ -8,7 +8,7 @@ Before working on a new you must address all open tickets you have. Once you're 
 
 #### No
 
-Then ask for it to be added on Discord **#help-me** or on our forums and some dev will add it for you. It's essential you [choose the right ROM(s) to work with](Working-with-the-Right-ROM). If you want to work on a ROM hack, check the [achievements for ROM hacks](Achievements-for-ROM-hacks) doc first.
+Then ask for it to be added on Discord **#help-me** or on our forums and a dev will add it for you. It's essential you [choose the right ROM(s) to work with](Working-with-the-Right-ROM). If you want to work on a ROM hack, check the [achievements for ROM hacks](Achievements-for-ROM-hacks) doc first.
 
 #### Yes
 
@@ -19,7 +19,7 @@ Good! Go ahead.
 
 #### Yes
 
-If there is an existing set, don't give up. You can still improve it, by adding/removing/reworking achievements, or make changes to titles and images, etc. However you'll need to go through the [set revision process](Achievement-Set-Revisions).
+If there is an existing set, don't give up. You can still improve it, by adding/removing/reworking achievements, or make changes to titles and images, etc. However, you will most likely need to go through the [set revision process](Achievement-Set-Revisions).
 
 #### No
 
