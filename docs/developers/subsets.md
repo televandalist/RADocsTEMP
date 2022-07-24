@@ -21,38 +21,38 @@ The methods to create a Subset and means to play them will change once they beco
 
 ## Types of Subsets
 ### Bonus Sets
-While Bonus sets are subject to debate amongst both players and achievement creators, the overall purpose of a bonus set is for achievements that were not fit for the base set to have a home and still be obtainable by a devoted player. Think of them as "deluxe" challenges. The following types of achievements are the most suitable for Bonus Sets:<br><br>
-- **Extreme Challenges**: If it's generally voiced a challenge is **too difficult**, it's a prime candidate for a Bonus set.  However, just because the achievement(s) are possible to code does not mean they are possible to obtain; therefore, the achievement must still be obtainable. A good example of this is the infamous [Mr. Perfect from Mega Man (NES)](https://retroachievements.org/achievement/53290), which requires the player to complete the *entire* game without taking damage.<br>
-- **Grind Sessions**: If achievements involve overly long and frustrating grinds that have no meaningful purpose, they're better suited for Bonus sets. These include leveling characters to the maximum level, maxing out stats, performing a task an absurd amount of times, etc. when none of those things award the player. A good example of something grindy that awards the player, thus making it suitable for a base set, is [One of a Kind from Final Fantasy IV (SNES)](https://retroachievements.org/achievement/108720), which requires a highly RNG-reliant grind for an item to trade for said armor.<br>
-- **Variety Packs** - Want to do a mixture of Subset ideas all within one set because you don't want to do several different Subsets? Then do it and throw it in a Bonus set.<br>
-- **Showcasing of or Abuse of Glitches**: Glitching can have unpredictable effects in a game's memory, which can result in unwanted behavior for some achievements, thus making them not suitable for a base set. Some examples of this are [Replica from Final Fantasy VII (PlayStation)](https://retroachievements.org/achievement/83776) and [Rare Candy Addiction from Pokemon - Red and Blue Versions (Game Boy](https://retroachievements.org/achievement/57643).<br>
+While Bonus sets are subject to debate amongst both players and achievement creators, the overall purpose of a bonus set is for achievements that were not fit for the base set to have a home and still be obtainable by a devoted player. Think of them as "deluxe" challenges. The following types of achievements are the most suitable for Bonus Sets:
+- **Extreme Challenges**: If it's generally voiced a challenge is **too difficult**, it's a prime candidate for a Bonus set.  However, just because the achievement(s) are possible to code does not mean they are possible to obtain; therefore, the achievement must still be obtainable. A good example of this is the infamous [Mr. Perfect from Mega Man (NES)](https://retroachievements.org/achievement/53290), which requires the player to complete the *entire* game without taking damage.
+- **Grind Sessions**: If achievements involve overly long and frustrating grinds that have no meaningful purpose, they're better suited for Bonus sets. These include leveling characters to the maximum level, maxing out stats, performing a task an absurd amount of times, etc. when none of those things award the player. A good example of something grindy that awards the player, thus making it suitable for a base set, is [One of a Kind from Final Fantasy IV (SNES)](https://retroachievements.org/achievement/108720), which requires a highly RNG-reliant grind for an item to trade for said armor.
+- **Variety Packs** - Want to do a mixture of Subset ideas all within one set because you don't want to do several different Subsets? Then do it and throw it in a Bonus set.
+- **Showcasing of or Abuse of Glitches**: Glitching can have unpredictable effects in a game's memory, which can result in unwanted behavior for some achievements, thus making them not suitable for a base set. Some examples of this are [Replica from Final Fantasy VII (PlayStation)](https://retroachievements.org/achievement/83776) and [Rare Candy Addiction from Pokemon - Red and Blue Versions (Game Boy](https://retroachievements.org/achievement/57643).
 
 ### Multi Sets
 This one is simple. If an achievement *requires* input from more than one player in order to unlock it, then it cannot be in the base set. 
 
 ### Challenge Runs
-While many base sets include plenty of challenges, developers have the option to add challenges that last the duration of a game's playthrough to a Subset. These are typically self-imposed challenges that go against how a game is normally played. Examples:<br><br>
-- [Chrono Trigger - No Level Up](https://retroachievements.org/game/9966) - requires players to complete the game without ever leveling up their characters. <br>
-- [EarthBound - Rare Drops](https://retroachievements.org/game/18280) - requires players to obtain all the rare drops from enemies.<br>
-- [Final Fantasy - Solo Class](https://retroachievements.org/game/17996) - requires players to complete the game using only one character class, but they need to do it with every class to master the set.<br>
-- [Pokemon - Professor Oak Challenge](https://retroachievements.org/searchresults.php?s=Professor+Oak+Challenge) - There are several of these so far! This challenge requires players to catch and/or evolve every Pokemon possible between major story points in the game.<br>
-- [Trails in the Sky FC - NG Nightmare](https://retroachievements.org/game/11115) - requires players to obtain 100% completion in a single, NG (New Game) playthrough on the Nightmare difficulty setting, as opposed to doing it on NG+ with carryovers. <br>
+While many base sets include plenty of challenges, developers have the option to add challenges that last the duration of a game's playthrough to a Subset. These are typically self-imposed challenges that go against how a game is normally played. Examples:
+- [Chrono Trigger - No Level Up](https://retroachievements.org/game/9966) - requires players to complete the game without ever leveling up their characters. 
+- [EarthBound - Rare Drops](https://retroachievements.org/game/18280) - requires players to obtain all the rare drops from enemies.
+- [Final Fantasy - Solo Class](https://retroachievements.org/game/17996) - requires players to complete the game using only one character class, but they need to do it with every class to master the set.
+- [Pokemon - Professor Oak Challenge](https://retroachievements.org/searchresults.php?s=Professor+Oak+Challenge) - There are several of these so far! This challenge requires players to catch and/or evolve every Pokemon possible between major story points in the game.
+- [Trails in the Sky FC - NG Nightmare](https://retroachievements.org/game/11115) - requires players to obtain 100% completion in a single, NG (New Game) playthrough on the Nightmare difficulty setting, as opposed to doing it on NG+ with carryovers. 
 
 ### DLC and Expansions
-Not very common, but will become more common as our console support expands. Achievements in these sets are exclusive to a game's downloadable content or expansion pack(s). Examples:<br><br>
-- [Arc the Lad 2 - Arc Arena: Monster Tournament](https://retroachievements.org/game/17001) - released as a bonus disc in the Arc the Lad Collection, this requires save data from Arc the Lad 2 in order to play.<br>
-- [F-Zero X - Expansion Kit](https://retroachievements.org/game/10962) - achievements are for content exclusive to the 64DD expansion of the game.<br>
-- [Return Fire - Maps o' Death](https://retroachievements.org/game/16851) - a separate release that provides additional maps to the game. It requires save data from the original game in order to play.<br>
+Not very common, but will become more common as our console support expands. Achievements in these sets are exclusive to a game's downloadable content or expansion pack(s). Examples:
+- [Arc the Lad 2 - Arc Arena: Monster Tournament](https://retroachievements.org/game/17001) - released as a bonus disc in the Arc the Lad Collection, this requires save data from Arc the Lad 2 in order to play.
+- [F-Zero X - Expansion Kit](https://retroachievements.org/game/10962) - achievements are for content exclusive to the 64DD expansion of the game.
+- [Return Fire - Maps o' Death](https://retroachievements.org/game/16851) - a separate release that provides additional maps to the game. It requires save data from the original game in order to play.
 
 ### Regional Differences
 If a regional variant of a game does not have enough differences to warrant a "full" set, but you don't want to include it with the base set due to interference with base challenges, you can make a Subset to showcase the differences. 
 
 ## Naming Scheme
-To prevent players from getting confused, there is a specific naming scheme required for all Subsets:<br><br>
-- **Bonus Sets**: Must have `[Subset - Bonus]` following the base game title. For example: `Castlevania [Subset - Bonus]` and `Darkwing Duck [Subset - Bonus]`.<br>
-- **Multi Sets**: Must have `[Subset - Multi]` following the base game title. For example: `Contra [Subset - Multi]` and `Kirby 64: THe Crystal Shards [Subset - Multi]`.<br>
-- **Challenge Runs**: Must have `[Subset - Challenge Name/Type]` following the base game title. For example: `Chrono Trigger [Subset - No Level Up]` and `Pocket Monsters Midori [Subset - Monotype Challenge]`.<br>
-- **DLC and Expansions**: Must have `[Subset - DLC/Expansion Name` following the base game title. For example: `Return Fire - [Subset - Maps o' Death]` and `F-Zero X [Subset - Expansion Kit]`<br>
+To prevent players from getting confused, there is a specific naming scheme required for all Subsets:
+- **Bonus Sets**: Must have `[Subset - Bonus]` following the base game title. For example: `Castlevania [Subset - Bonus]` and `Darkwing Duck [Subset - Bonus]`
+- **Multi Sets**: Must have `[Subset - Multi]` following the base game title. For example: `Contra [Subset - Multi]` and `Kirby 64: THe Crystal Shards [Subset - Multi]`
+- **Challenge Runs**: Must have `[Subset - Challenge Name/Type]` following the base game title. For example: `Chrono Trigger [Subset - No Level Up]` and `Pocket Monsters Midori [Subset - Monotype Challenge]`
+- **DLC and Expansions**: Must have `[Subset - DLC/Expansion Name` following the base game title. For example: `Return Fire - [Subset - Maps o' Death]` and `F-Zero X [Subset - Expansion Kit]`
 
 ## Claims
 A developer does not need to claim an approved Subset if they are the sole author of the base set. If the developer is *not* the sole author of the base set, then they will need to post a plan in the forum and have it approved via revision voting. 
@@ -60,16 +60,16 @@ A developer does not need to claim an approved Subset if they are the sole autho
 If a junior developer wants to publish a Subset alongside a core set, they need to have their plan approved by code reviewers. 
 
 ## Approval
-The following are types of Subsets that are approved by default:<br><br>
-- Bonus<br>
-- Multi<br>
-- DLC/Expansions<br>
-- Glitch Showcases<br>
-- Regional Differences<br>
-- Challenge Run: Low Level Game/No Leveling Runs<br>
-- Challenge Run: Solo Class/Monotype Runs<br>
-- Challenge Run: Checkpoint Challenges, such as Professor Oak Challenges<br>
-- Challenge Run: Perma-Death Challenges, such as Nuzlocke Challenges<br>
+The following are types of Subsets that are approved by default:
+- Bonus
+- Multi
+- DLC/Expansions
+- Glitch Showcases
+- Regional Differences
+- Challenge Run: Low Level Game/No Leveling Runs
+- Challenge Run: Solo Class/Monotype Runs
+- Challenge Run: Checkpoint Challenges, such as Professor Oak Challenges
+- Challenge Run: Perma-Death Challenges, such as Nuzlocke Challenges
 
 Subsets that deviate from the above list, such as Rare Drops, will need to be approved by DevCompliance, which in turn may require a revision vote.
 

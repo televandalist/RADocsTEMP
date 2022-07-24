@@ -19,8 +19,6 @@ The complete list of pages is on the sidebar, but here's a brief description of 
 
 - [Downloads](Downloads): our alternative downloads page.
 
-- [Free Games](/games/homebrews): games that are completely and legally free download and play on your emulators.
-
 - [Events](Events): learn about the various community events that take place at RetroAchievements.
 
 - [My game is not loading achievements](My-game-is-not-loading-achievements): what you have to do when your game isn't loading achievements.

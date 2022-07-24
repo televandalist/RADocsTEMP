@@ -29,11 +29,15 @@ It's worth noting that these are general guidelines that apply to all rollouts. 
 
 ## Previous Rollouts
 
-|Console|Number of Sets on Launch Day|Relevant Links|
-|:-:|:-:|:-:|
-|PlayStation|24|[Launch Post](https://retroachievements.org/viewtopic.php?t=9302)|
-|PlayStation Portable|38|[Launch Post](https://retroachievements.org/viewtopic.php?t=14016)|
-|Dreamcast|34(?)|Launch Post Pending|
+|Launch Date|Console|Number of Sets on Launch Day|Relevant Links|
+|:-:|:-:|:-:|:-:|
+|2019-09-07|PlayStation|28|[Launch Post](https://retroachievements.org/viewtopic.php?t=9302)|
+|2021-10-01|PlayStation Portable|38|[Launch Post](https://retroachievements.org/viewtopic.php?t=14016)|
+|2022-02-12|Dreamcast|34|[Launch Post](https://retroachievements.org/viewtopic.php?t=15276)|
+|2022-03-28|Amstrad CPC|30|[Launch Post](https://retroachievements.org/viewtopic.php?t=15835)|
+|2022-05-08|Arduboy<br>WASM-4|38<br>25|[Launch Post](http://retroachievements.org/viewtopic.php?t=16456)
+|2022-XX-XX|Fairchild Channel F<br>Mega Duck|TBA|Launch Post Pending|
+
 
 ## Future Rollouts
 
@@ -42,7 +46,6 @@ Please note that there are no guarantees on when the following consoles will rec
 |Console|Number of Interested Developers|
 |:-:|:-:|
 |Amiga| 15 |
-|Amstrad CPC | 13 |
 |Atari 5200| 12 |
 |Atari ST| 13 |
 |Cassette Vision| 7 |
@@ -51,8 +54,6 @@ Please note that there are no guarantees on when the following consoles will rec
 |FM Towns| 8 |
 |Game & Watch| 16 |
 |GameCube| 51 |
-|Fairchild Channel F| 8 |
-|Mega Duck| 17 |
 |Neo Geo CD| 11 |
 |Nintendo 3DS| 46 |
 |Nokia N-Gage| 17 |

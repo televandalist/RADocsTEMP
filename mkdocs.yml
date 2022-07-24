@@ -30,9 +30,6 @@ nav:
       - Libretro Core Support: 'games/libretro-core-support.md'
       - Game Identification: 'games/game-identification.md'
       - Supported Consoles: 'games/supported-consoles.md'
-      - Supported but Not Validated: 'games/not-validated.md'
-      - Unsupported Consoles: 'games/unsupported-consoles.md'
-      - No Console ID: 'games/no-console-id.md'
     - 'Emulators':
       - RALibretro: 'games/emulators/ralibretro.md'
       - RAMeka: 'games/emulators/rameka.md'
@@ -138,7 +135,7 @@ nav:
     - RA In Review: 'sort/ra-in-review.md'
     - RA-Trackers: 'sort/ra-trackers.md'
     - Regional Compatibility: 'sort/regional-compatibility.md'
-    - Reporting Broken Shit: 'sort/reporting-a-broken-achievement.md'
+    - Reporting Broken Achievements: 'sort/reporting-a-broken-achievement.md'
     - Site Change Log: 'sort/site-change-log.md'
     - System Memory Mapping: 'sort/systems-memory-mapping.md'
     - Testing for Demo Mode: 'sort/testing-for-demo-mode.md'
