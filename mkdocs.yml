@@ -5,11 +5,9 @@ site_description: >-
 repo_name: 'televandalist/RADocsTEMP'
 repo_url: 'https://github.com/televandalist/RADocsTEMP'
 nav:
-  - 'RADocs': 
+  - 'Home': 
     - Home: 'index.md'
     - About Us: 'about-us.md'
-    - Downloads: 'downloads.md'
-    - Glossary: 'glossary.md'
     - Contributing with the Docs: 'contributing-with-the-docs.md'
   - 'Guidelines':
     - Overview: 'guidelines/overview.md'
@@ -18,11 +16,61 @@ nav:
       - Users Code of Conduct: 'guidelines/user-coc.md'
       - Global Leaderboard and Achievement Hunting Rules: 'guidelines/global-leaderboard-and-achievement-hunting-rules.md'
       - Ticket Etiquette: 'guidelines/ticket-etiquette.md'
-    - 'Development':
+    - 'Developers':
       - Developer Code of Conduct: 'guidelines/dev-coc.md'
       - DevCoC FAQ: 'guidelines/dev-coc-faq.md'
+    - 'Achievements':
+      - New Achievement Set Checklist: 'guidelines/new-achievement-set-checklist.md'
       - Content Guidelines: 'guidelines/contentguidelines.md'
+      - Achievement Set Requirements: 'guidelines/achievement-set-requirements.md'
+      - Achievements for ROM Hacks: 'guidelines/achievements-for-rom-hacks.md'
       - Achievement Scoring: 'guidelines/achievement-scoring.md'
+      - Revision Guidelines: 'guidelines/achievement-set-revisions.md'
+  - 'Development':
+    - Developers Home: 'development/devs-home.md'
+    - 'Getting Started':
+      - How to Become an Achievement Developer: 'development/how-to-become-an-achievement-developer.md'
+      - Getting Started as an Achievement Developer: 'development/getting-started-as-an-achievement-developer.md'
+      - Junior Developers: 'development/junior-devs.md'
+      - Creating Entries: 'development/creating-entries.md'
+    - 'Achievement Design':
+      - Achievement Design: 'development/design.md'
+      - Difficulty Scale and Balance: 'development/difficulty-scale-and-balance.md'
+      - Set Development Roadmap: 'development/set-development-roadmap.md'
+    - 'Achievement Creation':
+      - Memory Inspector Overview: 'development/memory-inspector-overview.md'
+      - 'Achievement Logic Features':
+        - Logic Features Home: 'development/logic-features-home.md'
+        - Hit Counts: 'development/hit-counts.md'
+        - Delta Values: 'development/delta-values.md'
+        - Prior Values: 'development/prior-values.md'
+        - 'Flags':
+          - ResetIf Flag: 'development/resetif.md'
+          - ResetNextIf Flag: 'development/resetnextif.md'
+          - PauseIf Flag: 'development/pauseif.md'
+          - AndNext and OrNext Flags: 'development/andnext-ornext.md'
+          - AddSource Flag: 'development/addsource.md'
+          - SubSource Flag: 'development/subsource.md'
+          - AddHits and SubHits Flags: 'development/addhits-subhits.md'
+          - AddAddress Flag: 'development/addaddress.md'
+          - Measured Flag: 'development/measured.md'
+          - Trigger Flag: 'development/trigger.md'
+        - BitCount Size: 'development/bitcount-size.md'
+        - Alt Groups: 'development/alt-groups.md'
+        - Value Definition: 'development/value-definition.md'
+        - Condition Syntax: 'development/condition-syntax.md'
+        - Minimum Required Versions for Logic Features: 'development/minimum-required-versions-for-logic-features.md'
+      - Achievement Creation Tutorials: 'development/achievement-creation-tutorials.md'
+      - Things to Avoid and Why: 'development/avoid.md'
+      - Achievement Templates: 'development/achievement-templates.md'
+      - Tips and Tricks: 'development/tips-and-tricks.md'
+      - Console Specific Tips: 'development/console-specific-tips.md'
+    - Badge and Icon Creation: 'development/badge-and-icon-creation.md'
+    - Leaderboards: 'development/leaderboards.md'
+    - Rich Presence: 'development/rich-presence.md'
+    - RATools: 'development/ratools.md'
+    - Working with the Right ROM: 'development/working-with-the-right-rom.md'
+    - Subsets: 'development/subsets.md'
   - 'Games':
     - Games Home: 'games/games-home.md'
     - Requests: 'games/requests.md'
@@ -35,77 +83,19 @@ nav:
       - RetroArch: 'games/emulators/retroarch.md'
       - RALibretro: 'games/emulators/ralibretro.md'
       - RAQUASI88: 'games/emulators/raquasi88.md'
-  - 'General':
-    - Players Home: 'general/home.md'
-    - User FAQ: 'general/userfaq.md'
-    - 'Community':
-      - Community Home: 'general/community/home.md'
-      - RANews: 'general/community/ranews.md'
-      - 'Events':
-        - Events Home: 'general/community/events.md'
-        - Devquest: 'general/community/events/devquest.md'
-        - Rollouts: 'general/community/events/rollouts.md'
-      - 'Discord':
-        - Discord Home: 'general/community/discord.md'
-        - RABot: 'general/community/discord/rabot%2C-the-ra-discord-robot.md'
-  - 'Developers':
-    - Developers Home: 'developers/devs-home.md'
-    - 'Getting Started':
-      - How to Become an Achievement Developer: 'developers/how-to-become-an-achievement-developer.md'
-      - Getting Started as an Achievement Developer: 'developers/getting-started-as-an-achievement-developer.md'
-      - Junior Developers: 'developers/junior-devs.md'
-      - New Achievement Set Checklist: 'developers/new-achievement-set-checklist.md'
-    - Memory Inspector Overview: 'developers/memory-inspector-overview.md'
-    - 'Achievement Logic Features':
-      - Logic Features Home: 'developers/features/logic-features-home.md'
-      - Hit Counts: 'developers/features/hit-counts.md'
-      - Delta Values: 'developers/features/delta-values.md'
-      - Prior Values: 'developers/features/prior-values.md'
-      - 'Flags':
-        - ResetIf Flag: 'developers/features/flags/resetif.md'
-        - ResetNextIf Flag: 'developers/features/flags/resetnextif.md'
-        - PauseIf Flag: 'developers/features/flags/pauseif.md'
-        - AndNext and OrNext Flags: 'developers/features/flags/andnext-ornext.md'
-        - AddSource Flag: 'developers/features/flags/addsource.md'
-        - SubSource Flag: 'developers/features/flags/subsource.md'
-        - AddHits and SubHits Flags: 'developers/features/flags/addhits-subhits.md'
-        - AddAddress Flag: 'developers/features/flags/addaddress.md'
-        - Measured Flag: 'developers/features/flags/measured.md'
-        - Trigger Flag: 'developers/features/flags/trigger.md'
-      - BitCount Size: 'developers/features/bitcount-size.md'
-      - Alt Groups: 'developers/features/alt-groups.md'
-      - Value Definition: 'developers/features/value-definition.md'
-      - Condition Syntax: 'developers/features/condition-syntax.md'
-      - Minimum Required Versions for Logic Features: 'developers/features/minimum-required-versions-for-logic-features.md'
-    - Console Specific Tips: 'developers/console-specific-tips.md'
-    - 'Achievement Creation Tutorials':
-      - Achievement Creation Tutorials Home: 'developers/achievement-creation-tutorials.md'
-    - Logic Examples: 'developers/logic-examples.md'
-    - 'Real Examples':
-      - Real Examples Home: 'developers/real-examples.md'
-      - Using Hit Counts as a Timer: 'developers/realexamples/using-hit-counts-as-a-timer.md'
-      - Using Delta Values and Hit Counts to Detect an Increment: 'developers/realexamples/using-delta-values-and-hit-counts-to-detect-an-increment.md'
-      - Circumvent the Problem of a Counter Incrementing Twice in the Same Frame: 'developers/realexamples/circumvent-the-problem-of-a-counter-incrementing-twice-in-the-same-frame.md'
-      - Creating a Timer with ResetIf Hits based on the Speed of the Game: 'developers/realexamples/creating-a-timer-with-resetIf-hits-based-on-the-speed-of-the-game.md'
-      - Using Add Source and Deltas for Collectibles or Similar Achievements: 'developers/realexamples/addsource-collectibles.md'
-    - Achievement Templates: 'developers/achievement-templates.md'
-    - Tips and Tricks: 'developers/tips-and-tricks.md'
-    - Difficulty Scale and Balance: 'developers/difficulty-scale-and-balance.md'
-    - Achievement Design: 'developers/design.md'
-    - Set Development Roadmap: 'developers/set-development-roadmap.md'
-    - Achievement Set Revisions: 'developers/achievement-set-revisions.md'
-    - Leaderboards: 'developers/leaderboards.md'
-    - Rich Presence: 'developers/rich-presence.md'
-    - Working with the Right ROM: 'developers/working-with-the-right-rom.md'
-    - Achievements for ROM Hacks: 'developers/achievements-for-rom-hacks.md'
-    - Subsets: 'developers/subsets.md'
-    - 'Resources':
-      - 'developers/resources/links.md'
-  - 'Artists':
-    - Artists Home: 'artists/art-home.md'
-    - Badge and Icon Creation: 'artists/badge-and-icon-creation.md'
+  - 'Community':
+    - Community Home: 'community/home.md'
+    - RANews: 'community/ranews.md'
+    - 'Events':
+      - Events Home: 'community/events.md'
+      - Devquest: 'community/events/devquest.md'
+      - Rollouts: 'community/events/rollouts.md'
+    - 'Discord':
+      - Discord Home: 'community/discord.md'
+      - RABot: 'community/discord/rabot%2C-the-ra-discord-robot.md'
   - 'Support':
     - FAQ: 'support/faq.md'
+    - Glossary: 'support/glossary.md'
     - Multi Disc Games Tutorial: 'support/multi-disc-games-tutorial.md'
     - Working with DLC for the PlayStation Portable: 'support/working-with-dlc-for-the-playstation-portable.md'
     - How to configure OBS Studio to see the popups: 'support/how-to-configure-obs-studio-to-see-the-popups.md'
@@ -118,6 +108,7 @@ nav:
     - Other Home: 'sort/other-home.md'
     - Badge Event Creation Policy: 'sort/badge-event-creation-policy.md'
     - Combining Flags: 'sort/combining-flags.md'
+    - Downloads: 'sort/downloads.md'
     - Forum Labels: 'sort/forum-labels.md'
     - LB Bug and Improvement: 'sort/leaderboard-bug-list-and-improvement-ideas.md'
     - Topics List for Docs: 'sort/topics.md'

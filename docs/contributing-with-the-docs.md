@@ -1,3 +1,6 @@
+!!! attention "Out-of-Date!"
+    This entire page will need to be rewritten to reflect changes.
+
 ## Summing up
 
 1. Log into your github account (or [create an account](https://github.com/join) if you don't have one)!

@@ -1,3 +1,6 @@
+!!! attention "Out-of-Date!"
+    Some of this info can be reused for a page detailing linkedhashes.php and managehashes.php
+
 Every ROM that is linked to an achievement set should be clearly identified and labeled in the game entry's forum topic. These labels help players know which versions of a game are compatible as well as if there are any translation patches, bug fixes, cosmetic hacks, quality of life hacks, etc. that they can use. 
 
 ## Info to Include

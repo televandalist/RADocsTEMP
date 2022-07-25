@@ -2,7 +2,7 @@
 
 ## Hardcore/Softcore
 
-Some users like to use the save/load state feature to save their progress in a game. As you may know, this feature isn't allowed when playing with hardcore mode. But some users aren't hardcore gamers and prefer to keep hardcore mode disabled (let's call this mode softcore)!
+Some users like to use the save/load state feature to save their progress in a game. As you may know, this feature isn't allowed when playing with hardcore mode. But some users aren't hardcore gamers and prefer to keep hardcore mode disabled (let's call this mode softcore).
 
 From time to time some users [report](FAQ#how-do-i-report-a-broken-achievement) that an achievement isn't triggering, and when asked they say they were playing in softcore.
 

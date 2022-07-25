@@ -12,6 +12,15 @@ There are other [factors](#factors-to-consider-while-scoring-achievements) you s
 
 Scoring from set to set will never perfectly match up, but this scoring system allows the points earned to more closely match skill and effort.
 
+## Exceptions
+Some games may come up as exceptions to the normal scoring tiers and will be listed here.
+- Picross and Sudoku achievements fall under a special scoring category as follows based on difficulty:
+Easy - 1 point,
+Medium - 2-3 points,
+Hard - 4-5 points
+- Picross 3D is an exception to this rule and is scored normally
+- Further exceptions can be requested by Code Reviewers and/or Admins on a case by case basis
+
 ## Rescoring
 
 Up until June 2019, RetroAchievements had a 400-point cap per set, with no restrictions on individual achievements. The set cap was removed to put less focus on set totals and more on the achievements themselves. This initiative was also meant to eliminate the misconception that a set worth 400 points is a "complete" set. 
