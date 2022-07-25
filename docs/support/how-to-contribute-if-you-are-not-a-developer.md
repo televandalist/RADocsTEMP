@@ -16,14 +16,14 @@ Go to RetroAchievements -> Report Broken Achievements, this feature is only avai
 
 See this example:
 
-![how to report](/support/images-how-to-contribute/ralib-how-to-report.gif).
+![how to report](/support/images/ralib-how-to-report.gif).
 
 
 ### Report via website
 
 On every achievement's page you see a link saying `Report an issue for this achievement`, like in the image below:
 
-![open-ticket-on-site](/support/images-how-to-contribute/report-issue.jpg)
+![open-ticket-on-site](/support/images/report-issue.jpg)
 
 
 ## Suggest cool achievements/challenges

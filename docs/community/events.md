@@ -1,19 +1,16 @@
 ## Current Events
 |Event Name|Current Host(s)|Relevant Link|More Info|
 |-|-|-|-|
-|Achievement of the Week|Flara<br>ikki5|||
-|Challenge League 4|BahamutVoid|||
-|Daily DistRActions|Bendyhuman|||
-|[DevQuests](/general/community/events/devquest)|Various||Developer Event (Series)|
-|Leaderboard of the Month|Searo|||
-|Peak Streak|Bendyhuman|||
-|RetroAchievements Roulette (RAWR)|StingX2|||
-|Retro Game Show|Thoreau|||
-|[Rollouts](/general/community/events/rollouts)|||
-|Simple Monthly Master|Hotscrock|||
-|The Unwanted|televandalist|||
-|UserQuests(?)|Various||Player Event (Series)|
-
+|[Achievement of the Week](/community/aotw)|Flara<br>ikki5|||
+|[Challenge League 4](/community/challengeleague)|BahamutVoid|||
+|[Daily DistRActions](/community/dailystractions)|Bendyhuman|||
+|[DevQuests](/community/devquest)|Various||Developer Event (Series)|
+|[Leaderboard of the Month](/community/lbotm)|Searo|||
+|[Peak Streak](/community/peakstreak)|Bendyhuman|||
+|[QualityQuest](/community/qualityquest)|SnowPin|||
+|[RetroAchievements Roulette (RAWR)](/community/rawr)|StingX2|||
+|[Rollouts](/community/rollouts)|||
+|[The Unwanted](/community/theunwanted)|AuburnRDM<br>StingX2<br>televandalist|||
 
 ## Past or Seasonal Events
 |Event Name|Previous Host(s)|Relevant Link|More Info|

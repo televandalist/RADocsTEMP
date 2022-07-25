@@ -1,3 +1,0 @@
-# RetroArch
-
-Yo. Hello again

@@ -37,7 +37,7 @@ Additional info that may be included:
 
 ### Deja Vu (NES)
 
-![dejavu-hash-label](/sort/images-sort/forumlabels1.PNG)
+![dejavu-hash-label](/games/images/forumlabels1.PNG)
 
 By looking at the label above, a player will know the following:
 - The standard US No Intro ROM is supported.
@@ -63,7 +63,7 @@ By looking at the label above, a player will know the following:
 
 ### Snatcher (Sega CD)
 
-![snatcher-hash-label](/sort/images-sort/forumlabels2.PNG)
+![snatcher-hash-label](/games/images/forumlabels2.PNG)
 
 ```
 [img=https://retroachievements.org/Images/labels/redump.png]
@@ -73,7 +73,7 @@ By looking at the label above, a player will know the following:
 
 ### Parasite Eve (PlayStation)
 
-![parasite-eve-hash-label](/sort/images-sort/forumlabels3.PNG)
+![parasite-eve-hash-label](/games/images/forumlabels3.PNG)
 
 ```
 [img=https://retroachievements.org/Images/labels/redump.png]
@@ -102,7 +102,7 @@ By looking at the label above, a player will know the following:
 
 ### Legend of Heroes, The: Trails in the Sky FC (PlayStation Portable)
 
-![trails-fc-hash-label](/sort/images-sort/forumlabels4.PNG)
+![trails-fc-hash-label](/games/images/forumlabels4.PNG)
 
 ```
 [img=https://retroachievements.org/Images/labels/redump.png] [img=https://retroachievements.org/Images/labels/nointro.png]
