@@ -1,37 +1,36 @@
 !!! attention "Out-of-Date!"
-    Some of this info can be reused for a page detailing linkedhashes.php and managehashes.php
+    Under heavy construction! Need to include more info on the linkedhashes.php and managehashes.php pages!
 
-Every ROM that is linked to an achievement set should be clearly identified and labeled in the game entry's forum topic. These labels help players know which versions of a game are compatible as well as if there are any translation patches, bug fixes, cosmetic hacks, quality of life hacks, etc. that they can use. 
+Every ROM that is linked to an achievement set should be clearly identified and labeled. These labels help players know which versions of a game are compatible as well as if there are any translation patches, bug fixes, cosmetic hacks, quality of life hacks, etc. that they can use. 
 
-## Info to Include
-The most important things to include in a forum label:
-- Group - No Intro, Redump, FB Neo, etc. Typically done by including one of the images in the chart below.
-- Filename - Filenames often include the game title, region, languages, and revision number. Each are extremely important, especially when there are multiple ROMs for a game. 
-- RA Checksum: Check [Game Identification](game-identification) to learn more about these.
-
-Additional info that may be included:
-- ROM Checksum
-- CRC32 Checksum
-- Links to patches, if applicable. (Add note about RAPatches later)
+## Info for Linked Hashes
+- RA Hash: Check [Game Identification](game-identification) to learn more about these. These appear in `Manage Hashes` automatically.
+- Filename - Filename should be entered as the description. These are typically automatic, but may need some adjustments.
+- Labels - You can use the labels listed below by using the filename of the image (no extension).
 
 ## Images
 
 |Name|Label|Note|
 |:-:|:-:|:-:|
-|Linked Files|![linked-files-label](https://retroachievements.org/Images/labels/linkedfiles.png)|Optional header for the labels|
 |Main|![main-label](https://retroachievements.org/Images/labels/main.png)|Sometimes used to show the primary ROM used by the set developer(s)|
+|RAPatches|![RAPatches](https://retroachievements.org/Images/labels/rapatches.png)|Used when the hash requires a patch hosted on RAPatches|
 |No Intro|![no-intro-label](https://retroachievements.org/Images/labels/nointro.png)|The most common for cartridge-based games|
 |Redump|![redump-label](https://retroachievements.org/Images/labels/redump.png)|The most common for disc-based games|
 |TOSEC|![tosec-label](https://retroachievements.org/Images/labels/tosec.png)|
 |FB Neo|![fb-neo-label](https://retroachievements.org/Images/labels/fbneo.png)|Used for Arcade|
+|Clean CPC|![clean-cpc](https://retroachievements.org/Images/labels/cleancpc.png)|Amstrad preservation project|
+|4AM Crack|![4am-crack](https://retroachievements.org/Images/labels/4amcrack.png)|Used for Apple II|
 |Neo Kobe|![neo-kobe-label](https://retroachievements.org/Images/labels/neokobe.png)|Mostly for PC-8001 and PC-8801|
+|Homebrew|![homebrew](https://retroachievements.org/Images/labels/homebrew.png)|Used for, you guessed it: Homebrews!|
 |Atari Age|![atari-age-label](https://retroachievements.org/Images/labels/atariage.png)|Popular site for Homebrews|
 |itch.io|![itch-io-label](https://retroachievements.org/Images/labels/itchio.png)|Popular site for Homebrews|
 |MSU-1|![msu-1-label](https://retroachievements.org/Images/labels/msu1.png)|Used to mark SNES ROMs with MSU-1 patches|
+|SNES Mini|![snes-mini](https://retroachievements.org/Images/labels/snesmini.png)
 |mamesl|![mamesl-label](https://retroachievements.org/Images/labels/mamesl.png)|MAME Software List
 |GoodTools|![goodtools-label](https://retroachievements.org/Images/labels/goodtools.png)|
 |NonGood|![nongood-label](https://retroachievements.org/Images/labels/nongood.png)|
 |Offline List|![offline-list-label](https://retroachievements.org/Images/labels/offlinelist.png)|
+
 
 ## Examples
 
