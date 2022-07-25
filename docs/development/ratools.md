@@ -1,5 +1,6 @@
 ## About RATools
 [RATools](https://github.com/Jamiras/RATools) is a standalone executable designed to assist developers of the retroachievements.org community. It's primary purpose is to provide a scripting language for achievement development.
+
 * [**Releases**](https://github.com/Jamiras/RATools/releases)
 * [**Wiki**](https://github.com/Jamiras/RATools/wiki)
 
@@ -8,6 +9,7 @@
 
 ## Tutorials
 The user [Etron](https://retroachievements.org/user/Etron) writes an ongoing series of RATools tutorials, which appear in RANews each month.
+
 * [**Getting Started**](https://news.retroachievements.org/issues/2022-02/rascript.html#tutorial-0---getting-started): Introduction to using RATools
 * [**Memory**](https://news.retroachievements.org/issues/2022-02/rascript.html#tutorial-1---memory-basics): Examples of variables and functions - Example Game: Sonic the Hedgehog
 * [**Add Hits**](https://news.retroachievements.org/issues/2022-03/rascript.html#tutorial-2---add-hits): Examples of counting with tally - Example Game: Streets of Rage 2 
