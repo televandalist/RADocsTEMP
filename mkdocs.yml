@@ -90,7 +90,7 @@ nav:
     - 'Entry, Hash, and Patch Management':
       - Working with the Right ROM: 'games/working-with-the-right-rom.md'
       - Creating Entries: 'games/creating-entries.md'
-      - Forum Labels: 'games/forum-labels.md'
+      - Hash Labels: 'games/hashlabels.md'
       - Compatibility Testing: 'games/compatibility-testing.md'
       - RAPatches: 'games/rapatches.md'
       - Naming Conventions: 'games/namingconventions.md'
