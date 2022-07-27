@@ -1,8 +1,8 @@
 This document covers developers' rights, responsibilities, and rules for fair play.
 
-**If you are not a dev, check [how to become a developer](How-to-Become-an-Achievement-Developer).**
+**If you are not a dev, check [how to become a developer](/development/how-to-become-an-achievement-developer/).**
   
-**See Also**: [Users Code of Conduct](Users-Code-of-Conduct).
+**See Also**: [Users Code of Conduct](/guidelines/user-coc).
 
 ## Golden Rules
 
@@ -16,7 +16,7 @@ This document covers developers' rights, responsibilities, and rules for fair pl
 
 - When planning to work on a new game, reserve it by [announcing your plan to work on it](#reserving-a-game-for-achievement-development) in a new post specific for that purpose.
 - Only announce new plans when you are [free of unaddressed tickets](#handling-tickets).
-- Keep your work free from [unwelcome concepts](#unwelcome-concepts).
+- Keep your work free from [unwelcome concepts](/guidelines/unwelcome-concepts).
 - Use [protective code](#every-achievement-set-must-have), preventing potential cheating and exploits.
 - Leave accurate [code notes](#code-notes) for each achievement condition you use.
 - For set revisions, follow the [revision policy](Achievement-Set-Revisions).
@@ -25,7 +25,7 @@ This document covers developers' rights, responsibilities, and rules for fair pl
 
 ## Developing a new achievement set
 
-Before you begin working on a new achievement set go through the [new achievement set checklist](New-Achievement-Set-Checklist).
+Before you begin working on a new achievement set go through the [new achievement set checklist](/guidelines/new-achievement-set-checklist).
 
 ## Reserving a game for achievement development
 
@@ -69,14 +69,14 @@ Upon reserving a set, wait at least 24 hours before promoting it to core. This a
 ### Important Notes
 
 - If you post a complete plan, be open to suggestions; you can get excellent input and suggestions this way.
-- You must adhere to the [Basic Achievement Design Guidelines](#basic-achievement-design-guidelines), otherwise your set won't be allowed.
+- You must adhere to the [Unwelcome Concepts](/guidelines/unwelcome-concepts), otherwise your set won't be allowed.
 - **When you publish your work you are giving it over to the community to be reviewed and reworked over time.**
 
 #### Collaboration
 
 - Let others know if you welcome collaborators.
 - If you've recently reserved a set and someone else voices desire to work on a set that you've reserved within the last 24 hours (beyond suggesting ideas), consider ways in which you can collaborate with them.
-- If someone reserved a game you're interested in before you, don't get frustrated. You are encouraged to request collaboration. You can post your desire to collaborate in the forum or send them a message to get permission from them to publish your contributions. You can also wait and go through an [Achievement Set Revision](Achievement-Set-Revisions) after the set is published.
+- If someone reserved a game you're interested in before you, don't get frustrated. You are encouraged to request collaboration. You can post your desire to collaborate in the forum or send them a message to get permission from them to publish your contributions. You can also wait and go through an [Achievement Set Revision](/guidelines/revision-guidelines) after the set is published.
 
 ## Handling Tickets
 
@@ -125,7 +125,7 @@ If this happens to you, you are very welcome to come back to the scene if you wa
 
 ## Achievement Ownership
 
-**When you publish your work you are giving it over to the community** to be reviewed and reworked over time - see [Achievement Set Revisions](Achievement-Set-Revisions). 
+**When you publish your work you are giving it over to the community** to be reviewed and reworked over time - see [Revision Guidelines](/guidelines/revision-guidelines). 
 
 While the original developer does not own published achievements they are still the caretaker in terms of bug fixing and maintenance. If another developer revises the achievement they are the new caretaker of that achievement.
 
