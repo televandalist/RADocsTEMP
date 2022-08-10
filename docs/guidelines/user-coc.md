@@ -1,10 +1,11 @@
 - [Mission Statement](#mission-statement)
 - [Rules](#rules)
-    - [Short Version](#short-version)
-    - [Long Version](#long-version)
+    - [Unacceptable Social Behavior](#unacceptable-social-behavior)
     - [Freedom of Speech](#freedom-of-speech)
-- [How Moderation Works](#how-moderation-works)
-    - [What to do if you think moderation is wrong](#what-to-do-if-you-think-moderation-is-wrong)
+- [Moderation](#moderation)
+	- [Order of Action](#order-of-action)
+    - [Reporting Wrongful Action](#reporting-wrongful-action)
+    - [Ban Appeal](#ban-appeal)
 - [Cheating](#cheating)
 - [FAQ](#faq)
 
@@ -16,36 +17,18 @@ The RetroAchievements project aims to provide tools for creating achievements fo
 
 ## Rules
 
-There's a lot of retrogamers around the globe, spanning various different cultures, points of view, and opinions. Therefore, in order to provide a healthy environment for the community to share their passion for retrogames, we need some rules.
-
-
-### Short Version
-
-This short version should be enough for most people:
+In order to support the growth of our community as described in our mission statement, we need some rules. 
 
 1. Don't be a jerk or generally obnoxious - nobody likes trolls.
 2. Don't use our website or Discord server to share copyrighted material or information about where they can be downloaded.
-3. Keep the Discord channels and forum threads on-topic (we do have a section for off-topic chatting, though).
+3. Keep the Discord channels and forum threads on-topic.
 4. When a moderator/admin asks you to stop, you should stop.
 5. When in doubt, ask a @mod in Discord or send a message to [RAdmin](http://retroachievements.org/createmessage.php?t=RAdmin) on the website.
 
 
+### Unacceptable Social Behavior
 
-### Long Version
-
-If the [short version](#short-version) is not clear enough for you, here's a detailed one:
-
-#### Examples of expected behavior
-
-- Focusing on what is best for the community.
-- Showing empathy towards other community members.
-- Being respectful when expressing your viewpoint.
-- Gracefully accepting constructive and respectful criticism.
-- Reporting to moderators/admins cases where these rules are being violated.
-
-
-#### Unacceptable social behavior
-
+In addition to the rules above, the following behavior(s) are considered rule-breaking:
 - Asking for or posting links to sites where others could download copyrighted material.
 - Spamming messages or attempting to vandalize Discord or the website by any means.
 - Advertising products, services, or other Discord servers without approval.
@@ -57,16 +40,11 @@ If the [short version](#short-version) is not clear enough for you, here's a det
 - Posting pornography, as in images or descriptions of erotic behavior intended to cause sexual excitement. 
 - Posting gruesome or gory images intended to cause disgust.
 - Publishing others' private information, such as a photos of them or their physical or electronic address, without explicit permission.
-
-
-#### Behavior strongly frowned upon
-
 - Heated public arguments.
 - Excessive shitposting.
 - Personal attacks, as in making abusive remarks on or relating to one's person, instead of providing evidence when examining another person's claims or comments.
 
-The moderators will step in to cool things down if arguments start getting out of hand. Check below [how moderation works](#how-moderation-works).
-
+Please report  to moderators/admins cases where these rules and behaviors are being violated. The moderators will step in to cool things down if arguments start getting out of hand.
 
 
 ### Freedom of Speech
@@ -75,42 +53,42 @@ If you just want to rant or dump derogatory comments about how we run things her
 
 Keep in mind that RetroAchievements.org is NOT a bastion of freedom of speech.
 
-If you have criticism, you're very welcome to say it, just be sure to be civil.
+Criticism is welcome, but just be sure to be civil.
 
 
-
-## How Moderation Works
+## Moderation
 
 If you feel moderation is needed, ping the @mod role on our Discord server, or direct your issues to [RAdmin](http://retroachievements.org/createmessage.php?t=RAdmin), a shared mod-mail account.
 
 
-The moderation goal is to assure users adhere to the User's Code of Conduct.
+### Order of Action
 
+The moderation teams' goal is to assure users adhere to the User's Code of Conduct. If a member from moderation spots an action that is a breach of this Code of Conduct, the following steps will be taken for proper action:
 
-What a moderator should do after seeing a breach to the Code of Conduct:
-
-1. Formal and diplomatic warning (no sarcasm, no threatening tone).
+1. Formal and diplomatic warning via carl-bot. (no sarcasm, no threatening tone).
 
 2. If the warning is ignored, the offender will be kicked from our Discord server.
 
+**Note**: For website offenses, Step 2 is ignored. If the offender ignores the warning in Step 1, the next action results in a ban as detailed below:
+
 3. If the offender continues to ignore the moderation, they'll be banned from our Discord server. If the offender has the "Developer" role on the website, their privileges will be removed.
 
-**Note**: on the website there's no "kick". If the offender ignores the warning, the next step is a ban.
 
-If you've been banned and somehow want to appeal to have your access back, send an email to <ramodmail@gmail.com> or a Direct Message to [RAdmin](http://retroachievements.org/createmessage.php?t=RAdmin).
-
-
-### What to do if you think moderation is wrong
+### Reporting Wrongful Moderation
 
 If you think moderators are not acting like described above, send a Direct Message to [RAdmin](http://retroachievements.org/createmessage.php?t=RAdmin) or email <ramodmail@gmail.com>. This is a shared moderation account that all mods and admins see. The issue will be discussed and dealt with fairly.
 
 Admins/mods who do not follow or enforce this Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's administration.
 
 
+### Ban Appeal
+
+If you've been banned and want to appeal to have your account access back, please send a site Direct Message to [RAdmin](http://retroachievements.org/createmessage.php?t=RAdmin). In the event that your site account has been banned, please send an email to <ramodmail@gmail.com>.
+
 
 ## Cheating
 
-Check the [Global Leaderboard and Achievement Hunting Rules](Global-Leaderboard-and-Achievement-Hunting-Rules).
+Check the [Global Leaderboard and Achievement Hunting Rules](/guidelines/Global-Leaderboard-and-Achievement-Hunting-Rules).
 
 
 ## FAQ
@@ -120,10 +98,6 @@ Check the [Global Leaderboard and Achievement Hunting Rules](Global-Leaderboard-
 - [Is it mandatory for achievement creators to join the Discord server?](#is-it-mandatory-for-achievement-creators-to-join-the-discord-server)
 - [If an achievement creator is banned from Discord will they lose the "Developer" role on the website?](#if-an-achievement-creator-is-banned-from-discord-will-they-lose-the-developer-role-on-the-website)
 - [If I'm banned from the Discord server but I still want to create achievements, what should I do?](#if-im-banned-from-the-discord-server-but-i-still-want-to-create-achievements-what-should-i-do)
-
-
-
-
 
 
 ### When a member gets banned from the Discord server, are they automatically banned from the website?
@@ -139,7 +113,6 @@ The member will still be able to use our services to play retrogames with achiev
 No.
 
 
-
 ### Is it mandatory for achievement creators to join the Discord server?
 
 No.
@@ -148,12 +121,9 @@ Joining our Discord server is optional. But if you're in the list of banned user
 
 
 
-
 ### If an achievement creator is banned from Discord will they lose the "Developer" role on the website?
 
 Yes.
-
-
 
 
 
