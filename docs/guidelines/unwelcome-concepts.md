@@ -1,7 +1,3 @@
-## Basic Achievement Design Guidelines
-
-### Unwelcome Concepts
-
 You can (and should) be as creative as you can, but there are some concepts that are typically **NOT** welcome for achievements, such as:
 
 1. Requiring Glitches/Bugs [^1] (acceptable in specific [Subsets](/developers/subsets)).

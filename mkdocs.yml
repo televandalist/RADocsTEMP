@@ -21,13 +21,11 @@ nav:
     - 'Developers':
       - Developer Code of Conduct: 'guidelines/dev-coc.md'
       - DevCoC FAQ: 'guidelines/dev-coc-faq.md'
-    - 'Achievements':
-      - New Achievement Set Checklist: 'guidelines/new-achievement-set-checklist.md'
-      - Content Guidelines: 'guidelines/contentguidelines.md'
+      - New Achievement Set Checklist: 'guidelines/new-achievement-set-checklist.md'      
       - Achievement Set Requirements: 'guidelines/achievement-set-requirements.md'
-      - Achievements for ROM Hacks: 'guidelines/achievements-for-rom-hacks.md'
-      - Achievement Scoring: 'guidelines/achievement-scoring.md'
-      - Revision Guidelines: 'guidelines/achievement-set-revisions.md'
+      - Achievements for ROM Hacks: 'guidelines/achievements-for-rom-hacks.md'      
+      - Revision Guidelines: 'guidelines/revision-guidelines.md'
+      - Unwelcome Concepts: 'guidelines/unwelcome-concepts.md'      
   - 'Development':
     - Developers Home: 'development/devs-home.md'
     - 'Getting Started':
