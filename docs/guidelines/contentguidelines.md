@@ -4,7 +4,7 @@
 
 You can (and should) be as creative as you can, but there are some concepts that are typically **NOT** welcome for achievements, such as:
 
-1. Requiring Glitches/Bugs<sup>1</sup> (acceptable in specific [Subsets](/developers/subsets)).
+1. Requiring Glitches/Bugs [^1] (acceptable in specific [Subsets](/developers/subsets)).
 2. Requiring input from two or more players (acceptable in specific [Subsets](/developers/subsets)). 
 3. Requiring perfection through the entire game (acceptable in specific [Subsets](/developers/subsets)).
 4. Playing poorly for no meaningful purpose. Exceptions to this include "Bad Endings" or when the game itself ties significance to such actions.
@@ -18,6 +18,6 @@ You can (and should) be as creative as you can, but there are some concepts that
 12. Sets for compilations featuring games that share the same console as the compilation. An example of this is 6-Pak for Genesis/Mega Drive, which contains six Genesis/Mega Drive games.
 13. Prototypes/Beta sets if there is no discernible unique content from the main game. (This is just an extension of the demo rule).
 
-<sup>1</sup> Glitches/Bugs are errors within a game's code which often cause unintended behavior. Examples are memory overflow, incorrectly loaded levels, and clipping into objects.
+[^1]: Glitches/Bugs are errors within a game's code which often cause unintended behavior. Examples are memory overflow, incorrectly loaded levels, and clipping into objects.
 
 **Note**: With every rule, there are exceptions. This is especially true with unwelcome concepts. All unwelcome concepts have some wiggle room, so when in doubt, ask.
