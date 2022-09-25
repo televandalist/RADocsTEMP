@@ -21,7 +21,6 @@ nav:
     - 'Developers':
       - Developer Code of Conduct: 'guidelines/dev-coc.md'
       - DevCoC FAQ: 'guidelines/dev-coc-faq.md'
-      - Game Entries: 'guidelines/game-entries.md'
       - New Achievement Set Checklist: 'guidelines/new-achievement-set-checklist.md'      
       - Achievement Set Requirements: 'guidelines/achievement-set-requirements.md'
       - Achievements for ROM Hacks: 'guidelines/achievements-for-rom-hacks.md'      
