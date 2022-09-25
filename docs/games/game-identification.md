@@ -1,171 +1,177 @@
-This page details the hashing method used for each supported system. First, systems where the entire game file is hashed are listed, and later systems where the RA hash may differ from the file MD5.
+This page details the hashing method used for each supported system.
 
-## Systems that Hash the Entire File
+## The 3DO Company
 
-#### Apple II
+- **3DO Interactive Multiplayer** uses the RA Hash.
+    - The volume header (first 132 bytes of sector 0) and the contents of the LaunchMe file are hashed.
 
-_NOTE_: As saving and other manipulations can mutate disk data, local copies of loaded images are required to ensure that their hashes do not change across sessions.
+## Apple
 
-#### Atari 2600
+- **Apple II** uses the MD5 checksums.
+    - As saving and other manipulations can mutate disk data, local copies of loaded images are required to ensure that their hashes do not change across sessions.
 
-#### Atari Jaguar
+## Arcade
 
-#### ColecoVision
+- **Arcade** uses the RA Hash.
+    - The filename string without the extension (path/galaga.zip -> galaga) is hashed. It is case-sensitive.
 
-#### GameBoy
+## Atari
 
-#### GameBoy Color
+- **Atari 2600** uses the MD5 checksums
 
-#### GameBoy Advance
+- **Atari 7800** uses the MD5 checksums unless the ROM has a header.
+    - If the ROM starts with `\1ATARI7800`, the first 128 bytes are ignored and the remaining file contents are hashed. If the ROM does not start with `\1ATARI7800`, the entire file is hashed.
 
-#### GameGear
+- **Atari Jaguar** uses the MD5 checksums
 
-#### MSX
+- **Atari Lynx** uses the MD5 checksums unless the ROM has a header.
+    - If the ROM starts with `LYNX\0`, the first 64 bytes are ignored and the remaining file contents are hashed. If the ROM does not start with `LYNX\0`, the entire file is hashed.
 
-_NOTE_: As saving mutates disk data, local copies of loaded images are required to ensure that their hashes do not change across sessions. We do not believe this is working, but have yet to find a game where saving to disk actually works.
+## Bandai
 
-#### N64
+- **WonderSwan** uses the MD5 checksums.
 
-_NOTE_: This may result in three unique hashes for each game. The z64 extension is big endian (ABCD). The n64 extension is little endian (DCBA). And the v64 extension is middle endian (BADC).
+- **WonderSwan Color** uses the MD5 checksums.
 
-#### NeoGeo Pocket [Color]
+## Coleco
 
-#### PC-8001 / PC-8801
+- **ColecoVision** uses the MD5 checksums.
 
-_NOTE_: As saving and other manipulations can mutate disk data, local copies of loaded images are required to ensure that their hashes do not change across sessions.
+## Fairchild
 
-#### Pokemon Mini
+- **Channel F** uses the MD5 checksums.
 
-#### Sega 32X
+## GCE
 
-#### Sega Master System
+- **Vectrex** uses the MD5 checksums.
 
-#### Sega MegaDrive (Genesis)
+## Magnavox
 
-#### TIC-80
+- **Odyssey2** uses the MD5 checksums.
 
-#### Vectrex
+## Mattell
 
-#### VirtualBoy
+- **Intellivision** uses the MD5 checksums.
 
-#### Watara Supervision
+## Microsoft
 
-#### WonderSwan  [Color]
+- **MSX / MSX2** uses the MD5 checksums.
+    - As saving mutates disk data, local copies of loaded images are required to ensure that their hashes do not change across sessions. We do not believe this is working, but have yet to find a game where saving to disk actually works.
 
+## NEC
 
-## Systems that Hash a Portion of the File
+- **PC-8001/PC-8801** uses the MD5 checksums.
+    - As saving and other manipulations can mutate disk data, local copies of loaded images are required to ensure that their hashes do not change across sessions.
 
+- **PC Engine / TurboGrafx 16 / SuperGrafx** use the MD5 checksums unless the ROM has a header.
+    - If the size of the file is 512 bytes more than a multiple of 128KB, the first 512 bytes are ignored and the remaining file contents are hashed. If the size of the file is not 512 bytes more than a multiple of 128KB, the entire file is hashed.
 
-#### 3DO
+- **PC Engine CD / TurboGrafx-CD** - uses the RA Hash. The boot code and disc title are hashed as follows:
+    - Read 128 bytes from sector 1 of the data track (PCE predates ISO-9660, so there's no file system to read).
+    - If "PC Engine CD-ROM SYSTEM" does not exist at 32 bytes into the data, discard as invalid.
+    - Copy the last 22 bytes of the data into a buffer. This is the disc title, and _usually_ identifies the game.
+    - The first three bytes of the data are a little-endian sector index for the boot code.
+    - The fourth byte is the number of sectors that the boot code occupies.
+    - The boot code is appended to the buffer (N sectors, starting at sector X)
+    - The buffer is hashed.
 
-The volume header (first 132 bytes of sector 0) and the contents of the LaunchMe file are hashed.
+- **PC-FX** uses the RA Hash. The boot code and disc title are hashed as follows:
+    - Read 32 bytes from sector 0 of the data track (PC-FX predates ISO-9660, so there's no file system to read).
+    - If "PC-FX:Hu_CD-ROM" was not read, discard as invalid.
+    - Read 128 bytes from sector 1 of the data track into a buffer. This is the volume header and includes the disc title.
+    - The 32-bit value at 32-bytes into the buffer is the first sector of the boot code.
+    - The 32-bit value at 36-bytes into the buffer is the number of sectors that the boot code occupies.
+    - The boot code is appended to the buffer (N sectors, starting at sector X)
+    - The buffer is hashed.
 
+## Nintendo
 
-#### Arcade
+- **Famicom Disk System** uses the RA Hash.
+    - If the ROM starts with `FDS\1a`, the first 16 bytes are ignored and the remaining file contents are hashed. If the ROM does not start with `FDS\1a`, the entire file is hashed. As saving mutates disk data, local copies of loaded images are required to ensure that their hashes do not change across sessions.
 
-The filename string without the extension (path/galaga.zip -> galaga) is hashed. It is case-sensitive.
+- **Game Boy** uses the MD5 checksum.
 
+- **Game Boy Advance** uses the MD5 checksum.
 
-#### Atari 7800
+- **Game Boy Color** uses the MD5 checksum.
 
-If the ROM starts with `\1ATARI7800`, the first 128 bytes are ignored and the remaining file contents are hashed. If the ROM does not start with `\1ATARI7800`, the entire file is hashed.
+- **Nintendo 64** uses the MD5 checksum for Big Endian (`.z64`) ROMs.
+    - ByteSwapped (`.v64`) and Little Endian (`.n64`) use the MD5 checksum for its Big Endian counterpart.
 
+- **Nintendo DS** uses the RA Hash.
+    - A NDS ROM has a 0x160 byte header. In this header are pointers to icon/title information and to the boot code for both processors. The hash method combines the header, the two pieces of boot code, and the icon/title information and hashes the result.
+    - The icon/title information is 0xA00 bytes starting at the address stored in the header at $68
+    - The arm9 code address is stored at $20 in the header, and the size is stored at $2C in the header
+    - The arm7 code address is stored at $30 in the header, and the size is stored at $3C in the header
 
-#### Atari Lynx
+- **Nintendo Entertainment System / Famicom** uses the RA Hash.
+    - If the ROM starts with `NES\1a`, the first 16 bytes are ignored and the remaining file contents are hashed. If the ROM does not start with `NES\1a`, the entire file is hashed.
 
-If the ROM starts with `LYNX\0`, the first 64 bytes are ignored and the remaining file contents are hashed. If the ROM does not start with `LYNX\0`, the entire file is hashed.
+- **Pokemon Mini** uses the MD5 checksum.
 
+- **Super Nintendo Entertainment System / Super Famicom / Satellaview / Sufami Turbo** use the MD5 unless the ROM has a header.
+    - If the size of the file is 512 bytes more than a multiple of 8KB, the first 512 bytes are ignored and the remaining file contents are hashed. If the size of the file is not 512 bytes more than a multiple of 8KB, the entire file is hashed.
+  
+- **Virtual Boy** uses the MD5 checksum.
 
-#### Famicom Disk System
+## SNK
 
-If the ROM starts with `FDS\1a`, the first 16 bytes are ignored and the remaining file contents are hashed. If the ROM does not start with `FDS\1a`, the entire file is hashed.
+- **Neo Geo Pocket** uses the MD5 checksum.
 
-_NOTE_: As saving mutates disk data, local copies of loaded images are required to ensure that their hashes do not change across sessions.
+- **Neo Geo Pocket Color** uses the MD5 checksum.
 
+## Sega
 
-#### NES
+- **32X** uses the MD5 checksum.
 
-If the ROM starts with `NES\1a`, the first 16 bytes are ignored and the remaining file contents are hashed. If the ROM does not start with `NES\1a`, the entire file is hashed.
+- **Dreamcast** - The disc metadata and primary executable are hashed as follows:
+    - The first 512 bytes of sector 0 are appended to the buffer. This contains the volume header and ROM header. The first 16 bytes must be "SEGA SEGAKATANA ". If not, discard as invalid.
+    - The contents of the primary executable (as identified by the volume header) are appended to the buffer.
+    - The buffer is hashed.
 
+- **Game Gear** uses the MD5 checksum.
 
-#### Nintendo DS
+- **Master System** uses the MD5 checksum.
 
-A NDS ROM has a 0x160 byte header. In this header are pointers to icon/title information and to the boot code for both processors. The hash method combines the header, the two pieces of boot code, and the icon/title information and hashes the result.
+- **Mega Drive / Genesis** uses the MD5 checksum.
 
-* The icon/title information is 0xA00 bytes starting at the address stored in the header at $68
-* The arm9 code address is stored at $20 in the header, and the size is stored at $2C in the header
-* The arm7 code address is stored at $30 in the header, and the size is stored at $3C in the header
+- **SG-1000** uses the MD5 checksum.
 
+- **Saturn** uses the RA Hash.
+    - The first 512 bytes of track 0 are hashed. This contains the volume header and ROM header. The first 16 bytes must be "SEGADISCSYSTEM  " for Sega CD or "SEGA SEGASATURN " for Sega Saturn. If not, discard as invalid.
+    - Immediately following those 512 bytes are an arbitrary amount of code that validates the region and loads the primary executable. Without processing the code, we cannot determine what additional file(s) to hash, so this was determined to be sufficient as an alternative to hashing the entire CD.
 
-#### PCEngine (TurboGrafx16)
+- **Sega CD** uses the RA Hash.
+    - The first 512 bytes of track 0 are hashed. This contains the volume header and ROM header. The first 16 bytes must be "SEGADISCSYSTEM  " for Sega CD or "SEGA SEGASATURN " for Sega Saturn. If not, discard as invalid.
+    - Immediately following those 512 bytes are an arbitrary amount of code that validates the region and loads the primary executable. Without processing the code, we cannot determine what additional file(s) to hash, so this was determined to be sufficient as an alternative to hashing the entire CD.
 
-If the size of the file is 512 bytes more than a multiple of 128KB, the first 512 bytes are ignored and the remaining file contents are hashed. If the size of the file is not 512 bytes more than a multiple of 128KB, the entire file is hashed.
+## Sony
+  
+- **PlayStation** uses the RA Hash. The primary executable and its name are hashed as follows:
+    - The SYSTEM.CNF file is loaded and parsed. The primary executable is identified by the BOOT= line within.
+    - The primary executable name (and its path) are extracted from SYSTEM.CNF and written to a buffer.
+    - The contents of the primary executable are appended to the buffer.
+    - The buffer is hashed.
+  
+- **PlayStation 2** uses the RA Hash. The primary executable and its name are hashed as follows:
+    - The SYSTEM.CNF file is loaded and parsed. The primary executable is identified by the BOOT2= line within.
+    - The primary executable name (and its path) are extracted from SYSTEM.CNF and written to a buffer.
+    - The contents of the primary executable are appended to the buffer.
+    - The buffer is hashed.
+  
+- **PlayStation Portable** uses the RA Hash. The disc metadata and primary executable are hashed as follows:
+    - The contents of the PSP_GAME\PARAMS.SFO file are written to a buffer. This contains the game attributes displayed in the menu, including the name and serial.
+    - The contents of the primary executable (PSP_GAME\SYSDIR\EBOOT.BIN) are appended to the buffer.
+    - The buffer is hashed.
 
+## WASM-4
 
-#### PC Engine CD
+- **WASM-4** uses the MD5 checksum.
 
-The boot code and disc title are hashed as follows:
-* Read 128 bytes from sector 1 of the data track (PCE predates ISO-9660, so there's no file system to read).
-* If "PC Engine CD-ROM SYSTEM" does not exist at 32 bytes into the data, discard as invalid.
-* Copy the last 22 bytes of the data into a buffer. This is the disc title, and _usually_ identifies the game.
-* The first three bytes of the data are a little-endian sector index for the boot code.
-* The fourth byte is the number of sectors that the boot code occupies.
-* The boot code is appended to the buffer (N sectors, starting at sector X)
-* The buffer is hashed.
+## Watara
 
-#### PC-FX
-The boot code and disc title are hashed as follows:
-* Read 32 bytes from sector 0 of the data track (PC-FX predates ISO-9660, so there's no file system to read).
-* If "PC-FX:Hu_CD-ROM" was not read, discard as invalid.
-* Read 128 bytes from sector 1 of the data track into a buffer. This is the volume header and includes the disc title.
-* The 32-bit value at 32-bytes into the buffer is the first sector of the boot code.
-* The 32-bit value at 36-bytes into the buffer is the number of sectors that the boot code occupies.
-* The boot code is appended to the buffer (N sectors, starting at sector X)
-* The buffer is hashed.
+- **Supervision** uses the MD5 checksum.
 
+## Wellback
 
-#### PlayStation
-
-The primary executable and its name are hashed as follows:
-* The SYSTEM.CNF file is loaded and parsed. The primary executable is identified by the BOOT= line within.
-* The primary executable name (and its path) are extracted from SYSTEM.CNF and written to a buffer.
-* The contents of the primary executable are appended to the buffer.
-* The buffer is hashed.
-
-
-#### PlayStation 2
-
-The primary executable and its name are hashed as follows:
-* The SYSTEM.CNF file is loaded and parsed. The primary executable is identified by the BOOT2= line within.
-* The primary executable name (and its path) are extracted from SYSTEM.CNF and written to a buffer.
-* The contents of the primary executable are appended to the buffer.
-* The buffer is hashed.
-
-
-#### PlayStation Portable
-
-The disc metadata and primary executable are hashed as follows:
-* The contents of the PSP_GAME\PARAMS.SFO file are written to a buffer. This contains the game attributes displayed in the menu, including the name and serial.
-* The contents of the primary executable (PSP_GAME\SYSDIR\EBOOT.BIN) are appended to the buffer.
-* The buffer is hashed.
-
-
-#### Sega CD / Sega Saturn
-
-The first 512 bytes of track 0 are hashed. This contains the volume header and ROM header. The first 16 bytes must be "SEGADISCSYSTEM  " for Sega CD or "SEGA SEGASATURN " for Sega Saturn. If not, discard as invalid.
-
-Immediately following those 512 bytes are an arbitrary amount of code that validates the region and loads the primary executable. Without processing the code, we cannot determine what additional file(s) to hash, so this was determined to be sufficient as an alternative to hashing the entire CD.
-
-
-#### Sega Dreamcast
-
-The disc metadata and primary executable are hashed as follows:
-* The first 512 bytes of sector 0 are appended to the buffer. This contains the volume header and ROM header. The first 16 bytes must be "SEGA SEGAKATANA ". If not, discard as invalid.
-* The contents of the primary executable (as identified by the volume header) are appended to the buffer.
-* The buffer is hashed.
-
-
-#### SNES
-
-If the size of the file is 512 bytes more than a multiple of 8KB, the first 512 bytes are ignored and the remaining file contents are hashed. If the size of the file is not 512 bytes more than a multiple of 8KB, the entire file is hashed.
-
+- **Mega Duck** uses the MD5 checksum.

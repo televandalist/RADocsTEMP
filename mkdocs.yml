@@ -21,11 +21,19 @@ nav:
     - 'Developers':
       - Developer Code of Conduct: 'guidelines/dev-coc.md'
       - DevCoC FAQ: 'guidelines/dev-coc-faq.md'
+      - Game Entries: 'guidelines/game-entries.md'
       - New Achievement Set Checklist: 'guidelines/new-achievement-set-checklist.md'      
       - Achievement Set Requirements: 'guidelines/achievement-set-requirements.md'
       - Achievements for ROM Hacks: 'guidelines/achievements-for-rom-hacks.md'      
       - Revision Guidelines: 'guidelines/revision-guidelines.md'
-      - Unwelcome Concepts: 'guidelines/unwelcome-concepts.md'      
+      - Unwelcome Concepts: 'guidelines/unwelcome-concepts.md'
+    - 'Game Entries':
+      - Creating an Entry: 'guidelines/creating-entries.md'
+      - Naming Conventions: 'guidelines/namingconventions.md'
+      - Working with the Right ROM: 'guidelines/working-with-the-right-rom.md'
+      - Hash Labels: 'guidelines/hashlabels.md'
+      - RAPatches: 'guidelines/rapatches.md'
+      - Compatibility Testing: 'guidelines/compatibility-testing.md'
   - 'Development':
     - Developers Home: 'development/devs-home.md'
     - 'Getting Started':
@@ -85,13 +93,6 @@ nav:
   - 'Games':
     - Games Home: 'games/games-home.md'
     - Requests: 'games/requests.md'
-    - 'Entry, Hash, and Patch Management':
-      - Working with the Right ROM: 'games/working-with-the-right-rom.md'
-      - Creating Entries: 'games/creating-entries.md'
-      - Hash Labels: 'games/hashlabels.md'
-      - Compatibility Testing: 'games/compatibility-testing.md'
-      - RAPatches: 'games/rapatches.md'
-      - Naming Conventions: 'games/namingconventions.md'
     - 'Supported Systems':
       - Console ID List: 'games/console-ids.md'
       - Libretro Core Support: 'games/libretro-core-support.md'
@@ -201,7 +202,6 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true 
-  - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
@@ -217,6 +217,8 @@ theme:
     - navigation.top
     - navigation.tabs.sticky
     - content.tabs.link
+    - toc.integrate
+    - def_list
   palette:
     primary: 'blue'
     accent: 'light blue'
