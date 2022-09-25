@@ -29,7 +29,6 @@ nav:
       - Unwelcome Concepts: 'guidelines/unwelcome-concepts.md'
     - 'Game Entries':
       - Creating an Entry: 'guidelines/creating-entries.md'
-      - Naming Conventions: 'guidelines/namingconventions.md'
       - Working with the Right ROM: 'guidelines/working-with-the-right-rom.md'
       - Hash Labels: 'guidelines/hashlabels.md'
       - RAPatches: 'guidelines/rapatches.md'
