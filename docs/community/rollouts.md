@@ -36,7 +36,8 @@ It's worth noting that these are general guidelines that apply to all rollouts. 
 |2022-02-12|Dreamcast|34|[Launch Post](https://retroachievements.org/viewtopic.php?t=15276)|
 |2022-03-28|Amstrad CPC|30|[Launch Post](https://retroachievements.org/viewtopic.php?t=15835)|
 |2022-05-08|Arduboy<br>WASM-4|38<br>25|[Launch Post](http://retroachievements.org/viewtopic.php?t=16456)
-|2022-XX-XX|Fairchild Channel F<br>Mega Duck|TBA|Launch Post Pending|
+|2022-07-28|Fairchild Channel F<br>Mega Duck|??<br>??|[Launch Post](https://retroachievements.org/viewtopic.php?t=17590)|
+|2022-10-01|PlayStation 2|80+|[Rollout Post](https://retroachievements.org/viewtopic.php?t=11108)|
 
 
 ## Future Rollouts
@@ -61,7 +62,6 @@ Please note that there are no guarantees on when the following consoles will rec
 |PC-6001 Series| 8 |
 |PC-9800| 17 |
 |Philips CD-I| 20 |
-|PlayStation 2| 51 |
 |Sega Pico| 9 |
 |Sharp X1| 10 |
 |Sharp X68000| 9 |
