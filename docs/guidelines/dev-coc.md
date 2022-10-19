@@ -15,13 +15,13 @@ This document covers developers' rights, responsibilities, and rules for fair pl
 ## Developers must do the following to keep in good standing:
 
 - When planning to work on a new game, claim the game before starting work on it.
-- Only claim games when you are [free of unaddressed tickets](#handling-tickets).
-- Keep your work free from [unwelcome concepts](#unwelcome-concepts).
-- Use [protective code](#every-achievement-set-must-have), preventing potential cheating and exploits.
-- Leave accurate [code notes](#code-notes) for each achievement condition you use.
-- For set revisions, follow the [revision policy](Achievement-Set-Revisions).
-- [Resolve tickets](#handling-tickets) and leave notes each time you do.
-- Like a wiki, once you publish your work, you are giving it over to the community to be [reviewed and reworked over time](#achievementset-ownership).
+- Only claim games when you are [free of unaddressed tickets](/guidelines/dev-coc/#handling-tickets).
+- Keep your work free from [unwelcome concepts](/guidelines/unwelcome-concepts/).
+- Use [protective code](/guidelines/achievement-set-requirements/), preventing potential cheating and exploits.
+- Leave accurate [code notes](/guidelines/achievement-set-requirements/#code-notes) for each achievement condition you use.
+- For set revisions, follow the [revision policy](/guidelines/revision-guidelines/).
+- [Resolve tickets](/guidelines/dev-coc/#handling-tickets) and leave notes each time you do.
+- Like a wiki, once you publish your work, you are giving it over to the community to be [reviewed and reworked over time](/guidelines/dev-coc/#achievement-ownership).
 
 ## Developing a new achievement set
 
@@ -73,14 +73,14 @@ Upon reserving a set, wait at least 24 hours before promoting it to core. This a
 ### Important Notes
 
 - If you post a complete plan, be open to suggestions; you can get excellent input and suggestions this way.
-- You must adhere to the [Basic Achievement Design Guidelines](#basic-achievement-design-guidelines), otherwise your set won't be allowed.
+- You must adhere to the [Achievement Set Requirements](/guidelines/achievement-set-requirements/), otherwise your set won't be allowed.
 - **When you publish your work you are giving it over to the community to be reviewed and reworked over time.**
 
 #### Collaboration
 
 - Let others know if you welcome collaborators.
 - If you've recently reserved a set and someone else voices desire to work on a set that you've reserved within the last 24 hours (beyond suggesting ideas), consider ways in which you can collaborate with them.
-- If someone reserved a game you're interested in before you, don't get frustrated. You are encouraged to request collaboration. You can post your desire to collaborate in the forum or send them a message to get permission from them to publish your contributions. You can also wait and go through an [Achievement Set Revision](Achievement-Set-Revisions) after the set is published.
+- If someone reserved a game you're interested in before you, don't get frustrated. You are encouraged to request collaboration. You can post your desire to collaborate in the forum or send them a message to get permission from them to publish your contributions. You can also wait and [revise the set](/guidelines/revision-guidelines/) after the set is published.
 
 ## Handling Tickets
 
@@ -151,7 +151,7 @@ A user may be required to submit work to code reviewers if more than a year has 
 
 ## Achievement Ownership
 
-**When you publish your work you are giving it over to the community** to be reviewed and reworked over time - see [Revision Guidelines](/guidelines/revision-guidelines). 
+**When you publish your work you are giving it over to the community** to be reviewed and reworked over time - see [Revision Guidelines](/guidelines/revision-guidelines/). 
 
 While the original developer does not own published achievements they are still the caretaker in terms of bug fixing and maintenance. If another developer revises the achievement they are the new caretaker of that achievement.
 

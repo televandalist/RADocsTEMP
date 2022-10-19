@@ -1,8 +1,8 @@
-**Related:** [Achievements for ROM hacks](Achievements-for-ROM-hacks), [Subsets](Subsets)
+**Related:** [Achievements for ROM hacks](/guidelines/achievements-for-rom-hacks/), [Subsets](/development/subsets/)
 
 Only one achievement set is allowed per game per console. This is true in cases of existing official revisions (ex. Rev 1), official and unofficial fix patches, and alternate regions.
 
-[Subsets](Subsets) are an exception to this rule, but are considered an extension to a standard set and follow different rules for what types of achievements are allowed.
+[Subsets](/development/subsets/) are an exception to this rule, but are considered an extension to a standard set and follow different rules for what types of achievements are allowed.
 
 Regional exceptions may exist -rarely- when regional variations massively change the game.
 

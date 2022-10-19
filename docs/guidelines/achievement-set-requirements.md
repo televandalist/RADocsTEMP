@@ -12,12 +12,12 @@ Not abiding by the following guidelines can result in the achievements being dem
   - In-game cheat codes
   - Battery saves
   - Passwords
-  *See also*: [Achievement Templates](/developers/achievement-templates) and [Real Examples](/developers/real-examples) for some well known protection techniques.
+  *See also*: [Achievement Templates](/development/achievement-templates/) and [Achievement Creation Tutorials](/development/achievement-creation-tutorials/) for some well known protection techniques.
 
 ### Recommended, but not required
 
-1. Basic [Rich Presence](Rich-Presence) (only available for full-devs).
-2. Leaderboards for scores and time challenges (only available for full-devs).
+1. Basic [Rich Presence](/development/rich-presence/).
+2. Leaderboards for scores and time challenges.
 3. Missable achievements flagged, especially for RPGs and long games. 
     - Use `[m]` in the end of achievement's title to flag it as missable.
 4. An achievement guide. Guides can be created and posted [here](https://github.com/RetroAchievements/guides/wiki). 
@@ -25,8 +25,8 @@ Not abiding by the following guidelines can result in the achievements being dem
 
 ### Tools to Help you Succeed
 
-We have a [roadmap](Set-Development-Roadmap) you can use as a guideline to create a good achievement set.  
-We also have an [achievement design guide](Achievement-Design) on how to design good achievements, not the technical side but the conceptual. Creating a balanced set is one of the most difficult aspects of development, we have a [set balance guide](Difficulty-Scale-and-Balance) which will help you in thinking about how to create a set that flows.
+We have a [roadmap](/development/set-development-roadmap/) you can use as a guideline to create a good achievement set.  
+We also have an [achievement design guide](/development/design/) on how to design good achievements, not the technical side but the conceptual. Creating a balanced set is one of the most difficult aspects of development, we have a [set balance guide](/development/difficulty-scale-and-balance/) which will help you in thinking about how to create a set that flows.
 
 It is preferable and recommended to work on one set at a time. But if you have more, be open for a teamwork or even delegate the set creation if another dev contacts you.
 
@@ -63,7 +63,7 @@ Hard - 4-5 points
 
 Up until June 2019, RetroAchievements had a 400-point cap per set, with no restrictions on individual achievements. The set cap was removed to put less focus on set totals and more on the achievements themselves. This initiative was also meant to eliminate the misconception that a set worth 400 points is a "complete" set. 
 
-As with revisions and aesthetic changes, a rescore typically requires community approval. You can find more information on rescores [here](https://docs.retroachievements.org/Achievement-Set-Revisions/).
+As with revisions and aesthetic changes, a rescore typically requires community approval. You can find more information on rescores [here](/guidelines/revision-guidelines/#rescores).
 
 ### Factors to Consider While Scoring Achievements
 

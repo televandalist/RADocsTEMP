@@ -13,15 +13,15 @@ Hacks that include "game trainers" or integrated cheat features are (for obvious
 
 **Often allowed**
 
-If a ROM hack has sufficient enough differences from the licensed game insomuch that the game can be considered an entirely different game than a unique set is **usually acceptable**. Consult [RAdmin](http://retroachievements.org/user/RAdmin) (shared mod mail account) for specific approval.
+If a ROM hack has sufficient enough differences from the licensed game insomuch that the game can be considered an entirely different game than a unique set is **usually acceptable**. Consult [DevCompliance](https://retroachievements.org/user/DevCompliance) for specific approval.
 
-- Remember that:  If a rom hack has sufficient enough differences from the licensed game insomuch that the game can be considered an entirely different game than its original existing set, it is **usually acceptable**. Consult [RAdmin](http://retroachievements.org/user/RAdmin) (shared mod mail account) for specific approval.
+- Remember that:  If a rom hack has sufficient enough differences from the licensed game insomuch that the game can be considered an entirely different game than its original existing set, it is **usually acceptable**. Consult [DevCompliance](https://retroachievements.org/user/DevCompliance) for specific approval.
 
 These kinds of ROM hacks will get their own entry in the database.
 
 Examples:
 
-- [Metroid - Rogue Dawn](http://retroachievements.org/Game/9597)  
+- [Metroid - Rogue Dawn](http://retroachievements.org/game/9597)  
 - [Castlevania: The Holy Relics](http://retroachievements.org/game/11655)  
 - [Super Mario 64: Last Impact](http://retroachievements.org/game/12733)
 - [Super Metroid: Redesign](http://retroachievements.org/game/820)
@@ -37,7 +37,7 @@ Hacks that offer gameplay utilities where it doesn't exist in the release versio
 
 Utilities and bug-fix hacks that improve or patch glitches found in the released version of games are **usually not allowed** to be linked to the main set; they usually offer and experience that gives players an unfair competitive advantage. They are also **usually not allowed** to have their own achievement set because they are not unique enough to warrant it.
 
-Cosmetic bug fixes which don't alter gameplay **might be allowed**, see [cosmetic/sprite hacks](#cosmetic--sprite-hacks).
+Cosmetic bug fixes which don't alter gameplay **might be allowed**, see [here](/guidelines/achievements-for-rom-hacks/#cosmetic-sprite-hacks).
 
 Examples:
 
@@ -72,9 +72,9 @@ Sometimes translation patches may critically differ from the developer MD5 in me
 
 Examples:
 
-- [Bahamut Lagoon, T+Eng1.3-Copier_DeJap](http://www.romhacking.net/translations/280/); Japanese to English translation for [Bahumut Lagoon](https://retroachievements.org/Game/2257)
-- [Clock Tower, T+Eng1.01_Aeon Genesis](http://www.romhacking.net/translations/302/); Japanese to English translation for [Clock Tower](https://retroachievements.org/Game/2374)
-- [Chrono Trigger, T+Rus_Chief-NET](http://chief-net.ru/index.php?option=com_content&task=view&id=15&Itemid=29); English to Russian Translation for [Chrono Trigger](http://retroachievements.org/Game/319)
+- [Bahamut Lagoon, T+Eng1.3-Copier_DeJap](http://www.romhacking.net/translations/280/); Japanese to English translation for [Bahumut Lagoon](https://retroachievements.org/game/2257)
+- [Clock Tower, T+Eng1.01_Aeon Genesis](http://www.romhacking.net/translations/302/); Japanese to English translation for [Clock Tower](https://retroachievements.org/game/2374)
+- [Chrono Trigger, T+Rus_Chief-NET](http://chief-net.ru/index.php?option=com_content&task=view&id=15&Itemid=29); English to Russian Translation for [Chrono Trigger](http://retroachievements.org/game/319)
 
 
 ## Cosmetic / Sprite Hacks
@@ -86,7 +86,6 @@ Examples:
 Examples:
 
 - [Castlevania - High Budget Remake](https://www.romhacking.net/hacks/2673/) for [Castlevania (NES)](http://retroachievements.org/game/1462)
-- [Super Waluigi 64](https://hacks.sm64hacks.com/hack/403) for [Super Mario 64](http://retroachievements.org/Game/10003)
 - [Chrono Trigger MSU-1 (with FMV's)](https://www.romhacking.net/forum/index.php?topic=23115.0) for [Chrono Trigger](http://retroachievements.org/game/319)
 
 

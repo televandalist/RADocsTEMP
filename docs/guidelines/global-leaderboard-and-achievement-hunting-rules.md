@@ -34,16 +34,9 @@ The RetroAchievements global leaderboard is the main official community competit
 What is considered fair and legitimate play versus unfair (cheating) on the global leaderboard has been shaped continually by the community since it's inception. The rules below are what we expect from every player who would like to participate in the ranking system. Any indication of a player's failure to follow the rules herein may lose use of the global leaderboard, also known as **[Untracked](#untracked)** status.
 
 
-## Hardcore mode
+## Hardcore vs Softcore
 
-Hardcore mode is a feature where the emulator disables **all** savestate ability, rewind and the slow motion. The [fast-forward feature is the only accepted exception](#allowed-1).
-
-When playing in hardcore mode the points you earn worth double the achievement's points. So if the achievement set worths 400 points and you complete it in hardcore mode you'll get 800 points.
-
-Users who take the global leaderboard seriously will most likely earn achievements in hardcore mode to get more points.
-
-**NOTE**: when playing with hardcore mode disabled (also known as "softcore"), expect to have some issues. Read in [this link Why you shouldn't use the load state feature](Why-you-shouldn't-use-the-load-state-feature).
-
+WIP - We need a good rundown of each here.
 
 
 ## Untracked
@@ -73,7 +66,7 @@ So, if you want to enjoy the RetroAchievements but not compete in the global lea
 
 Even if you "should have" unlocked the achievement. Even if the game is bugged. Even if the achievement is removed or broken entirely. When it's detected it will lead the account to be **[Untracked](#untracked)**.
 
-In the cases where you should have unlocked the achievement but it didn't triggered or it didn't get registered in the site due to a network problem, you should [follow the steps described in FAQ to request a manual unlock](FAQ#i-completed-a-hard-cheevo-but-it-didnt-trigger-can-it-be-manually-awarded-to-me).
+In the cases where you should have unlocked the achievement but it didn't triggered or it didn't get registered in the site due to a network problem, you should [follow the steps described in FAQ to request a manual unlock](/support/faq/#how-can-i-get-credit-for-an-achievement-i-earned-but-wasnt-awarded).
 
 **NOTE**: be sure you are using the latest release version of an approved supported emulator.
 
@@ -178,14 +171,14 @@ The other side of the coin for [allowed 2](#allowed-2). Cheat codes and debug mo
 
 Even in hardcore mode fast-forward is allowed, as a modern convenience. It's ~~almost~~ a consensus that fast-forward offers no risk to the fairplay and then it's available for everyone to use it.
 
-**NOTE**: in *softcore* mode savestates, rewind and slow motion are also allowed, but expect to have some issues. Read in [this link Why you shouldn't use the load state feature](Why-you-shouldn't-use-the-load-state-feature).
+**NOTE**: in *softcore* mode save states, rewind and slow motion are also allowed, but expect to have some issues. Read in [here](/support/why-you-should-not-use-the-load-state-feature/).
 
 
 ### <a name="allowed-2"></a>2. *When explicitly said in achievement's description*, in-game cheat codes/modes and in-game debug tools are allowed.
 
 This is a complement to the [not allowed rule 2](#not-allowed-2).
 
-The achievement developer's are instructed to [protect their work so the achievements can't be unlocked easily by simply using a cheat code](Developers-Code-of-Conduct#every-achievement-set-must-have). However, some cool and fun challenges can be created taking advantage of some cheats. In these specific cases, using in-game cheats are allowed.
+The achievement developer's are instructed to [protect their work so the achievements can't be unlocked easily by simply using a cheat code](/guidelines/achievement-set-requirements/#every-achievement-set-must-have). However, some cool and fun challenges can be created taking advantage of some cheats. In these specific cases, using in-game cheats are allowed.
 
 **NOTE**: if you find achievements unlockable by using in-game cheats with no pertinent description, consider opening a ticket and reporting it.
 
@@ -254,7 +247,7 @@ If you wish to come forward and admit cheating, this will be greatly appreciated
 
 ## If You Need Help
 
-If you ever have a question, comment, or suggestions - feel welcome to contact RAdmin or the RA staff (@mods and @admins) on our discord server.
+If you ever have a question, comment, or suggestions - feel free to contact [RAdmin](https://retroachievements.org/createmessage.php?t=RAdmin).
 
 These rules will be amended from time to time as needed.
 

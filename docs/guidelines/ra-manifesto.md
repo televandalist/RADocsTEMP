@@ -1,6 +1,6 @@
 **This is the RetroAchievements Manifesto and every member of this community should be aware of this.**
 
-Since the early days of RetroAchievements, this is what we have in our [FAQ](https://docs.retroachievements.org/FAQ/) as the answer for [What is RetroAchievements.org?](https://docs.retroachievements.org/FAQ/#what-is-retroachievementsorg)
+Since the early days of RetroAchievements, this is what we have in our [FAQ](/support/faq/) as the answer for [What is RetroAchievements.org?](/support/faq/#what-is-retroachievementsorg)
 
 > RetroAchievements.org is a zero profit community who collaborate and compete to earn custom-made achievements in classic games through emulation. Achievements are made by and for the community. (...)
 
@@ -43,7 +43,7 @@ We make achievement set revisions with quality in mind, and to show actual respe
 
 Also, if you're not able to master an achievement set it doesn't automatically mean that it needs to be nerfed/demoted/turned into a bonus set. If other players got that, it's probable you can get that too. But if you can't, it's OK too. You don't need to unlock every achievement to keep having fun with old games.
 
-If you still think the achievement set has [unwelcome concepts](https://docs.retroachievements.org/Developers-Code-of-Conduct/#unwelcome-concepts), you can post your arguments in the game's forum topic. Just be sure to be respectful in your words. Which brings us to the next point...
+If you still think the achievement set has [unwelcome concepts](/guidelines/unwelcome-concepts/), you can post your arguments in the game's forum topic. Just be sure to be respectful in your words. Which brings us to the next point...
 
 ### The most important people we have here are the achievement creators.
 

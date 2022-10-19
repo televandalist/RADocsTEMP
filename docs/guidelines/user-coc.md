@@ -23,7 +23,7 @@ In order to support the growth of our community as described in our mission stat
 2. Don't use our website or Discord server to share copyrighted material or information about where they can be downloaded.
 3. Keep the Discord channels and forum threads on-topic.
 4. When a moderator/admin asks you to stop, you should stop.
-5. When in doubt, ask a @mod in Discord or send a message to [RAdmin](http://retroachievements.org/createmessage.php?t=RAdmin) on the website.
+5. When in doubt, ask a `@mod` in Discord or send a message to [RAdmin](http://retroachievements.org/createmessage.php?t=RAdmin) on the website.
 
 
 ### Unacceptable Social Behavior
@@ -58,7 +58,7 @@ Criticism is welcome, but just be sure to be civil.
 
 ## Moderation
 
-If you feel moderation is needed, ping the @mod role on our Discord server, or direct your issues to [RAdmin](http://retroachievements.org/createmessage.php?t=RAdmin), a shared mod-mail account.
+If you feel moderation is needed, ping the `@mod` role on our Discord server, or direct your issues to [RAdmin](http://retroachievements.org/createmessage.php?t=RAdmin), a shared mod-mail account.
 
 
 ### Order of Action

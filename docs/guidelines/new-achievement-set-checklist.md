@@ -8,7 +8,7 @@ Before working on a new you must address all open tickets you have. Once you're 
 
 #### No
 
-Then ask for it to be added on Discord **#help-me** or on our forums and a dev will add it for you. It's essential you [choose the right ROM(s) to work with](Working-with-the-Right-ROM). If you want to work on a ROM hack, check the [achievements for ROM hacks](Achievements-for-ROM-hacks) doc first.
+Then ask for it to be added on Discord **#help-me** or on our forums and a dev will add it for you. It's essential you [choose the right ROM(s) to work with](/guidelines/working-with-the-right-rom/). If you want to work on a ROM hack, check the [achievements for ROM hacks](/guidelines/achievements-for-rom-hacks/) doc first.
 
 #### Yes
 
@@ -19,18 +19,18 @@ Good! Go ahead.
 
 #### Yes
 
-If there is an existing set, don't give up. You can still improve it, by adding/removing/reworking achievements, or make changes to titles and images, etc. However, you will most likely need to go through the [set revision process](Achievement-Set-Revisions).
+If there is an existing set, don't give up. You can still improve it, by adding/removing/reworking achievements, or make changes to titles and images, etc. However, you will most likely need to go through the [set revision process](/guidelines/revision-guidelines/).
 
 #### No
 
 Look deeper. Often there are multiple entries in the database for the same game under different titles. Once you're sure, you'll need to check if there's another dev working on the game.
 
-**Note:** Only one achievement set is allowed per game per console. For details see [working with the right ROM](Working-with-the-Right-ROM).
+**Note:** Only one achievement set is allowed per game per console. For details see [working with the right ROM](/guidelines/working-with-the-right-rom/).
 
 
 ### 4. Is another developer working on the game?
 
-To be sure if there's another dev working on a game, check the game's official forum topic (that's the official way to [reserve a game to work on](Developers-Code-of-Conduct#reserving-a-game-for-achievement-development)). This is needed to avoid conflicts between multiple devs working on the same game.
+To be sure if there's another dev working on a game, check the game's official forum topic (that's the official way to [reserve a game to work on](/guidelines/dev-coc/#1-how-to-reserve). This is needed to avoid conflicts between multiple devs working on the same game.
 
 #### Yes
 

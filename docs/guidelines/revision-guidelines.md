@@ -4,9 +4,9 @@ Any changes to a set with existing achievements is considered a revision. They t
 
 There are three types of revisions:
 
-- [Standard Revisions](#Standard-Revisions) - Changes to an achievement set that affect another developer's work. These include adding achievements, removing achievements, and reworking existing achievements.
-- [Rescores](#Rescores) - Changes to the point value of an achievement.
-- [Icon-Gauntlet](#Icon-Gauntlet) - Changes to a game page's icon that is awarded upon mastering a set and changes to the individual achievement badges.
+- [Standard Revisions](#standard-revisions) - Changes to an achievement set that affect another developer's work. These include adding achievements, removing achievements, and reworking existing achievements.
+- [Rescores](#rescores) - Changes to the point value of an achievement.
+- [Icon-Gauntlet](#icon-gauntlet) - Changes to a game page's icon that is awarded upon mastering a set and changes to the individual achievement badges.
 
 Each are assigned their own Discord role:
 
@@ -67,11 +67,11 @@ If you are one of or *the* original set developer(s) for a set that is currently
 ***
 ## Rescores
 
-Up until June 2019, RetroAchievements sets had a cap of 400 points, with no restrictions on individual achievements. The set cap was removed to focus less on overall set totals and more on the achievements themselves. This initiative was also meant to eliminate the misconception that a set worth 400 points is a "complete" set, but is also an ongoing community effort to promote fairness across the board. Information on the scoring process can be found [here](https://docs.retroachievements.org/Achievement-Scoring/).
+Up until June 2019, RetroAchievements sets had a cap of 400 points, with no restrictions on individual achievements. The set cap was removed to focus less on overall set totals and more on the achievements themselves. This initiative was also meant to eliminate the misconception that a set worth 400 points is a "complete" set, but is also an ongoing community effort to promote fairness across the board. Information on the scoring process can be found [here](/guidelines/achievement-set-requirements/#scoring).
 
 Anyone wanting to rescore a set needs to:
 
-1. Prepare a rescore plan that shows the original scores and the proposed scores. A quick and easy way to do this is by utilizing [this sheet](https://docs.google.com/spreadsheets/d/1Klh_O66a_ZOtxIAvCv4n7L032GwvAwctTDsdp1zlfAQ/edit?usp=sharing); you can enter the Game ID in F2 to bring up a full list of that game's achievements and scores.
+1. Prepare a rescore plan that shows the original scores and the proposed scores. A quick and easy way to do this is by utilizing [this sheet](https://docs.google.com/spreadsheets/d/1iO8nWKzOwwBbu7TiyXBkXi6IRVxE2OVDahE8RDstE4M/edit#gid=2096361004) - you can enter the Game ID in cell F3 to bring up a full list of that game's achievements and scores.
 
 2. Post the plan in the game's forum topic.
 
@@ -95,7 +95,7 @@ The Icon Gauntlet is used to vote for new game icons or new badges for a set. Wi
 
 Any user wanting to change the game icon or badges of a set need to:
 
-1. Create the game icon or new badges. For more info, see [Badge and Icon Creation](http://docs.retroachievements.org/Badge-and-Icon-Creation/).
+1. Create the game icon or new badges. For more info, see [Badge and Icon Creation](/development/badgesoverview).
 
 2. Upload the work on an image sharing site.
 

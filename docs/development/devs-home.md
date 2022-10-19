@@ -1,49 +1,47 @@
-If you want to be an achievement developer, check [here how to become a developer](How-to-Become-an-Achievement-Developer).
-
-Every Developer must know and adhere the [Developer's Code of Conduct](Developers-Code-of-Conduct).
+Every Developer must know and adhere the [Developer's Code of Conduct](/guidelines/dev-coc/).
 
 Now a brief description some pages you'll see in this section.
 
-1. [How to Become an Achievement Developer](How-to-Become-an-Achievement-Developer): overview of the steps required in obtaining developer status
+- [How to Become an Achievement Developer](/development/how-to-become-an-achievement-developer/): overview of the steps required in obtaining developer status
 
-2. [Getting Started as an Achievement Developer](Getting-Started-as-an-Achievement-Developer): it's for the very first contact with cheevos development tools (Memory Inspector and other Achievements dialogs). **IF YOU ARE A COMPLETE NEWBIE, START HERE!**
+- [Getting Started as an Achievement Developer](/development/getting-started-as-an-achievement-developer/): it's for the very first contact with cheevos development tools (Memory Inspector and other Achievements dialogs). **IF YOU ARE A COMPLETE NEWBIE, START HERE!**
 
-3. [New Achievement Set Checklist](New-Achievement-Set-Checklist): a quick list of simple steps to take before reserving a game.
+- [Junior Developers](/development/junior-devs/): overview of the Junior Developer program.
 
-4. [Achievement Scoring](Achievement-Scoring): a guide to deciding point totals for achievements
+- [Achievement Design](/development/design/): a guide on how to think about and design good achievements, not the technical side but the conceptual.
 
-5. [Memory Inspector Overview](Memory-Inspector-Overview): detailed look at one of an achievement developer's most used tools.
+- [Difficulty Scale and Balance](/development/difficulty-scale-and-balance/): guidelines/suggestions on how to balance the difficulty of your achievement set.
 
-6. [Achievement Logic Features](Achievement-Logic-Features): describes the available tools a developer have in order to improve the logic behind the achievements, such as delta values, hit counts, ResetIf, PauseIf, Alt groups, etc.
+- [Set Development Roadmap](/development/set-development-roadmap/): suggestions of steps to take in order to create a really neat achievement set.
 
-7. [Real Examples](Real-Examples): showing real examples and breaking down the logic behind them. **AWESOME LEARNING RESOURCE!**
+- [Memory Inspector Overview](/development/memory-inspector-overview/): detailed look at one of an achievement developer's most used tools.
 
-8. [Achievement Templates](Achievement-Templates): some generic templates to get inspiration.
+- [Achievement Logic Features](/development/logic-features-home/): describes the available tools a developer have in order to improve the logic behind the achievements, such as delta values, hit counts, ResetIf, PauseIf, Alt groups, etc.
 
-9. [Tips and Tricks](Tips-and-Tricks): general tips and tricks about memory digging and achievement creation.
+- [Achievement Creation Tutorials](/development/achievement-creation-tutorials/): showing real examples and breaking down the logic behind them. **AWESOME LEARNING RESOURCE!**
 
-10. [Difficulty Scale and Balance](Difficulty-Scale-and-Balance): guidelines/suggestions on how to balance the difficulty of your achievement set.
+- [Achievement Templates](/development/achievement-templates/): some generic templates to get inspiration.
 
-11. [Achievement Design](Achievement-Design): a guide on how to think about and design good achievements, not the technical side but the conceptual.
+- [Tips and Tricks](/development/tips-and-tricks): general tips and tricks about memory digging and achievement creation.
 
-12. [Set Development Roadmap](Set-Development-Roadmap): suggestions of steps to take in order to create a really neat achievement set.
+- [Console Specific Tips](/development/console-specific-tips/): knowing the peculiarities of your favorite console can help you with memory digging.
 
-13. [Achievement Set Revisions](Achievement-Set-Revisions): information on revisions, rescores, and the icon gauntlet.
+- [Subsets](/development/subsets/): an advanced topic on creating special challenge sets and how to release them.
 
-14. [Badge and Icon Creation](Badge-and-Icon-Creation): some guidelines and tips about badge/icon creation.
+- [Badge and Icon Creation](/development/badgesoverview/): some guidelines and tips about badge/icon creation.
 
-15. [Leaderboards](Leaderboards): instructions on how to create Leaderboards for a game.
+- [Leaderboards](/development/leaderboards/): instructions on how to create Leaderboards for a game.
 
-16. [Rich Presence](Rich-Presence): how to write Rich Presence Scripts.
+- [Rich Presence](/development/rich-presence/): how to write Rich Presence Scripts.
 
-17. [Working with the Right ROM](Working-with-the-Right-ROM): information on using correct ROMs and hashes.
+- [RATools](/development/ratools/): information regarding an alternate method of achievement creation.
 
-18. [Game Identification](Game-Identification): details on the hashing methods used for each system.
+- [Dev Tips](/development/devtips/): tips and general advice from several of RetroAchievement's development team.
 
-19. [Emulator Support and Issues](Emulator-Support-and-Issues): details on both supported and unsupported cores, testing progress, etc.
+- [Case Studies](/development/casestudies/): 
 
-20. [Subsets](Subsets): an advanced topic on creating special challenge sets and how to release them.
+- [Dev Logs](/development/devlogs/): 
 
-21. [Achievements for ROM Hacks](Achievements-for-ROM-hacks):  a detailed guide for developers on the proper inclusion (and approval) of ROM Hacks.
+- [System Memory Mapping](/development/systems-memory-mapping/):
 
-22. [Console Specific Tips](Console-Specific-Tips): knowing the peculiarities of your favorite console can help you with memory digging.
+- [Troubleshooting](/development/troubleshooting/): common issues developers face and their solutions

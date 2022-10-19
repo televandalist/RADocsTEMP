@@ -5,22 +5,20 @@ This document describes all the steps that any aspiring achievement developer mu
 **Strongly recommended**: join our Discord server so you can get in contact with other achievement developers who can show you the ropes and help you along. If you already know what game you want to work on, go ahead and ask for the `jr-dev` role. This gives you access to the `#jr-devs` channel, where you can talk to code reviewers and ask any development related questions.
 ## Finding a Game to Work on
 
-Follow the [guidelines on the Developer's Code of Conduct](Developers-Code-of-Conduct#working-on-empty-sets) to find a game to work on achievements for it. The basics are that you must declare you plans to work on the game on in the forum, and then as you work on the game, add your plans for the game in the forum.
-
-**Tip**: for your first achievement set, it's recommended to choose a game that doesn't yet have achievements **and** is not very popular.
+Follow the [Achievement Set Checklist](/guidelines/new-achievement-set-checklist/) to find a game to work on achievements for it.
 
 
 ## Planning your Achievement Set
 
 Once you find a game to work on you need to plan your Achievement Set.
 
-Be sure you know enough about the game to make a good set. Check the GameFAQs or something, try to learn more about the game, its secrets and details. Here is a good guide to help you with this: [Set Development Roadmap](Set-Development-Roadmap).
+Be sure you know enough about the game to make a good set. Check the GameFAQs or something, try to learn more about the game, its secrets and details. Here is a good guide to help you with this: [Set Development Roadmap](/development/set-development-roadmap/).
 
-Post your plans on the official game's forum topic, so the community can leave suggestions and provide feedback. This is required behavior for all devs and jr-dev.
+Post your plans on the game's official forum topic, so the community can leave suggestions and provide feedback. This is required behavior for all devs and jr-dev.
 
 **IMPORTANT!: be open to receive feedback and suggestions.**
 
-**See also**: [Achievement Design](Achievement-Design), it's an extensive guide on how to design good and interesting achievements. It's not about the technical side but the conceptual.
+**See also**: [Achievement Design](/development/design/), it's an extensive guide on how to design good and interesting achievements. It's not about the technical side but the conceptual.
 
 
 
@@ -28,18 +26,18 @@ Post your plans on the official game's forum topic, so the community can leave s
 
 Every developer must know at least the basic concepts and techniques shown in these two docs:
 
-1. [Getting Started as an Achievement Developer](Getting-Started-as-an-Achievement-Developer)
-2. [Achievement Logic Features](Achievement-Logic-Features)
+1. [Getting Started as an Achievement Developer](/development/getting-started-as-an-achievement-developer/)
+2. [Achievement Logic Features](/development/logic-features-home/)
 
 Any aspiring dev must demonstrate understanding of the following concepts:
 
-- Basic RAM digging (be familiar with the [Memory Inspector](Memory-Inspector-Overview))
-- [Hexadecimal notation](Memory-Inspector-Overview#decimal-binary-and-hexadecimal-notations)
-- [Delta values](Delta-Values)
-- [Hit counts](Hit-Counts)
-- [Pause If](PauseIf-Flag)
-- [Reset If](ResetIf-Flag)
-- [Alt Groups](Alt-Groups)
+- Basic RAM digging (be familiar with the [Memory Inspector](/development/memory-inspector-overview/))
+- [Hexadecimal notation](/development/memory-inspector-overview/#decimal-binary-and-hexadecimal-notations)
+- [Delta values](/development/delta-values/)
+- [Hit counts](/development/hit-counts/)
+- [Pause If](/development/pauseif/)
+- [Reset If](/development/resetif/)
+- [Alt Groups](/development/alt-groups/)
 - Memory sizes: [8-bit](Memory-Inspector-Overview#8-bit-mode) and [single bit](Memory-Inspector-Overview#single-bits)
 - Achievement logic comparisons besides ``=``, such as ``>``, ``<``, ``!=``
 - [Adding badges to an achievment](How-to-contribute-if-you-are-not-a-developer#make-badges-for-achievements)
