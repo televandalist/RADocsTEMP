@@ -49,7 +49,10 @@ Any developer wanting to revise a set need to:
 ### No Need for Approval
 
  - Making changes to an achievement or to an achievement set where you are the original author and no other developer has revised it; it is still a good idea to post the plan for your changes in the forum. 
- - Resolving tickets or bugs on achievements made by developers who are listed as **inactive** in the [list of developers](https://retroachievements.org/developerstats.php). In these cases you're only allowed to fix the achievement to match the description; do not change the intention of the achievement without going through the revision process above. If you find a problem with an achievement that has an **active developer** either create a ticket or contact them to assist in resolution.
+  - Resolving tickets or bugs on achievements made by developers who are listed as **inactive** in the [list of developers](https://retroachievements.org/developerstats.php). 
+    - Changing the description to clarify or correct it to match the logic that is already present does NOT require a revision vote
+    - Altering the achievement's objective in any way DOES require a revision vote as always.
+In these cases you're only allowed to fix the achievement to match the description; do not change the intention of the achievement without going through the revision process above. If you find a problem with an achievement that has an **active developer** either create a ticket or contact them to assist in resolution.
  - Adding battery save, cheat code, or password protections to achievements where the developer is **inactive**. (be sure to properly test your changes). If they are **active**, either create a ticket or contact them to assist applying the improvements.
  - Fixing misspellings, grammatical errors, and other typos in the achievement names or descriptions. In some cases, these are intentional, so be sure to make note of it in the forum. 
  - Making updates to game page information and title / screenshot / box art images.

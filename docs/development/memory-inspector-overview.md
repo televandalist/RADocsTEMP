@@ -21,7 +21,7 @@ The `Reset` button clears out any previously captured results (part 3 of the dia
 
 Filters the memory state in an attempt to locate a specific memory address.
 
-The first drop down allows you to specify the comparison to use. The second drop down is what you're comparing against. Most of the time you're going to be filtering on `!= Last Value`, which eliminates any results where the memory has changed.
+The first drop down allows you to specify the comparison to use. The second drop down is what you're comparing against. Most of the time you're going to be filtering on `!= Last Value`, which eliminates any results where the memory has not changed.
 
 The available comparisons are:
 

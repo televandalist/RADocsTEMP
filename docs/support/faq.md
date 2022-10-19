@@ -50,9 +50,11 @@ Here's an example of RAGens, playing Streets of Rage 2. You will see two leaderb
 
 ## What is HARDCORE mode?
 
-HARDCORE mode is an additional feature to separate out the good gamers from the great gamers: HARDCORE mode disables **all** savestate ability in the emulator: you would not be able to save and reload at any time. You would have to complete the game and get the achievements first time, just like it were on the original console. In reward for this, you will earn both the standard and the HARDCORE achievement, in effect earning double points! A regular game worth 400 points, is now worth 800 if you complete it fully on HARDCORE! For example: if you complete the game fully for 400 points, you then have the opportunity to earn another 400 on HARDCORE.
+If you want to have a one-to-one replication of how you used to play retro games in the distant past, then HARDCORE mode is what you are looking for. This feature restricts the player from ever loading save states (creating them is allowed for practice/ticket purposes when not playing on HARDCORE), using cheats, and any speed-altering features like rewinding, slow-motion, and advancing the game one frame at a time by using the emulator's built-in functions. Note that the only exception to altering speed is fast-forward which IS allowed. Basically, you are playing the game without the game-altering enhancements emulators come with.
 
-**Note**: If you want to play with the HARDCORE mode disabled (also known as "softcore"), expect to have some issues. Read in [this link Why you shouldn't use the load state feature](Why-you-shouldn't-use-the-load-state-feature).
+While you will still be able to get achievements in Softcore, playing on HARDCORE mode is the only way to earn a Mastery for a game, displaying your skill- and prowess to your fellow retro achievers and competitors by showing up on the game's page as a master of the game, as well as on the main leaderboard. Playing on HARDCORE will also allow you to set times, scores or participate in miscellaneous challenges on game-specific leaderboards.
+
+**Note**: If you want to play with the HARDCORE mode disabled (also known as "Softcore"), expect to have some issues. Read in [this link Why you shouldn't use the load state feature](Why-you-shouldn't-use-the-load-state-feature).
 
 
 
@@ -198,9 +200,10 @@ The total number of requests are tallied and displayed on the [Most Requested Se
 The number of requests available to a user is determined as follows:
 
 - 1 for every year you've had your account
-- 1 for reaching 2500, 5k, 10k, 15k, 20k
-- 1 for every 10k from 20k-180k
-- 1 for every 20k thereafter
+- 1 for reaching 1250, 2500, 5k, 7500, 10k
+- 1 for every 5k from 10k-100k
+- 1 for every 10k thereafter
+- *Softcore points will count requests up to 10k points for a total of 5
 
 **Note**: All achievement developers are volunteers, requesting a set gives no guarantee that achievements will be made.  The purpose of the request feature is to give developers visibility to what players want most.  You might also consider making achievement suggestions on a game's forum page to help get a set off the ground.
 

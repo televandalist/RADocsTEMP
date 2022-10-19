@@ -20,6 +20,10 @@
 * libretro core: **FinalBurn Neo** (supported)
     - Some boards may not be fully exposed
 
+#### Arcadia 2001
+* Standalone emulator: **[WinArcadia](https://amigan.1emu.net/releases/)**
+    - Support is currently in progress.
+
 #### Arduboy
 * libretro core: **Arduous** (supported)
 
@@ -77,6 +81,11 @@
 * Standalone emulator: **[RAMeka](https://retroachievements.org/download.php#rameka)**
 * libretro core: **blueMSX** (supported)
 
+#### Elektor TV Games Computer
+* Standalone emulator: **[WinArcadia](https://amigan.1emu.net/releases/)**
+    - Support is currently in progress.
+    - TVGC may be scrapped in favor of Interton VC 4000.
+
 #### Fairchild Channel-F
 * libretro core: **FreeChaF** (supported)
 
@@ -127,6 +136,10 @@
 * libretro core: **FreeIntV** (supported)
     - Crashes when game is reset
     - Some crashes which might be related to Intellivoice
+
+#### Interton VC 4000
+* Standalone emulator: **[WinArcadia](https://amigan.1emu.net/releases/)**
+    - Support is currently in progress.
 
 #### J2ME
 * _Not supported_ - needs console ID, hashing method and memory map
@@ -240,11 +253,12 @@
 * libretro core: **SwanStation** (supported)
 
 #### PlayStation 2
-* _Not supported_ - RPCSX2 experimenting with integration
-* libretro core: **PCSX2**
+* Standalone emulator: **[PCSX2](https://pcsx2.net/)**
+    - PCSX2 is currently **the only officially supported** option for earning achievements.
+* libretro core: **PCSX2** - not supported
     - Still in alpha state
     - Does not expose memory
-* libretro core: **play**
+* libretro core: **play** - not supported
     - Low compatibility with most commerical games
     - Black screen with stuttering sound
 

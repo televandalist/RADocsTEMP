@@ -15,7 +15,6 @@ In the [Real Examples](Real-Examples) section there are two examples good exampl
 
 - [Using Hit Counts as a Timer](Using-Hit-Counts-as-a-Timer)
 - [Using Delta Values and Hit Counts to Detect an Increment](Using-Delta-Values-and-Hit-Counts-to-Detect-an-Increment)
-- [Simple Example of How to Avoid Load State Abusing](Simple-Example-of-How-to-Avoid-Load-State-Abusing)
 
 ### Effect of Resetting the Emulator
 

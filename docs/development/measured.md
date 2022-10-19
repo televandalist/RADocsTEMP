@@ -1,5 +1,7 @@
 `Measured` marks a condition for tracking progress. It adds a progress bar to the achievement overlay to inform the user how close they are to completing an achievement. As the user expects an achievement to trigger when the progress bar is full, it is expected that any other conditions in the achievement should be true most of the time.
 
+`Measured` should not be used to track things that are clearly visible to the user. If you have an achievement for getting 500,000 points, you don't need to Measure it if the score is displayed on the screen. Similarly, there's no need to use `Measured` in an achievement for having 100 of something in the inventory if the player can see a count of how many they have just by opening the inventory.
+
 If placed on a condition with a required [HitCount](Hit-Counts), the target value is the required HitCount and the current value is the current HitCount. [`AddHits`](AddHits-and-SubHits-Flag) can be used.
 
 If placed on a condition without a HitCount, the target value is the constant on the right side of the condition and the current value is the evaluation of the left side of the condition. [`AddSource`](AddSource-Flag) and [`SubSource`](SubSource-Flag) can be used.
