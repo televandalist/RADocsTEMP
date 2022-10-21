@@ -20,8 +20,7 @@ nav:
       - Badge Event Creation Policy: 'guidelines/badge-event-creation-policy.md'
     - 'Developers':
       - Developer Code of Conduct: 'guidelines/dev-coc.md'
-      - DevCoC FAQ: 'guidelines/dev-coc-faq.md'
-      - New Achievement Set Checklist: 'guidelines/new-achievement-set-checklist.md'      
+      - DevCoC FAQ: 'guidelines/dev-coc-faq.md'      
       - Achievement Set Requirements: 'guidelines/achievement-set-requirements.md'
       - Achievements for ROM Hacks: 'guidelines/achievements-for-rom-hacks.md'      
       - Revision Guidelines: 'guidelines/revision-guidelines.md'
