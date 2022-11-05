@@ -2,7 +2,7 @@ This document covers developers' rights, responsibilities, and rules for fair pl
 
 **If you are not a dev, check [how to become a developer](/development/how-to-become-an-achievement-developer/).**
   
-**See Also**: [Users Code of Conduct](/guidelines/user-coc).
+**See Also**: [Users Code of Conduct](/guidelines/users/user-coc.md).
 
 ## Golden Rules
 

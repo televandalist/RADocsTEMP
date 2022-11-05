@@ -88,7 +88,7 @@ If you've been banned and want to appeal to have your account access back, pleas
 
 ## Cheating
 
-Check the [Global Leaderboard and Achievement Hunting Rules](/guidelines/Global-Leaderboard-and-Achievement-Hunting-Rules).
+Check the [Global Leaderboard and Achievement Hunting Rules](global-leaderboard-and-achievement-hunting-rules.md).
 
 
 ## FAQ
