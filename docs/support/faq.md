@@ -347,7 +347,7 @@ In general, a player must unlock achievements:
 5. without using another player’s save file, and;
 6. without using outside cheat programs.
 
-If this is not clear enough and you need an in-depth ruleset to understand what is cheating, check the [Global Leaderboard and Achievement Hunting Rules](Global-Leaderboard-and-Achievement-Hunting-Rules).
+If this is not clear enough and you need an in-depth ruleset to understand what is cheating, check the [Global Leaderboard and Achievement Hunting Rules](/guidelines/users/global-leaderboard-and-achievement-hunting-rules.md).
 
 We live by an honor code most of all. If you find an evidence of a cheater, send the evidence to [RAdmin](https://retroachievements.org/User/RAdmin) or email to [RAmodmail@gmail.com](mailto:RAmodmail@gmail.com).
 
