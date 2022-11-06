@@ -30,11 +30,11 @@ nav:
       - Ticket Handling: 'guidelines/devs/ticket-handling.md'
       - Unwelcome Concepts: 'guidelines/devs/unwelcome-concepts.md'
     - 'Game Entries':
-      - Creating an Entry: 'guidelines/entry-mgmt/creating-entries.md'
-      - Working with the Right ROM: 'guidelines/entry-mgmt/working-with-the-right-rom.md'
-      - Hash Labels: 'guidelines/entry-mgmt/hashlabels.md'
-      - RAPatches: 'guidelines/entry-mgmt/rapatches.md'
-      - Compatibility Testing: 'guidelines/entry-mgmt/compatibility-testing.md'
+      - Creating an Entry: 'guidelines/creating-entries.md'
+      - Working with the Right ROM: 'guidelines/working-with-the-right-rom.md'
+      - Hash Labels: 'guidelines/hashlabels.md'
+      - RAPatches: 'guidelines/rapatches.md'
+      - Compatibility Testing: 'guidelines/compatibility-testing.md'
   - 'Development':
     - Developers Home: 'development/devs-home.md'
     - 'Getting Started':
