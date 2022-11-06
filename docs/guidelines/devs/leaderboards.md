@@ -1,4 +1,4 @@
-## Editing Leaderboards
+# Editing Leaderboards
 
 1. Before making updates to a leaderboard,  you must backup each modified conditional line on the comment (if too long use Pastebin link)
 2. After editing a leaderboard, if you are fixing, adding, or removing entries, you must leave a comment about changes you have made and why.
