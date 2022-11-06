@@ -19,11 +19,15 @@ nav:
       - Manual Unlocks: 'guidelines/users/manualunlocks.md'
       - Badge Event Creation Policy: 'guidelines/users/badge-event-creation-policy.md'
     - 'Developer Code of Conduct':
-      - Developer Code of Conduct: 'guidelines/devs/dev-coc.md'
-      - DevCoC FAQ: 'guidelines/devs/dev-coc-faq.md'      
+      - Overview: 'guidelines/devs/dev-coc.md'
+      - Dev FAQ: 'guidelines/devs/dev-coc-faq.md'      
       - Achievement Set Requirements: 'guidelines/devs/achievement-set-requirements.md'
-      - Achievements for ROM Hacks: 'guidelines/devs/achievements-for-rom-hacks.md'      
+      - Achievements for ROM Hacks: 'guidelines/devs/achievements-for-rom-hacks.md'
+      - Claims: 'guidelines/devs/claims.md'
+      - Developer Status: 'guidelines/devs/dev-status.md'
+      - Leaderboards: 'guidelines/devs/leaderboards.md'
       - Revision Guidelines: 'guidelines/devs/revision-guidelines.md'
+      - Ticket Handling: 'guidelines/devs/ticket-handling.md'
       - Unwelcome Concepts: 'guidelines/devs/unwelcome-concepts.md'
     - 'Game Entries':
       - Creating an Entry: 'guidelines/entry-mgmt/creating-entries.md'
