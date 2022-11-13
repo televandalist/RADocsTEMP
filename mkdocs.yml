@@ -1,9 +1,9 @@
 site_name: RADocs
-site_url: 'https://pinguupinguu.github.io/RADocsTEMP/'
+site_url: 'https://docs.retroachievements.org/'
 site_description: >-
   RetroAchievements' documentation page.
-repo_name: 'pinguupinguu/RADocsTEMP'
-repo_url: 'https://github.com/pinguupinguu/RADocsTEMP'
+repo_name: 'televandalist/RADocsTEMP'
+repo_url: 'https://github.com/televandalist/RADocsTEMP'
 nav:
   - 'Home': 
     - Home: 'index.md'
