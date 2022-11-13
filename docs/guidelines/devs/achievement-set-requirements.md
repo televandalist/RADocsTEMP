@@ -8,11 +8,11 @@ Not abiding by the following guidelines can result in the achievements being dem
 4. Game images (Game Icon, Title Screen, Screenshot, and Box Art).
   - An exception to having no box art is if the game does not have official box art. If this is the case, you can either make one from a template or link it to the [hub for missing box art](https://retroachievements.org/game/10214).
 5. **Protection** for situations where the players can get achievements without effort, such as:
-  - Demo mode
-  - In-game cheat codes
-  - Battery saves
-  - Passwords
-  *See also*: [Achievement Templates](/development/achievement-templates/) and [Achievement Creation Tutorials](/development/achievement-creation-tutorials/) for some well known protection techniques.
+	  - Demo mode
+	  - In-game cheat codes
+	  - Battery saves
+	  - Passwords
+	  *See also*: [Achievement Templates](/development/achievement-templates/) and [Achievement Creation Tutorials](/development/achievement-creation-tutorials/) for some well known protection techniques.
 
 ### Recommended, but not required
 
