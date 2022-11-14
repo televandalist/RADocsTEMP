@@ -1,4 +1,4 @@
-A `Prior` value is the previous value at an address. It is similar to [Delta](Delta-Values), except it's only updated when the current values changes, whereas Delta is updated every frame.
+A `Prior` value is the previous value at an address. It is similar to [Delta](/development/delta-values/), except it's only updated when the current values changes, whereas Delta is updated every frame.
 **Note**: when you use `Prior` it is implicit that you are referring to an address and not a value.
 
 Examples of how it can be used:

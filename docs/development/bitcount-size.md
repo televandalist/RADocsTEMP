@@ -16,9 +16,9 @@ AddSource Bit6 Mem 0x1234
 ```
 and would be true for `0x3F` (00111111), `0xDB` (11011011), `0xEE` (11101110), etc.
 
-Its most common use is counting collectibles for a [Measured|Measured Flag] condition.
+Its most common use is counting collectibles for a [Measured](/development/measured/) condition.
 
-It can be combined with other flags like [Delta|Delta Values].
+It can be combined with other flags like [Delta](/development/delta-values/).
 ```
 BitCount Mem 0x1234 != BitCount Delta 0x1234
 ```

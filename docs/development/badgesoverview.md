@@ -33,7 +33,7 @@ The style you choose for your designs is still up to you. You can break these ru
 ### Other Icon Design Tips
 
 - Browse the [games list](http://retroachievements.org/gameList.php), to find Icons that speak to you. Mimic and innovate on the style of your favorites.
-- Many of the [Badge creation tips](#badge-creation-guidelines-and-tips) apply here as well.
+- Many of the [Badge creation tips](/development/badgesoverview#badge-creation-guidelines-and-tips) apply here as well.
 
 #### Icon File and Size - Best Practices
 
@@ -52,11 +52,11 @@ To change a game icon first go to the game page and click on the Dev tools:
 Then click the choose file button highlighted. Find the file on your PC, and then press the submit button highlighted:  
 ![change game icon 2](/development/images/updatebutton.png)
 
-If a game has existing achievements, game icon changes need to go through [revision process](Achievement-Set-Revisions).
+If a game has existing achievements, game icon changes need to go through [revision process](/guidelines/devs/revision-guidelines/).
 
 ### Uploading game icons (non-Developer)
 
-Yes, you absolutely can, but they are subject to [revisions](Achievement-Set-Revisions). It will also be good to review the guidelines for [designing new game icons](#designing-new-game-icons---styling-guide).
+Yes, you absolutely can, but they are subject to [revisions](/guidelines/devs/revision-guidelines/).
 
 ### What happens to the image when you upload a game Icon
 
@@ -107,11 +107,11 @@ Or you can select a prefabricated image or find other images you've uploaded in 
 
 Upload ``.jpg``, ``.jpg`` or ``.gif`` file types. It's not entirely important how the file is formatted before uploading, but it is strongly recommended that it be square.
 
-If the game has existing badges review and follow the procedure for [Uploading Badges (Non-Developer)](#uploading-badges-non-developer).
+If the game has existing badges review and follow the procedure for [Uploading Badges (Non-Developer)](/development/badgesoverview#uploading-badges-non-developer).
 
 ### Making new Badges for existing achievements
 
-If you'd like to make improved badges for existing achievements, you can. Your images will go through the [revision process](Achievement-Set-Revisions), which will put your creations to a community vote.
+If you'd like to make improved badges for existing achievements, you can. Your images will go through the [revision process](/guidelines/devs/revision-guidelines/), which will put your creations to a community vote.
 
 Post all the new images you'd like to replace current ones in the [Icon Gauntlet Forum Topic](http://retroachievements.org/viewtopic.php?t=8064&o=0). Also post all the badges that the new images are meant to replace. They will be placed for a community review by as a single vote. After a community vote is complete if you are a dev you can replace the Badges or if you are not, ask for help in the #help-me channel on Discord or in the [Icon Gauntlet Forum Topic](http://retroachievements.org/viewtopic.php?t=8064&o=0).
 

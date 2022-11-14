@@ -19,7 +19,7 @@ Upper4        | `0xU`  | `0xU01234`
 16bit BE      | `0xI`  | `0xI01234`
 24bit BE      | `0xJ`  | `0xJ01234`
 32bit BE      | `0xG`  | `0xG01234`
-[BitCount](BitCount-Size) | `0xK`  | `0xK01234`
+[BitCount](/development/bitcount-size/) | `0xK`  | `0xK01234`
 Float         | `fF`   | `fF01234`
 MBF32         | `fM`   | `fM01234`
 
@@ -27,26 +27,26 @@ MBF32         | `fM`   | `fM01234`
 
 Modifier | Prefix | Example |
 :-------:|:------:|:-------:|
-[Delta](Delta-Values) | `d` | `d0xH1234`
-[Prior](Prior-Values) | `p` | `p0xH1234`
-[BCD](Value-Definition#binary-coded-decimal) | `b` | `b0xH1234`
-[Invert](Value-Definition#binary-inversion) | `~` | `~0xH1234`
+[Delta](/development/delta-values/) | `d` | `d0xH1234`
+[Prior](/development/prior-values/) | `p` | `p0xH1234`
+[BCD](/development/value-definition#binary-coded-decimal) | `b` | `b0xH1234`
+[Invert](/development/value-definition#binary-inversion) | `~` | `~0xH1234`
 
 ### Logical Flags
 
 Flag | Prefix | Example   |
 :---:|:------:|:---------:|
-[ResetIf](ResetIf-Flag) | `R:` | `R:0xH1234=1`
-[ResetNextIf](ResetNextIf-Flag) | `Z:` | `Z:0xH1234=1`
-[PauseIf](PauseIf-Flag) | `P:` | `P:0xH1234=1`
-[AndNext](AndNext-and-OrNext-Flags) | `N:` | `N:0xH1234=1`
-[OrNext](AndNext-and-OrNext-Flags) | `O:` | `O:0xH1234=1`
-[AddSource](AddSource-Flag) | `A:` | `A:0xH1234=1`
-[SubSource](SubSource-Flag) | `B:` | `B:0xH1234=1`
-[AddHits](AddHits-and-SubHits-Flag) | `C:` | `C:0xH1234=1`
-[SubHits](AddHits-and-SubHits-Flag) | `D:` | `D:0xH1234=1`
-[AddAddress](AddAddress-Flag) | `I:` | `I:0xH1234=1`
-[Measured](Measured-Flag) | `M:` | `M:0xH1234=1`
-[Measured%](Measured-Flag) | `G:` | `G:0xH1234=1`
-[MeasuredIf](Measured-Flag) | `Q:` | `Q:0xH1234=1`
-[Trigger](Trigger-Flag) | `T:` | `T:0xH1234=1`
+[ResetIf](/development/resetif/) | `R:` | `R:0xH1234=1`
+[ResetNextIf](/development/resetnextif/) | `Z:` | `Z:0xH1234=1`
+[PauseIf](/development/pauseif/) | `P:` | `P:0xH1234=1`
+[AndNext](/development/andnext-ornext/) | `N:` | `N:0xH1234=1`
+[OrNext](/development/andnext-ornext/) | `O:` | `O:0xH1234=1`
+[AddSource](/development/addsource/) | `A:` | `A:0xH1234=1`
+[SubSource](/development/subsource/) | `B:` | `B:0xH1234=1`
+[AddHits](/development/addhits-subhits/) | `C:` | `C:0xH1234=1`
+[SubHits](/development/addhits-subhits/) | `D:` | `D:0xH1234=1`
+[AddAddress](/development/addaddress/) | `I:` | `I:0xH1234=1`
+[Measured](/development/measured/) | `M:` | `M:0xH1234=1`
+[Measured%](/development/measured/) | `G:` | `G:0xH1234=1`
+[MeasuredIf](/development/measured/) | `Q:` | `Q:0xH1234=1`
+[Trigger](/development/trigger/) | `T:` | `T:0xH1234=1`

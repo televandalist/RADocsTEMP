@@ -33,7 +33,7 @@ Finally, the **Value** (**VAL**) is a special case, and will be taken from memor
 
 NOTE: Once an active leaderboard is cancelled or submitted, it cannot be reactivated until the **Start** condition becomes false, then true again. This prevents the leaderboard from immediately reactivating after submission/cancel.
 
-**Pro-tip:** **STA**, **CAN**, and **SUB** support all logic available in the [achievement editor](Achievement-Logic-Features). The easiest way to make sure you get them written correctly is to create local achievements that capture the events, then use the `Copy Def` button to copy the achievement definition to the clipboard so you can paste it into the editor on the website.
+**Pro-tip:** **STA**, **CAN**, and **SUB** support all logic available in the [achievement editor](/development/logic-features-home/). The easiest way to make sure you get them written correctly is to create local achievements that capture the events, then use the `Copy Def` button to copy the achievement definition to the clipboard so you can paste it into the editor on the website.
 
 ## Address Format
 
@@ -121,7 +121,7 @@ The value condition is special in a few ways. It is evaluated constantly and sho
 
 There is also a symbol which only works in this field. Connecting two value conditions with `$` will cause only the one with the highest value to be used.
 
-Many games use [Binary Coded Decimal](Rich-Presence#binary-coded-decimal-bcd) to encode scores. You can have the runtime decode BCD values by putting a `b` prefix in front of the memory reference (i.e. `b0xW1234`)
+Many games use [Binary Coded Decimal](/development/rich-presence#binary-coded-decimal-bcd) to encode scores. You can have the runtime decode BCD values by putting a `b` prefix in front of the memory reference (i.e. `b0xW1234`)
 
 #### Value from Measured
 
@@ -178,7 +178,7 @@ To add a constant, use `_vN` where N is the constant in decimal (i.e. `_v10`) wi
 
 ### Value Format
 
-'Format' can be any of the available [formats](Rich-Presence#format), but the editor currently only provides **Score**, **Time (Frames)**, **Time (Milliseconds)** and **Value**. **Time (Frames)** is the most common one, and represents a time derived from a value that increments every frame. It does this by multiplying by 100 (to convert to hundredths of a second) and dividing by 60 (the number of frames per second).
+'Format' can be any of the available [formats](/development/rich-presence#format), but the editor currently only provides **Score**, **Time (Frames)**, **Time (Milliseconds)** and **Value**. **Time (Frames)** is the most common one, and represents a time derived from a value that increments every frame. It does this by multiplying by 100 (to convert to hundredths of a second) and dividing by 60 (the number of frames per second).
 
 **NOTE**: If you're using a system that doesn't run at 60Hz, you have to use "Time (millisecs)" and multiply by some value to do the conversion yourself (50Hz = `*2` [100/50], 60Hz = `*1.666666` [100/60], 75Hz =`*1.333333` [100/75]).
 

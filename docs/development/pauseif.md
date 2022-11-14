@@ -1,6 +1,6 @@
 The `PauseIf` can be chosen in the Flag column of the Achievement Editor.
 
-While true, the `PauseIf` pauses activity for most conditions **in the same group**. It *does not* pause conditions in other groups (more about [Alt Groups](Alt-Groups) below).
+While true, the `PauseIf` pauses activity for most conditions **in the same group**. It *does not* pause conditions in other groups (more about [Alt Groups](/development/alt-groups/) below).
 
 **Note**: Keep in mind that `PauseIf` has priority over a `ResetIf` condition! In other words **`ResetIf` won't work while a `PauseIf` is active in the same group**.
 

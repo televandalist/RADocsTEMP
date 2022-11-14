@@ -26,7 +26,7 @@ As long as the player is on stage. The core group is true. If the player looks u
 
 - No matter how many ``Alt groups`` an achievement has, if the Core group is true, only one Alt has to be true for the achievement to trigger.
 
-- When using [ResetIf](#resetif) and [PauseIf](#pauseif), PauseIf only pauses the group that it's in, but ResetIf resets hit counts in all groups and prevents achievements from triggering so long as the reset is active.
+- When using [ResetIf](/development/resetif/) and [PauseIf](/development/pauseif/), PauseIf only pauses the group that it's in, but ResetIf resets hit counts in all groups and prevents achievements from triggering so long as the reset is active.
 
 ## Using Alt Groups for Conditional Resets
 

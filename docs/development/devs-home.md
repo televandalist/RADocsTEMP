@@ -1,4 +1,4 @@
-Every Developer must know and adhere the [Developer's Code of Conduct](/guidelines/dev-coc/).
+Every Developer must know and adhere the [Developer's Code of Conduct](/guidelines/devs/dev-coc/).
 
 Now a brief description some pages you'll see in this section.
 
