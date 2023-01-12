@@ -9,8 +9,11 @@
 - [Resolve tickets](/guidelines/dev-coc/#handling-tickets) and leave notes each time you do.
 - Like a wiki, once you publish your work, you are giving it over to the community to be [reviewed and reworked over time](/guidelines/dev-coc/#achievement-ownership).
 
+## Changing Accounts
 
-### Inactivity
+If a user with either Developer or Jr. Developer status changes accounts, achievements and tickets under the old account will be re-authored and reassigned to the new account.
+
+## Inactivity
 
 If a user is inactive as a developer for 6 months or inactive overall for 3 months, their developer status will expire and their account type will be set to `[Registered]`. It is important for developers to remember that this is **NOT** a punishment and is only done for security reasons!
 
@@ -20,11 +23,11 @@ If **all of the following** are true for at least 6 months, then a user will be 
 - Has not performed maintenance on existing sets (revisions, rescores, badge changes, etc.)
 - Has not resolved, closed, or otherwise addressed any open tickets, theirs or otherwise.
 
-### Negligence
+## Negligence
 
 Alternatively, developer status will be removed if the developer has 10 or more tickets that are at least 2 months old. If the developer has any active claims during this period, they will be given an additional 30 days or until the earliest claim renewal (whichever comes first) to resolve all 10 tickets. Not doing so will result in the developer falling into inactive status and the claim(s) being released.
 
-### Reinstatement
+## Reinstatement
 
 If a user's developer status was removed due to inactivity and they wish to have it reinstated, they must contact Dev-Compliance. However, before doing so, it is recommended to review any changes that were made to the Developer Code of Conduct, updates to the achievement creation tools, and have a plan to address open tickets for their achievements, if applicable.
 
