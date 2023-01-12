@@ -175,8 +175,8 @@ In the [Collecting an Item N times](#collecting-an-item-n-times) we are counting
 
 The technique used here relies on two other ones:
 
-- [using `SubSource` to count specific increments](SubSource-Flag#using-subsource-to-count-increments)
-- [`AddHits` Flag](AddHits-and-SubHits-Flag)
+- [using `SubSource` to count specific increments](/development/subsource#using-subsource-to-count-increments)
+- [`AddHits` Flag](/development/addhits-subhits/)
 
 Here's the trick:
 
@@ -187,7 +187,7 @@ ID | Special? | Type | Memory   | Cmp | Type  | Mem/Val | Hits
  3 |          | Mem  | 0xCOUNT  | >   | Delta | 0xCOUNT | (N)
  4 | ResetIf  | Mem  | 0xLIVES  | <   | Delta | 0xLIVES |
 
-It can looks a bit confusing at a first sight, but maybe using a real example it can be more clear. Check the [Circumvent the Problem of a Counter Incrementing Twice in the Same Frame](Circumvent-the-Problem-of-a-Counter-Incrementing-Twice-in-the-Same-Frame).
+It can looks a bit confusing at a first sight, but maybe using a real example it can be more clear. Check the [Circumvent the Problem of a Counter Incrementing Twice in the Same Frame](/development/achievement-creation-tutorials#circumvent-the-problem-of-a-counter-incrementing-twice-in-the-same-frame).
 
 
 ## Check for a specific value changing to another specific value ten times

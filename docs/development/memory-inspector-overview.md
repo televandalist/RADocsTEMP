@@ -1,6 +1,6 @@
 Here is an overview of the **Memory Inspector** and its features. This tool can be found on "RetroAchievements" menu on any emulator integrated with RA.
 
-**See also**: [Memory Digging Tips](Tips-and-Tricks#memory-digging-tips).
+**See also**: [Memory Digging Tips](/development/tips-and-tricks/).
 
 ## Memory Inspector Dialog
 

@@ -5,8 +5,7 @@ Examples of how it can be used:
 - Detect if the level has been increased: `level > delta level`. It means "current level  is greater than the previous frame's level".
 - Detect damage: `health < delta health`. It means "current health is smaller than the previous frame's health". Or you can just make the previous frame's value a requirement. `health delta = 1` means "the previous frame's value for health must be 1 when the achievement pops up."
 
-In the [Real Examples](Real-Examples) section there are some good examples:
+In the [Achievement Creation Tutorials](/development/achievement-creation-tutorials/) section there are some good examples:
 
-- [Using Hit Counts as a Timer](Using-Hit-Counts-as-a-Timer)
-- [Using Delta Values and Hit Counts to Detect an Increment](Using-Delta-Values-and-Hit-Counts-to-Detect-an-Increment)
-- [Simple Example of How to Avoid Load State Abusing](Simple-Example-of-How-to-Avoid-Load-State-Abusing)
+- [Using Hit Counts as a Timer](/development/achievement-creation-tutorials#using-hit-counts-as-a-timer)
+- [Using Delta Values and Hit Counts to Detect an Increment](/development/achievement-creation-tutorials#using-delta-values-and-hit-counts-to-detect-an-increment)

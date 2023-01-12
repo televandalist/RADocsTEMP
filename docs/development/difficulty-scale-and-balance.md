@@ -1,6 +1,6 @@
 This doc has some suggestions about difficulty, set balance and on keeping a set fun, approachable, and challenging. What you're going to see here are not rules, just suggestions.
 
-**Note**: be aware of [Developers Code of Conduct](Developers-Code-of-Conduct)
+**Note**: be aware of [Developers Code of Conduct](/guidelines/devs/dev-coc/)
 
 ## Difficulty Scale:
 
@@ -49,11 +49,11 @@ Some achievements can give much fun to the player when they are like a meta-game
 
 Some notable examples:
 
-- **[Fabulous ComboFabulous Combo (15)](http://retroachievements.org/achievement/8939)** - it turns the game into a puzzle game, completing this can be really satifying
+- **[Fabulous Combo](http://retroachievements.org/achievement/8939)** - it turns the game into a puzzle game, completing this can be really satifying
 
-- **[Swordless Adventurer (20)](http://retroachievements.org/achievement/33775)** - with no sword you are forced to rethink the entire game. You can discover how useful all the subweapons are. Very fun!
+- **[Swordless Adventurer](http://retroachievements.org/achievement/33775)** - with no sword you are forced to rethink the entire game. You can discover how useful all the subweapons are. Very fun!
 
-- **[There Are No Bullets in the Energy Zone (10)](http://retroachievements.org/achievement/6770)** - pacifist challenges, when possible force a lot more agility from the player and break old habits. Very fun!
+- **[There Are No Bullets in the Energy Zone](http://retroachievements.org/achievement/6770)** - pacifist challenges, when possible force a lot more agility from the player and break old habits. Very fun!
 
 
 

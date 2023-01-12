@@ -83,7 +83,7 @@ A macro converts a value into a user-friendly string. Macros are placed within a
 
 `@Macro(0xh1234)` says read the byte at $1234, transform it using the `Macro` macro, and place the result in the display string where the macro had been.
 
-Parameters for each macro are constructed using a [value definition](Value-Definition).
+Parameters for each macro are constructed using a [value definition](/development/value-definition).
 
 ## Lookups 
 
@@ -210,7 +210,7 @@ The conditional phrase supports all of the previously mentioned address accessor
 
     if the 8-bit value at $1234 is 32 _and_ the 8-bit value at $5678 is 33 _and_ the 8-bit value at $2345 is 1 _or_ 2, display `and/or example`
 
-**Pro-tip:** Conditions can be created using the [achievement editor](Achievement-Logic-Features). Once you have your condition defined, use the `Copy Def` button to copy the achievement definition to the clipboard so you can paste it into the rich presence script.
+**Pro-tip:** Conditions can be created using the [achievement editor](/development/logic-features-home/). Once you have your condition defined, use the `Copy Def` button to copy the achievement definition to the clipboard so you can paste it into the rich presence script.
 
 ## Limits
 
@@ -232,7 +232,7 @@ The conditional phrase supports all of the previously mentioned address accessor
 
 ### Value Properties
 
-When using lookup and format objects `@object()` it's possible to combine and perform calculations. Macro values support everything that [leaderboard values](Leaderboards#value) support, so you can use multiplication, addition, and even some logic to generate values that aren't directly available in memory.
+When using lookup and format objects `@object()` it's possible to combine and perform calculations. Macro values support everything that [leaderboard values](/development/leaderboards#value) support, so you can use multiplication, addition, and even some logic to generate values that aren't directly available in memory.
 
 **Example**
 `@Score(0xh28*10_0xh29*1000_0xh26*100000) points` 

@@ -14,7 +14,7 @@ Here's a list of known issues (feel free to report new issues if you find one): 
 
 ## Installation Instructions
 
-Just download RALibretro from the [Downloads page](Downloads) and unzip it.
+Just download RALibretro from the [Downloads page](https://retroachievements.org/download.php) and unzip it.
 
 
 ## Basic Usage

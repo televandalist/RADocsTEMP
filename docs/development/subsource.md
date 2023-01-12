@@ -8,7 +8,7 @@ Works similarly to `Add Source`, but the `Sub Source` flag makes the value in th
 
 **Note 2**: The final line (without `Add Source` or `Sub Source`) is still **added** for the final comparison. 
 
-Using that [`AddSource` usecase example](AddSource-Flag), if we replaced it with the `Sub Source` and with the same values (`value(0x8010) = 1` and `value(0x8020) = 2`), the comparison would be `-1 + 2 > 0`, or `1 > 0`.
+Using that [`AddSource` usecase example](/development/addsource/), if we replaced it with the `Sub Source` and with the same values (`value(0x8010) = 1` and `value(0x8020) = 2`), the comparison would be `-1 + 2 > 0`, or `1 > 0`.
 
 ## Using SubSource to Count Specific Increments
 
