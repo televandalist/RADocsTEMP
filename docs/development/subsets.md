@@ -8,8 +8,7 @@ _Advanced Developer Topic_
   - [DLC and Expansions](#dlc-and-expansions)
   - [Regional Differences](#regional-differences)
 - [Naming Schemes](#naming-schemes)
-- [Claims](#claims)
-- [Approval](#approval)
+- [Approval and Claims](#approval-and-claims)
 - [How Do I Create a Subset?](#how-do-i-create-a-subset)
 - [To Do](#to-do)
 
@@ -54,13 +53,18 @@ To prevent players from getting confused, there is a specific naming scheme requ
 - **Challenge Runs**: Must have `[Subset - Challenge Name/Type]` following the base game title. For example: `Chrono Trigger [Subset - No Level Up]` and `Pocket Monsters Midori [Subset - Monotype Challenge]`
 - **DLC and Expansions**: Must have `[Subset - DLC/Expansion Name` following the base game title. For example: `Return Fire - [Subset - Maps o' Death]` and `F-Zero X [Subset - Expansion Kit]`
 
-## Claims
-A developer does not need to claim an approved Subset if they are the sole author of the base set. If the developer is *not* the sole author of the base set, then they will need to post a plan in the forum and have it approved via revision voting. 
+## Approval and Claims
 
-If a junior developer wants to publish a Subset alongside a core set, they need to have their plan approved by code reviewers. 
+The approval process and claiming of a subset will vary depending on if the subset type is pre-approved, your involvement with the base set, and whether or not you're a full developer or a junior developer:
 
-## Approval
-The following are types of Subsets that are approved by default:
+| Authorship of Base Set | Approval and Claiming Process |
+| :---: | --- |
+| Sole Author | • Subset must be approved by Developer Compliance ¹<br> • Does not require a plan and revision vote<br> • Considered a free claim ² |
+| Collaborative Author | • Subset must be approved by Developer Compliance ¹<br> • All active authors of the set must agree.<br> • Does not require a plan and revision vote<br> • Considered a free claim ² |
+| None | • Subset must be approved by Developer Compliance ¹<br> • If approved, a set plan must be posted in the base set's forum topic and must go through revision voting.<br> • Is not considered a free claim |
+| Junior Developer | • An addition to the above cases, must first be approved by Code Reviewers. |
+
+¹ *The following are pre-approved subsets types and therefore do not require contacting Developer Compliance:*<br>
 - Bonus
 - Multi
 - DLC/Expansions
@@ -71,7 +75,7 @@ The following are types of Subsets that are approved by default:
 - Challenge Run: Checkpoint Challenges, such as Professor Oak Challenges
 - Challenge Run: Perma-Death Challenges, such as Nuzlocke Challenges
 
-Subsets that deviate from the above list, such as Rare Drops, will need to be approved by DevCompliance, which in turn may require a revision vote.
+² *For now, an admin must be contacted to set a claim to "free"*
 
 ## How Do I Create a Subset?
 In their current state, Subsets require a patch to modify the ROM. This ensures that the hash will be different so it can be linked to a separate entry. You should not use existing patches or alternate versions of the ROM since this can flag the hash when ran against existing DATs. In other words, the hash needs to be **unique**. 
