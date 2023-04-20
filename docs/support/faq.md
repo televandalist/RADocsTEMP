@@ -34,8 +34,6 @@
 - [How do I reset my password? (If I don't remember my password)](#how-do-i-reset-my-password-if-i-dont-remember-my-password)
 - [Will I have any privilege if I become a patron?](#will-i-have-any-privilege-if-i-become-a-patron)
 - [Is RetroAchievements profiting off of emulation?](#is-retroachievements-profiting-off-of-emulation)
-- [I was using the site and it crashed (403 error), what happened?](#i-was-using-the-site-and-it-crashed-403-error-what-happened)
-
 
 
 ## What is RetroAchievements.org?
@@ -370,7 +368,6 @@ On Site, front page, while not logged in:
 ![reset password](/support/images/reset-password.png)
 
 
-
 ## Will I have any privilege if I become a patron?
 
 On the website you'll have a badge to mean "I helped fund RA!". On the discord server you'll have access to a dedicated channel. Although **we are all immensely grateful for the contributions of the patrons**, there is no other bonus besides those ones.
@@ -380,26 +377,3 @@ Thanks to the [Patreon contributions](https://www.patreon.com/bePatron?u=5403777
 ## Is RetroAchievements profiting off of emulation?
 
 No. RetroAchievements is a community of devoted fans who want to pay tribute to their favorite games by creating and playing achievements! While we do accept donations through [Patreon](https://www.patreon.com/bePatron?u=5403777) all of the money donated is given to fund server expenses and keeping the website completely ad-free. All programmers, achievement creators and staff members give their time the betterment of the community at their own expense.
-
-## I was using the site and it crashed (403 error), what happened?
-
-It happened because you typed one of following words on the site:
-
-- select
-- union
-- update
-- delete
-- insert
-- table
-- from
-- ascii
-- hex
-- unhex
-- drop
-
-and also some special characters like "%" will cause it
-
-This is because the site lacks a proper framework, so in order to make the database safe the protection was added, removing ability to type those words.
-This issue is **temporary** and will be resolved when the site gets a proper framework later at some point.
-
-The best work around is to copy the text into clipboard before posting it, to ensure that you won't lose anything if it breaks.
